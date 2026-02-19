@@ -1,0 +1,1900 @@
+[
+  {
+    "slug": "(Don%27t_Fear)_The_Reaper",
+    "name": "(Don't Fear) The Reaper",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Johnny_Silverhand",
+        "name": "Johnny Silverhand"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Corpo_Plaza",
+        "name": "Corpo Plaza"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Arasaka_Tower_(Night_City)",
+        "name": "Arasaka Tower"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ]
+  },
+  {
+    "slug": "A_Cool_Metal_Fire",
+    "name": "A Cool Metal Fire",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Johnny_Silverhand",
+        "name": "Johnny Silverhand"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      },
+      {
+        "slug": "Downtown",
+        "name": "Downtown"
+      },
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Afterlife",
+        "name": "Afterlife"
+      },
+      {
+        "slug": "Ryder%27s_Clinic",
+        "name": "Ryder's Clinic"
+      },
+      {
+        "slug": "Empathy",
+        "name": "Empathy"
+      },
+      {
+        "slug": "Riot",
+        "name": "Riot"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Johnny%27s_aviators",
+        "name": "Johnny's aviators"
+      },
+      {
+        "slug": "Tattoo:_Johnny%27s_Special",
+        "name": "Tattoo: Johnny's Special"
+      },
+      {
+        "slug": "Tattoo:_Together_Forever",
+        "name": "Tattoo: Together Forever"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "A_Day_In_The_Life",
+    "name": "A Day In The Life",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "quest_givers": [
+      {
+        "slug": "Darrell_Zhou",
+        "name": "Darrell Zhou"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Arroyo",
+        "name": "Arroyo"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The_Manufactory",
+        "name": "The Manufactory"
+      }
+    ],
+    "xp": 2157,
+    "street_cred": 3235,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "A_Like_Supreme_(quest)",
+    "name": "A Like Supreme",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Johnny_Silverhand",
+        "name": "Johnny Silverhand"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Arroyo",
+        "name": "Arroyo"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Red_Dirt",
+        "name": "Red Dirt"
+      }
+    ],
+    "xp": 773,
+    "street_cred": 1158,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Archangel",
+        "name": "Archangel"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Second_Conflict_(quest)",
+        "name": "Second Conflict"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Rebel!_Rebel!",
+        "name": "Rebel! Rebel!"
+      }
+    ]
+  },
+  {
+    "slug": "Addicted_To_Chaos",
+    "name": "Addicted To Chaos",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Leon_Rinder",
+        "name": "Leon Rinder"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Dogtown",
+        "name": "Dogtown"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Terra_Cognita",
+        "name": "Terra Cognita"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Dezerter",
+        "name": "Dezerter"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Gig:_The_Man_Who_Killed_Jason_Foreman",
+        "name": "Gig: The Man Who Killed Jason Foreman"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "All_Along_the_Watchtower",
+    "name": "All Along the Watchtower",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Panam_Palmer",
+        "name": "Panam Palmer"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Badlands",
+        "name": "Badlands"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Laguna_Bend_Reservoir",
+        "name": "Laguna Bend Reservoir"
+      },
+      {
+        "slug": "Jackson_Plains",
+        "name": "Jackson Plains"
+      },
+      {
+        "slug": "Rattlesnake_Creek",
+        "name": "Rattlesnake Creek"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Coronado_Dam",
+        "name": "Coronado Dam"
+      },
+      {
+        "slug": "Solar_Arrays",
+        "name": "Solar Arrays"
+      },
+      {
+        "slug": "Rattlesnake_Smuggling_Tunnel",
+        "name": "Smuggling Tunnel"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Automatic_Love",
+    "name": "Automatic Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Goro_Takemura",
+        "name": "Goro Takemura"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Lizzie%27s_Bar",
+        "name": "Lizzie's Bar"
+      },
+      {
+        "slug": "Clouds",
+        "name": "Clouds"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Lizzie",
+        "name": "Lizzie"
+      },
+      {
+        "slug": "Cocktail_Stick",
+        "name": "Cocktail Stick"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Space_in_Between",
+        "name": "The Space in Between"
+      },
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      }
+    ]
+  },
+  {
+    "slug": "Baby_Let_Me_Take_You",
+    "name": "Baby Let Me Take You",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Muamar_Reyes",
+        "name": "Muamar Reyes"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Rancho_Coronado_(2077)",
+        "name": "Rancho Coronado"
+      },
+      {
+        "slug": "Corpo_Plaza",
+        "name": "Corpo Plaza"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Arasaka_Port",
+        "name": "Arasaka Port"
+      },
+      {
+        "slug": "Akuma",
+        "name": "Akuma"
+      }
+    ],
+    "xp": 500,
+    "street_cred": 300,
+    "eddies": 5000,
+    "items": [
+      {
+        "slug": "Herrera_Outlaw_%22Weiler%22",
+        "name": "Herrera Outlaw \"Weiler\""
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Just_Another_Story",
+        "name": "Just Another Story"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Balls_to_the_Wall",
+    "name": "Balls to the Wall",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Paco_Torres",
+        "name": "Paco Torres"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Dogtown",
+        "name": "Dogtown"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Black_Sapphire",
+        "name": "Black Sapphire"
+      }
+    ],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Carmen",
+        "name": "Carmen"
+      },
+      {
+        "slug": "Skill_Shard:_Solo",
+        "name": "Skill Shard: Solo"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Beat_on_the_Brat",
+    "name": "Beat on the Brat",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson (2077)"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China (2077)"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Megabuilding_H10",
+        "name": "Megabuilding H10"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": 50000,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Beat_on_the_Brat:_Arroyo",
+        "name": "Beat on the Brat: Arroyo"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Kabuki",
+        "name": "Beat on the Brat: Kabuki"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_The_Glen",
+        "name": "Beat on the Brat: The Glen"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Rancho_Coronado",
+        "name": "Beat on the Brat: Rancho Coronado"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Pacifica",
+        "name": "Beat on the Brat: Pacifica"
+      }
+    ]
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Arroyo",
+    "name": "Beat on the Brat: Arroyo",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Arroyo",
+        "name": "Arroyo"
+      }
+    ],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "O%27Five",
+        "name": "O'Five"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Kabuki",
+    "name": "Beat on the Brat: Kabuki",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": 4000,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Pacifica",
+    "name": "Beat on the Brat: Pacifica",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Grand_Imperial_Mall",
+        "name": "Grand Imperial Mall"
+      }
+    ],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": 64000,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Send_in_the_Clowns",
+        "name": "Send in the Clowns"
+      },
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Rancho_Coronado",
+    "name": "Beat on the Brat: Rancho Coronado",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Rancho_Coronado_(2077)",
+        "name": "Rancho Coronado"
+      }
+    ],
+    "locations": [],
+    "xp": 1919,
+    "street_cred": 2878,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Melee_Weapon_Vendor_(Animals)",
+        "name": "Animals Melee Weapon Vendor"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Beat_on_the_Brat:_The_Glen",
+    "name": "Beat on the Brat: The Glen",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Coach_Fred",
+        "name": "Coach Fred"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Heywood_(2077)",
+        "name": "Heywood"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "The_Glen",
+        "name": "The Glen"
+      }
+    ],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": 20000,
+    "items": [
+      {
+        "slug": "Villefort_Alvarado_%22Vato%22",
+        "name": "Villefort Alvarado \"Vato\""
+      },
+      {
+        "slug": "Eurodollar",
+        "name": "€$"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Belly_of_the_Beast",
+    "name": "Belly of the Beast",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Panam_Palmer",
+        "name": "Panam Palmer"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [],
+    "locations": [
+      {
+        "slug": "Arasaka_Tower_(Night_City)",
+        "name": "Arasaka Tower"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Forward_to_Death",
+        "name": "Forward to Death"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ]
+  },
+  {
+    "slug": "Big_in_Japan",
+    "name": "Big in Japan",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "quest_givers": [
+      {
+        "slug": "Dennis_Cranmer",
+        "name": "Dennis Cranmer"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Afterlife",
+        "name": "Afterlife"
+      },
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      },
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": 990,
+    "items": [
+      {
+        "slug": "Scalpel",
+        "name": "Scalpel"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Birds_with_Broken_Wings",
+    "name": "Birds with Broken Wings",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Solomon_Reed",
+        "name": "Solomon Reed"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Dogtown",
+        "name": "Dogtown"
+      },
+      {
+        "slug": "Coastview_(2077)",
+        "name": "Coastview"
+      },
+      {
+        "slug": "Arroyo",
+        "name": "Arroyo"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "The_Moth",
+        "name": "The Moth"
+      },
+      {
+        "slug": "Tranquil_Terrace",
+        "name": "Tranquil Terrace"
+      },
+      {
+        "slug": "Farida%27s_Clinic",
+        "name": "Farida's Clinic"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Nokota_NDI_Osprey",
+        "name": "Nokota NDI Osprey"
+      },
+      {
+        "slug": "Behavioral_Imprint-synced_Faceplate",
+        "name": "Behavioral Imprint-synced Faceplate"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "You_Know_My_Name",
+        "name": "You Know My Name"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "I%27ve_Seen_That_Face_Before",
+        "name": "I've Seen That Face Before"
+      }
+    ]
+  },
+  {
+    "slug": "Black_Steel_In_The_Hour_of_Chaos",
+    "name": "Black Steel In The Hour of Chaos",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Solomon_Reed",
+        "name": "Solomon Reed"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Dogtown",
+        "name": "Dogtown"
+      },
+      {
+        "slug": "West_Wind_Estate",
+        "name": "West Wind Estate"
+      }
+    ],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Somewhat_Damaged",
+        "name": "Somewhat Damaged"
+      }
+    ]
+  },
+  {
+    "slug": "Blistering_Love",
+    "name": "Blistering Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Johnny_Silverhand",
+        "name": "Johnny Silverhand"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      },
+      {
+        "slug": "North_Oak_(2077)",
+        "name": "North Oak"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Afterlife",
+        "name": "Afterlife"
+      },
+      {
+        "slug": "Silver_Pixel_Cloud",
+        "name": "Silver Pixel Cloud"
+      }
+    ],
+    "xp": 290,
+    "street_cred": 433,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Holdin%27_On",
+        "name": "Holdin' On"
+      }
+    ]
+  },
+  {
+    "slug": "Boat_Drinks",
+    "name": "Boat Drinks",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Kerry_Eurodyne",
+        "name": "Kerry Eurodyne"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Downtown",
+        "name": "Downtown"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Gold_Beach_Marina",
+        "name": "Gold Beach Marina"
+      },
+      {
+        "slug": "Highway_101",
+        "name": "Highway 101"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "V%27s_Apartment/Memorabilia",
+        "name": "Record player memorabilia"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Off_the_Leash_(quest)",
+        "name": "Off the Leash"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Both_Sides,_Now",
+    "name": "Both Sides, Now",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Judy_Álvarez",
+        "name": "Judy Álvarez"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Judy's_Apartment",
+        "name": "Judy's Apartment"
+      }
+    ],
+    "xp": 578,
+    "street_cred": 866,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      },
+      {
+        "slug": "M'ap_Tann_Pèlen",
+        "name": "M'ap Tann Pèlen"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Ex-Factor",
+        "name": "Ex-Factor"
+      }
+    ]
+  },
+  {
+    "slug": "Bullets",
+    "name": "Bullets",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Zane_Jagger",
+        "name": "Zane Jagger"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Downtown",
+        "name": "Downtown"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Jinguji_(Downtown)",
+        "name": "Jinguji"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Burning_Desire",
+    "name": "Burning Desire / Night Moves",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Jesse_Johnson",
+        "name": "Jesse Johnson"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      },
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Megabuilding_H10",
+        "name": "Megabuilding H10"
+      }
+    ],
+    "xp": 261,
+    "street_cred": 391,
+    "eddies": 1940,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Career_Opportunities",
+    "name": "Career Opportunities",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Macroware",
+        "name": "Macroware"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Night_City_Medical_Center_(Little_China)",
+        "name": "Night City Medical Center"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Trauma_Team_uniform",
+        "name": "Trauma Team uniform"
+      },
+      {
+        "slug": "Mini_Trauma_Team_AV",
+        "name": "Mini Trauma Team AV"
+      }
+    ],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Changes",
+    "name": "Changes",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "quest_givers": [
+      {
+        "slug": "Alt_Cunningham",
+        "name": "Alt Cunningham"
+      }
+    ],
+    "districts": [],
+    "sub_districts": [],
+    "locations": [
+      {
+        "slug": "Mikoshi",
+        "name": "Mikoshi"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Knockin%27_on_Heaven%27s_Door",
+        "name": "Knockin' on Heaven's Door"
+      },
+      {
+        "slug": "Belly_of_the_Beast",
+        "name": "Belly of the Beast"
+      },
+      {
+        "slug": "(Don%27t_Fear)_The_Reaper",
+        "name": "(Don't Fear) The Reaper"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Path_of_Glory",
+        "name": "Path of Glory"
+      },
+      {
+        "slug": "All_Along_the_Watchtower",
+        "name": "All Along the Watchtower"
+      },
+      {
+        "slug": "New_Dawn_Fades",
+        "name": "New Dawn Fades"
+      }
+    ]
+  },
+  {
+    "slug": "Chippin%27_In_(quest)",
+    "name": "Chippin' In",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Johnny_Silverhand",
+        "name": "Johnny Silverhand"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Little_China_(2077)",
+        "name": "Little China"
+      },
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      },
+      {
+        "slug": "Northern_Oilfields",
+        "name": "Northern Oilfields"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Afterlife",
+        "name": "Afterlife"
+      },
+      {
+        "slug": "Unnamed_Northside_Motel",
+        "name": "Unnamed Northside Motel"
+      },
+      {
+        "slug": "Ebunike_Docks",
+        "name": "Ebunike Docks"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [
+      {
+        "slug": "Replica_of_Johnny%27s_Samurai_jacket",
+        "name": "Replica of Johnny's Samurai jacket"
+      },
+      {
+        "slug": "Malorian_Arms_3516_(2077)",
+        "name": "Malorian Arms 3516"
+      },
+      {
+        "slug": "Porsche_911_Turbo_(930)",
+        "name": "Porsche 911 Turbo (930)"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "A_Cool_Metal_Fire",
+        "name": "A Cool Metal Fire"
+      },
+      {
+        "slug": "Blistering_Love",
+        "name": "Blistering Love"
+      },
+      {
+        "slug": "Holdin%27_On",
+        "name": "Holdin' On"
+      }
+    ]
+  },
+  {
+    "slug": "Coin_Operated_Boy",
+    "name": "Coin Operated Boy",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Theo_Price",
+        "name": "Theo Price"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Westbrook_(2077)",
+        "name": "Westbrook"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Japantown_(2077)",
+        "name": "Japantown"
+      },
+      {
+        "slug": "The_Glen",
+        "name": "The Glen"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Megabuilding_H8",
+        "name": "Megabuilding H8"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Spray_Paint",
+        "name": "Spray Paint"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Corpo_of_the_Month",
+    "name": "Corpo of the Month",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "quest_givers": [
+      {
+        "slug": "Alan_Noël",
+        "name": "Alan Noël"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Dogtown",
+        "name": "Dogtown"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Luxor_High_Wellness_Spa",
+        "name": "Luxor High Wellness Spa"
+      }
+    ],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Treating_Symptoms",
+        "name": "Gig: Treating Symptoms"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Bloody_Ritual",
+    "name": "Cyberpsycho Sighting: Bloody Ritual",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 344,
+    "eddies": 2900,
+    "items": [
+      {
+        "slug": "It's_time",
+        "name": "It's time"
+      },
+      {
+        "slug": "The_hard_reset_approacheth",
+        "name": "The hard reset approacheth"
+      }
+    ],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Demons_of_War",
+    "name": "Cyberpsycho Sighting: Demons of War",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 293,
+    "eddies": 2550,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Discount_Doc",
+    "name": "Cyberpsycho Sighting: Discount Doc",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Santo_Domingo",
+        "name": "Santo Domingo"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Rancho_Coronado_(2077)",
+        "name": "Rancho Coronado"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5800,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_House_on_a_Hill",
+    "name": "Cyberpsycho Sighting: House on a Hill",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Badlands",
+        "name": "Badlands"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Rocky_Ridge_(region)",
+        "name": "Rocky Ridge"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Greene_Homestead",
+        "name": "Greene Homestead"
+      }
+    ],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Letter_of_the_Law",
+    "name": "Letter of the Law",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Heywood_(2077)",
+        "name": "Heywood"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Wellsprings",
+        "name": "Wellsprings"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7950,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Lex_Talionis",
+    "name": "Cyberpsycho Sighting: Lex Talionis",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Pacifica_(2077)",
+        "name": "Pacifica"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Coastview_(2077)",
+        "name": "Coastview"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Grand_Imperial_Mall",
+        "name": "Grand Imperial Mall"
+      }
+    ],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Lt._Mower",
+    "name": "Cyberpsycho Sighting: Lt. Mower",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Kabuki",
+        "name": "Kabuki"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 293,
+    "eddies": 2550,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_On_Deaf_Ears",
+    "name": "On Deaf Ears",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Downtown",
+        "name": "Downtown"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7770,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Phantom_of_Night_City",
+    "name": "Phantom of Night City",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "City_Center_(2077)",
+        "name": "City Center"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Corpo_Plaza",
+        "name": "Corpo Plaza"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7770,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Seaside_Cafe",
+    "name": "Cyberpsycho Sighting: Seaside Cafe",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Heywood_(2077)",
+        "name": "Heywood"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Wellsprings",
+        "name": "Wellsprings"
+      }
+    ],
+    "locations": [
+      {
+        "slug": "Dao_Hyunh",
+        "name": "Dao Hyunh"
+      }
+    ],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7950,
+    "items": [
+      {
+        "slug": "Message_to_Linh_Hyunh",
+        "name": "Message to Linh Hyunh"
+      },
+      {
+        "slug": "Message_to_Dao_Hyunh",
+        "name": "Message to Dao Hyunh"
+      },
+      {
+        "slug": "\"Saigon_Sisters\"_-_TREATMENT",
+        "name": "\"Saigon Sisters\" - TREATMENT"
+      }
+    ],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Second_Chances",
+    "name": "Cyberpsycho Sighting: Second Chances",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Badlands",
+        "name": "Badlands"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Vasquez_Pass",
+        "name": "Vasquez Pass"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
+    "items": [
+      {
+        "slug": "I_have_seen_the_light",
+        "name": "I have seen the light"
+      }
+    ],
+    "quests_previous": [],
+    "quests_next": []
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Six_Feet_Under",
+    "name": "Cyberpsycho Sighting: Six Feet Under",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "quest_givers": [
+      {
+        "slug": "Regina_Jones",
+        "name": "Regina Jones"
+      }
+    ],
+    "districts": [
+      {
+        "slug": "Watson_(2077)",
+        "name": "Watson"
+      }
+    ],
+    "sub_districts": [
+      {
+        "slug": "Northside_(2077)",
+        "name": "Northside"
+      }
+    ],
+    "locations": [],
+    "xp": 300,
+    "street_cred": 344,
+    "eddies": 2900,
+    "items": [
+      {
+        "slug": "Farewell",
+        "name": "Farewell"
+      }
+    ],
+    "quests_previous": [],
+    "quests_next": []
+  }
+]
