@@ -1,7 +1,20 @@
 [project]
-name = "cp2077-jobs"
+name = "cp2077jobs"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = ["beautifulsoup4>=4.14.3", "lxml>=6.0.2", "selenium>=4.40.0"]
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "lxml>=6.0.2",
+    "selenium>=4.40.0",
+    "tqdm>=4.67.3",
+]
+
+[project.scripts]
+cp2077jobs-scrap-wiki = "cp2077jobs.commands.scrap_wiki:main"
+cp2077jobs-import-jobs = "cp2077jobs.commands.import_jobs:main"
+
+[build-system]
+requires = ["uv_build>=0.10.4,<0.11.0"]
+build-backend = "uv_build"
