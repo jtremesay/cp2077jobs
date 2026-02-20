@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from itertools import pairwise
+from multiprocessing import Pool, cpu_count
 from typing import Optional
 
 from bs4 import BeautifulSoup, Tag
@@ -165,18 +166,43 @@ def extract_from_aside(builder: JobBuilder, aside_node: Tag) -> None:
 
                             case "item":
                                 for link_node in row_node.select("a"):
-                                    builder.items.append(
-                                        Link(
-                                            slug=link_node["href"].rsplit("/", 1)[-1],
-                                            name=link_node.text.strip(),
+                                    slug = link_node["href"].rsplit("/", 1)[-1]
+                                    if slug != "Phantom_Liberty":
+                                        builder.items.append(
+                                            Link(
+                                                slug=slug,
+                                                name=link_node.text.strip(),
+                                            )
                                         )
-                                    )
                             case _:
                                 raise ValueError(f"Unknown reward kind: {reward_kind}")
 
             case "Quest Chain":
-                pass
-
+                for row_node in section_node.select("div.pi-data-value"):
+                    source = row_node["data-source"]
+                    match source:
+                        case "previous_quest":
+                            for link_node in row_node.select("a"):
+                                slug = link_node["href"].rsplit("/", 1)[-1]
+                                if slug != "Phantom_Liberty":
+                                    builder.quests_previous.append(
+                                        Link(
+                                            slug=slug,
+                                            name=link_node.text.strip(),
+                                        )
+                                    )
+                        case "next_quest":
+                            for link_node in row_node.select("a"):
+                                slug = link_node["href"].rsplit("/", 1)[-1]
+                                if slug != "Phantom_Liberty":
+                                    builder.quests_next.append(
+                                        Link(
+                                            slug=slug,
+                                            name=link_node.text.strip(),
+                                        )
+                                    )
+                        case _:
+                            raise ValueError(f"Unknown quest chain source: {source}")
             case _:
                 raise ValueError(f"Unknown section title: {title}")
 
@@ -206,7 +232,6 @@ def search_job_kind_in_category_nodes(
 def search_game_in_soup(builder: JobBuilder, soup: BeautifulSoup):
     for t1, t2 in pairwise(map(lambda x: x.text.strip(), soup.select("a"))):
         if t1 == "Cyberpunk 2077" and t2 == "Phantom Liberty":
-            print("Found both Cyberpunk 2077 and Phantom Liberty links")
             builder.game = Game.PHANTOM_LIBERTY
             return
 
@@ -236,11 +261,13 @@ def import_job_from_file(file) -> Job:
 
 def main():
     files = sorted(HTML_DIR.glob("*.html"))
-
-    jobs = []
-    for file in tqdm(files):
-        tqdm.write(f"Importing https://cyberpunk.fandom.com/wiki/{file.stem}")
-        job = import_job_from_file(file)
-        if job is not None:
+    with Pool(cpu_count()) as pool:
+        jobs = []
+        for job in tqdm(
+            pool.imap_unordered(import_job_from_file, files, 32), total=len(files)
+        ):
             jobs.append(job)
             JOBS_FILE.write_bytes(JobAdapter.dump_json(jobs, indent=2))
+
+        jobs = sorted(jobs, key=lambda job: job.slug)
+        JOBS_FILE.write_bytes(JobAdapter.dump_json(jobs, indent=2))

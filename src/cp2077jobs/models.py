@@ -3,6 +3,8 @@ from typing import Optional
 
 from pydantic import BaseModel, Field, TypeAdapter
 
+from cp2077jobs.settings import WIKI_BASE_URL
+
 
 class Game(StrEnum):
     CYBERPUNK_2077 = "Cyberpunk 2077"
@@ -35,7 +37,11 @@ class GigKind(StrEnum):
 
 class Link(BaseModel):
     slug: str
-    name: Optional[str] = None
+    name: str
+
+    @property
+    def href(self) -> str:
+        return WIKI_BASE_URL + self.slug
 
 
 class Job(BaseModel):
@@ -58,6 +64,10 @@ class Job(BaseModel):
 
     quests_previous: list[Link] = Field(default_factory=list)
     quests_next: list[Link] = Field(default_factory=list)
+
+    @property
+    def href(self) -> str:
+        return WIKI_BASE_URL + self.slug
 
 
 JobAdapter = TypeAdapter(list[Job])

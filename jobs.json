@@ -37,8 +37,18 @@
         "name": "Access Token"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ]
   },
   {
     "slug": "A_Cool_Metal_Fire",
@@ -106,7 +116,12 @@
         "name": "Tattoo: Together Forever"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -142,7 +157,12 @@
     "street_cred": 3235,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -183,8 +203,18 @@
         "name": "Archangel"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Second_Conflict_(quest)",
+        "name": "Second Conflict"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Rebel!_Rebel!",
+        "name": "Rebel! Rebel!"
+      }
+    ]
   },
   {
     "slug": "Addicted_To_Chaos",
@@ -224,7 +254,12 @@
         "name": "Dezerter"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_The_Man_Who_Killed_Jason_Foreman",
+        "name": "Gig: The Man Who Killed Jason Foreman"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -276,7 +311,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -325,8 +365,22 @@
         "name": "Cocktail Stick"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Space_in_Between",
+        "name": "The Space in Between"
+      },
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      }
+    ]
   },
   {
     "slug": "Baby_Let_Me_Take_You",
@@ -374,7 +428,12 @@
         "name": "Herrera Outlaw \"Weiler\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Just_Another_Story",
+        "name": "Just Another Story"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -419,7 +478,12 @@
         "name": "Skill Shard: Solo"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -455,8 +519,34 @@
     "street_cred": null,
     "eddies": 50000,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Beat_on_the_Brat:_Arroyo",
+        "name": "Beat on the Brat: Arroyo"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Kabuki",
+        "name": "Beat on the Brat: Kabuki"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_The_Glen",
+        "name": "Beat on the Brat: The Glen"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Rancho_Coronado",
+        "name": "Beat on the Brat: Rancho Coronado"
+      },
+      {
+        "slug": "Beat_on_the_Brat:_Pacifica",
+        "name": "Beat on the Brat: Pacifica"
+      }
+    ]
   },
   {
     "slug": "Beat_on_the_Brat:_Arroyo",
@@ -491,7 +581,12 @@
         "name": "O'Five"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -522,7 +617,12 @@
     "street_cred": null,
     "eddies": 4000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -553,7 +653,16 @@
     "street_cred": null,
     "eddies": 64000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Send_in_the_Clowns",
+        "name": "Send in the Clowns"
+      },
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -589,7 +698,12 @@
         "name": "Animals Melee Weapon Vendor"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -629,7 +743,12 @@
         "name": "€$"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Beat_on_the_Brat",
+        "name": "Beat on the Brat"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -665,8 +784,18 @@
         "name": "Access Token"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Forward_to_Death",
+        "name": "Forward to Death"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ]
   },
   {
     "slug": "Big_in_Japan",
@@ -714,7 +843,12 @@
         "name": "Scalpel"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -775,8 +909,18 @@
         "name": "Behavioral Imprint-synced Faceplate"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "You_Know_My_Name",
+        "name": "You Know My Name"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "I%27ve_Seen_That_Face_Before",
+        "name": "I've Seen That Face Before"
+      }
+    ]
   },
   {
     "slug": "Black_Steel_In_The_Hour_of_Chaos",
@@ -810,8 +954,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Somewhat_Damaged",
+        "name": "Somewhat Damaged"
+      }
+    ]
   },
   {
     "slug": "Blistering_Love",
@@ -854,8 +1008,18 @@
     "street_cred": 433,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Holdin%27_On",
+        "name": "Holdin' On"
+      }
+    ]
   },
   {
     "slug": "Boat_Drinks",
@@ -899,7 +1063,12 @@
         "name": "Record player"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Off_the_Leash_(quest)",
+        "name": "Off the Leash"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -935,8 +1104,22 @@
     "street_cred": 866,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      },
+      {
+        "slug": "M%27ap_Tann_P%C3%A8len",
+        "name": "M'ap Tann Pèlen"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Ex-Factor",
+        "name": "Ex-Factor"
+      }
+    ]
   },
   {
     "slug": "Bullets",
@@ -1006,7 +1189,12 @@
     "street_cred": 391,
     "eddies": 1940,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1072,8 +1260,34 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Knockin%27_on_Heaven%27s_Door",
+        "name": "Knockin' on Heaven's Door"
+      },
+      {
+        "slug": "Belly_of_the_Beast",
+        "name": "Belly of the Beast"
+      },
+      {
+        "slug": "(Don%27t_Fear)_The_Reaper",
+        "name": "(Don't Fear) The Reaper"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Path_of_Glory",
+        "name": "Path of Glory"
+      },
+      {
+        "slug": "All_Along_the_Watchtower",
+        "name": "All Along the Watchtower"
+      },
+      {
+        "slug": "New_Dawn_Fades",
+        "name": "New Dawn Fades"
+      }
+    ]
   },
   {
     "slug": "Chippin%27_In_(quest)",
@@ -1137,8 +1351,26 @@
         "name": "Porsche 911 Turbo (930)"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "A_Cool_Metal_Fire",
+        "name": "A Cool Metal Fire"
+      },
+      {
+        "slug": "Blistering_Love",
+        "name": "Blistering Love"
+      },
+      {
+        "slug": "Holdin%27_On",
+        "name": "Holdin' On"
+      }
+    ]
   },
   {
     "slug": "Coin_Operated_Boy",
@@ -1177,7 +1409,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Spray_Paint",
+        "name": "Spray Paint"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1213,7 +1450,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Treating_Symptoms",
+        "name": "Gig: Treating Symptoms"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1244,7 +1486,12 @@
     "street_cred": 344,
     "eddies": 2900,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1662,7 +1909,12 @@
     "street_cred": 1949,
     "eddies": 5400,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1809,7 +2061,12 @@
         "name": "Malina-mobile"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1840,7 +2097,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -1893,8 +2155,18 @@
         "name": "Errata"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Space_in_Between",
+        "name": "The Space in Between"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      }
+    ]
   },
   {
     "slug": "Dog_Eat_Dog",
@@ -1954,8 +2226,18 @@
         "name": "Cyberware Capacity Shard"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Phantom_Liberty_(quest)",
+        "name": "Phantom Liberty"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Hole_in_the_Sky",
+        "name": "Hole in the Sky"
+      }
+    ]
   },
   {
     "slug": "Don%27t_Lose_Your_Mind",
@@ -2003,7 +2285,12 @@
         "name": "[N 1]"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Epistrophy",
+        "name": "Epistrophy"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2039,8 +2326,30 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Disasterpiece",
+        "name": "Disasterpiece"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "M%27ap_Tann_P%C3%A8len",
+        "name": "M'ap Tann Pèlen"
+      },
+      {
+        "slug": "Both_Sides,_Now",
+        "name": "Both Sides, Now"
+      },
+      {
+        "slug": "Full_Disclosure",
+        "name": "Full Disclosure"
+      },
+      {
+        "slug": "The_Beast_In_Me",
+        "name": "The Beast In Me"
+      }
+    ]
   },
   {
     "slug": "Down_on_the_Street",
@@ -2075,8 +2384,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gimme_Danger",
+        "name": "Gimme Danger"
+      }
+    ]
   },
   {
     "slug": "Dream_On",
@@ -2131,7 +2450,12 @@
     "street_cred": 3711,
     "eddies": 13720,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "I_Fought_the_Law",
+        "name": "I Fought the Law"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2205,8 +2529,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Don%27t_Lose_Your_Mind",
+        "name": "Don't Lose Your Mind"
+      }
+    ]
   },
   {
     "slug": "Epistrophy:_Badlands",
@@ -2241,7 +2575,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2272,7 +2611,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2316,7 +2660,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2347,7 +2696,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2378,7 +2732,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2409,7 +2768,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2440,7 +2804,12 @@
     "street_cred": 1133,
     "eddies": 1640,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2471,7 +2840,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Off_the_Leash",
+        "name": "Off the Leash"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2538,8 +2912,18 @@
         "name": "Death and Taxes"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Both_Sides,_Now",
+        "name": "Both Sides, Now"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Talkin%27_%27bout_a_Revolution",
+        "name": "Talkin' 'bout a Revolution"
+      }
+    ]
   },
   {
     "slug": "Ezekiel_Saw_the_Wheel",
@@ -2624,8 +3008,34 @@
         "name": "Wild Dog"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "I%27ve_Seen_That_Face_Before",
+        "name": "I've Seen That Face Before"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Killing_Moon",
+        "name": "The Killing Moon"
+      },
+      {
+        "slug": "Black_Steel_In_The_Hour_of_Chaos",
+        "name": "Black Steel In The Hour of Chaos"
+      },
+      {
+        "slug": "Run_This_Town",
+        "name": "Run This Town"
+      },
+      {
+        "slug": "Moving_Heat",
+        "name": "Moving Heat"
+      },
+      {
+        "slug": "Dirty_Second_Hands",
+        "name": "Dirty Second Hands"
+      }
+    ]
   },
   {
     "slug": "Following_the_River",
@@ -2673,7 +3083,12 @@
         "name": "River's tank top"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Hunt",
+        "name": "The Hunt"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2704,8 +3119,18 @@
         "name": "Misty's Dreamcatcher"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Tomorrow_Never_Knows",
+        "name": "Tomorrow Never Knows"
+      }
+    ]
   },
   {
     "slug": "For_Whom_the_Bell_Tolls",
@@ -2740,8 +3165,18 @@
         "name": "Prejudice"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Knockin%27_on_Heaven%27s_Door",
+        "name": "Knockin' on Heaven's Door"
+      }
+    ]
   },
   {
     "slug": "Fortunate_Son",
@@ -2776,7 +3211,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Queen_of_the_Highway",
+        "name": "Queen of the Highway"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2811,8 +3251,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "We_Gotta_Live_Together",
+        "name": "We Gotta Live Together"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Belly_of_the_Beast",
+        "name": "Belly of the Beast"
+      }
+    ]
   },
   {
     "slug": "Four_Score_and_Seven",
@@ -2847,8 +3297,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Leave_in_Silence",
+        "name": "Leave in Silence"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Who_Wants_To_Live_Forever",
+        "name": "Who Wants To Live Forever"
+      }
+    ]
   },
   {
     "slug": "Freedom",
@@ -2888,7 +3348,28 @@
         "name": "Rayfield Caliburn \"Mordred\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      },
+      {
+        "slug": "Search_and_Destroy",
+        "name": "Search and Destroy"
+      },
+      {
+        "slug": "The_Beast_in_Me:_City_Center",
+        "name": "The Beast in Me: City Center"
+      },
+      {
+        "slug": "The_Beast_in_Me:_Badlands",
+        "name": "The Beast in Me: Badlands"
+      },
+      {
+        "slug": "The_Beast_in_Me:_Santo_Domingo",
+        "name": "The Beast in Me: Santo Domingo"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2933,7 +3414,12 @@
         "name": "Metal pin"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Unfinished_Sympathy",
+        "name": "Unfinished Sympathy"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -2964,7 +3450,20 @@
     "street_cred": 778,
     "eddies": 830,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      },
+      {
+        "slug": "Gig:_Flight_of_the_Cheetah",
+        "name": "Gig: Flight of the Cheetah"
+      },
+      {
+        "slug": "Gig:_Shark_in_the_Water",
+        "name": "Gig: Shark in the Water"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -3030,8 +3529,18 @@
         "name": "Her Majesty"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Damned",
+        "name": "The Damned"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "You_Know_My_Name",
+        "name": "You Know My Name"
+      }
+    ]
   },
   {
     "slug": "Ghost_Town",
@@ -3099,8 +3608,18 @@
         "name": "Archer Quartz \"Bandit\""
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Lightning_Breaks",
+        "name": "Lightning Breaks"
+      }
+    ]
   },
   {
     "slug": "Gig:_A_Lack_of_Empathy",
@@ -3171,8 +3690,26 @@
     "street_cred": null,
     "eddies": 6260,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Getting_Warmer...",
+        "name": "Gig: Getting Warmer..."
+      },
+      {
+        "slug": "Gig:_Wakako%27s_Favorite",
+        "name": "Gig: Wakako's Favorite"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Professional_Widow",
+        "name": "Professional Widow"
+      },
+      {
+        "slug": "Gig:_Family_Heirloom",
+        "name": "Gig: Family Heirloom"
+      }
+    ]
   },
   {
     "slug": "Gig:_An_Inconvenient_Killer",
@@ -3238,8 +3775,18 @@
     "street_cred": null,
     "eddies": 2930,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Welcome_to_America,_Comrade",
+        "name": "Gig: Welcome to America, Comrade"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Catch_a_Tyger%27s_Toe",
+        "name": "Gig: Catch a Tyger's Toe"
+      }
+    ]
   },
   {
     "slug": "Gig:_Big_Pete%27s_Got_Big_Problems",
@@ -3274,8 +3821,26 @@
     "street_cred": 1710,
     "eddies": 13500,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Dancing_on_a_Minefield",
+        "name": "Gig: Dancing on a Minefield"
+      },
+      {
+        "slug": "Gig:_Flying_Drugs",
+        "name": "Gig: Flying Drugs"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_MIA",
+        "name": "Gig: MIA"
+      },
+      {
+        "slug": "Gig:_Sparring_Partner",
+        "name": "Gig: Sparring Partner"
+      }
+    ]
   },
   {
     "slug": "Gig:_Bloodsport",
@@ -3310,8 +3875,26 @@
     "street_cred": null,
     "eddies": 3610,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Last_Login",
+        "name": "Gig: Last Login"
+      },
+      {
+        "slug": "Gig:_Small_Man,_Big_Evil",
+        "name": "Gig: Small Man, Big Evil"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Freedom_of_the_Press",
+        "name": "Gig: Freedom of the Press"
+      },
+      {
+        "slug": "Gig:_Lousy_Kleppers",
+        "name": "Gig: Lousy Kleppers"
+      }
+    ]
   },
   {
     "slug": "Gig:_Breaking_News",
@@ -3346,8 +3929,30 @@
     "street_cred": null,
     "eddies": 6340,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Error_404",
+        "name": "Gig: Error 404"
+      },
+      {
+        "slug": "Gig:_Race_to_the_Top",
+        "name": "Gig: Race to the Top"
+      },
+      {
+        "slug": "Gig:_Serious_Side_Effects",
+        "name": "Gig: Serious Side Effects"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ]
   },
   {
     "slug": "Gig:_Bring_Me_the_Head_of_Gustavo_Orta",
@@ -3382,8 +3987,38 @@
     "street_cred": 1710,
     "eddies": 8300,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Fifth_Column",
+        "name": "Gig: Fifth Column"
+      },
+      {
+        "slug": "Gig:_Jeopardy",
+        "name": "Gig: Jeopardy"
+      },
+      {
+        "slug": "Gig:_Life%27s_Work",
+        "name": "Gig: Life's Work"
+      },
+      {
+        "slug": "Gig:_On_a_Tight_Leash",
+        "name": "Gig: On a Tight Leash"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Eye_for_an_Eye",
+        "name": "Gig: Eye for an Eye"
+      },
+      {
+        "slug": "Gig:_Sr._Ladrillo%27s_Private_Collection",
+        "name": "Gig: Sr. Ladrillo's Private Collection"
+      },
+      {
+        "slug": "Gig:_The_Lord_Giveth_and_Taketh_Away",
+        "name": "Gig: The Lord Giveth and Taketh Away"
+      }
+    ]
   },
   {
     "slug": "Gig:_Catch_a_Tyger%27s_Toe",
@@ -3418,8 +4053,26 @@
     "street_cred": null,
     "eddies": 1560,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Woman_of_La_Mancha",
+        "name": "Gig: Woman of La Mancha"
+      },
+      {
+        "slug": "Gig:_Backs_Against_the_Wall",
+        "name": "Gig: Backs Against the Wall"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Flight_of_the_Cheetah",
+        "name": "Gig: Flight of the Cheetah"
+      },
+      {
+        "slug": "Gig:_Shark_in_the_Water",
+        "name": "Gig: Shark in the Water"
+      }
+    ]
   },
   {
     "slug": "Gig:_Concrete_Cage_Trap",
@@ -3454,8 +4107,22 @@
         "name": "Hypercritical"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Freedom_of_the_Press",
+        "name": "Gig: Freedom of the Press"
+      },
+      {
+        "slug": "Gig:_Lousy_Kleppers",
+        "name": "Gig: Lousy Kleppers"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Last_Call",
+        "name": "Last Call"
+      }
+    ]
   },
   {
     "slug": "Gig:_Cuckoo%27s_Nest",
@@ -3490,8 +4157,30 @@
     "street_cred": null,
     "eddies": 5720,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Breaking_News",
+        "name": "Gig: Breaking News"
+      },
+      {
+        "slug": "Gig:_Hacking_the_Hacker",
+        "name": "Gig: Hacking the Hacker"
+      },
+      {
+        "slug": "Gig:_Family_Matters",
+        "name": "Gig: Family Matters"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_For_My_Son",
+        "name": "Gig: For My Son"
+      },
+      {
+        "slug": "Gig:_Going-away_Party",
+        "name": "Gig: Going-away Party"
+      }
+    ]
   },
   {
     "slug": "Gig:_Dancing_on_a_Minefield",
@@ -3566,8 +4255,26 @@
     "street_cred": null,
     "eddies": 17610,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Ride_Captain_Ride",
+        "name": "Ride Captain Ride"
+      },
+      {
+        "slug": "Gig:_Nasty_Hangover",
+        "name": "Gig: Nasty Hangover"
+      }
+    ]
   },
   {
     "slug": "Gig:_Dirty_Biz",
@@ -3633,7 +4340,12 @@
     "street_cred": 167,
     "eddies": 8000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -3665,7 +4377,20 @@
     "eddies": 2710,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Gig:_Breaking_News",
+        "name": "Gig: Breaking News"
+      },
+      {
+        "slug": "Gig:_Hacking_the_Hacker",
+        "name": "Gig: Hacking the Hacker"
+      },
+      {
+        "slug": "Gig:_Family_Matters",
+        "name": "Gig: Family Matters"
+      }
+    ]
   },
   {
     "slug": "Gig:_Eye_for_an_Eye",
@@ -3745,7 +4470,12 @@
         "name": "Johnny's shoes"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_A_Shrine_Defiled",
+        "name": "A Shrine Defiled"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -3781,8 +4511,30 @@
     "street_cred": null,
     "eddies": 5720,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Error_404",
+        "name": "Gig: Error 404"
+      },
+      {
+        "slug": "Gig:_Race_to_the_Top",
+        "name": "Gig: Race to the Top"
+      },
+      {
+        "slug": "Gig:_Serious_Side_Effects",
+        "name": "Gig: Serious Side Effects"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ]
   },
   {
     "slug": "Gig:_Fifth_Column",
@@ -3894,8 +4646,26 @@
     "street_cred": null,
     "eddies": 1390,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Catch_a_Tyger%27s_Toe",
+        "name": "Gig: Catch a Tyger's Toe"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Last_Login",
+        "name": "Gig: Last Login"
+      },
+      {
+        "slug": "Gig:_Small_Man,_Big_Evil",
+        "name": "Gig: Small Man, Big Evil"
+      },
+      {
+        "slug": "Full_Disclosure",
+        "name": "Full Disclosure"
+      }
+    ]
   },
   {
     "slug": "Gig:_Flying_Drugs",
@@ -3961,8 +4731,26 @@
     "street_cred": null,
     "eddies": 14030,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Ride_Captain_Ride",
+        "name": "Ride Captain Ride"
+      },
+      {
+        "slug": "Gig:_The_Union_Strikes_Back",
+        "name": "Gig: The Union Strikes Back"
+      }
+    ]
   },
   {
     "slug": "Gig:_Freedom_of_the_Press",
@@ -4001,8 +4789,30 @@
     "street_cred": null,
     "eddies": 7778,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Bloodsport",
+        "name": "Gig: Bloodsport"
+      },
+      {
+        "slug": "Gig:_Scrolls_before_Swine",
+        "name": "Gig: Scrolls before Swine"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Fixer,_Merc,_Soldier,_Spy",
+        "name": "Gig: Fixer, Merc, Soldier, Spy"
+      },
+      {
+        "slug": "Gig:_Occupational_Hazard",
+        "name": "Gig: Occupational Hazard"
+      },
+      {
+        "slug": "Gig:_The_Heisenberg_Principle",
+        "name": "Gig: The Heisenberg Principle"
+      }
+    ]
   },
   {
     "slug": "Gig:_Getting_Warmer...",
@@ -4033,7 +4843,12 @@
     "eddies": 6000,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Gig:_A_Shrine_Defiled",
+        "name": "Gig: A Shrine Defiled"
+      }
+    ]
   },
   {
     "slug": "Gig:_Going-away_Party",
@@ -4063,8 +4878,26 @@
     "street_cred": null,
     "eddies": 9050,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Ride_Captain_Ride",
+        "name": "Ride Captain Ride"
+      },
+      {
+        "slug": "Gig:_The_Union_Strikes_Back",
+        "name": "Gig: The Union Strikes Back"
+      }
+    ]
   },
   {
     "slug": "Gig:_Going_Up_or_Down%3F",
@@ -4099,8 +4932,26 @@
     "street_cred": 1710,
     "eddies": 19230,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_The_Lord_Giveth_and_Taketh_Away",
+        "name": "Gig: The Lord Giveth and Taketh Away"
+      },
+      {
+        "slug": "Gig:_Eye_for_an_Eye",
+        "name": "Gig: Eye for an Eye"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "God_Bless_This_Mess",
+        "name": "God Bless This Mess"
+      },
+      {
+        "slug": "Gig:_Hot_Merchandise",
+        "name": "Gig: Hot Merchandise"
+      }
+    ]
   },
   {
     "slug": "Gig:_Goodbye,_Night_City",
@@ -4130,8 +4981,22 @@
     "street_cred": null,
     "eddies": 8580,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_MIA",
+        "name": "Gig: MIA"
+      },
+      {
+        "slug": "Gig:_Sparring_Partner",
+        "name": "Gig: Sparring Partner"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Every_Grain_of_Sand",
+        "name": "Every Grain of Sand"
+      }
+    ]
   },
   {
     "slug": "Gig:_Greed_Never_Pays",
@@ -4233,8 +5098,30 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Error_404",
+        "name": "Gig: Error 404"
+      },
+      {
+        "slug": "Gig:_Race_to_the_Top",
+        "name": "Gig: Race to the Top"
+      },
+      {
+        "slug": "Gig:_Serious_Side_Effects",
+        "name": "Gig: Serious Side Effects"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Cuckoo%27s_Nest",
+        "name": "Gig: Cuckoo's Nest"
+      },
+      {
+        "slug": "Gig:_Severance_Package",
+        "name": "Gig: Severance Package"
+      }
+    ]
   },
   {
     "slug": "Gig:_Heaviest_of_Hearts",
@@ -4274,7 +5161,16 @@
         "name": "Crimestopper"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      },
+      {
+        "slug": "Run_This_Town",
+        "name": "Run This Town"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -4311,7 +5207,12 @@
     "eddies": 3000,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Suspected_Organized_Crime_Activity:_No_License,_No_Problem",
+        "name": "Suspected Organized Crime Activity: No License, No Problem"
+      }
+    ]
   },
   {
     "slug": "Gig:_Hot_Merchandise",
@@ -4346,7 +5247,12 @@
     "street_cred": 1710,
     "eddies": 20910,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Going_Up_or_Down%3F",
+        "name": "Gig: Going Up or Down?"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -4417,8 +5323,26 @@
     "street_cred": null,
     "eddies": 4110,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Flight_of_the_Cheetah",
+        "name": "Gig: Flight of the Cheetah"
+      },
+      {
+        "slug": "Gig:_Shark_in_the_Water",
+        "name": "Gig: Shark in the Water"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Bloodsport",
+        "name": "Gig: Bloodsport"
+      },
+      {
+        "slug": "Gig:_Scrolls_before_Swine",
+        "name": "Gig: Scrolls before Swine"
+      }
+    ]
   },
   {
     "slug": "Gig:_Life%27s_Work",
@@ -4449,7 +5373,12 @@
     "eddies": 3100,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Sex_On_Wheels",
+        "name": "Sex On Wheels"
+      }
+    ]
   },
   {
     "slug": "Gig:_Lousy_Kleppers",
@@ -4479,8 +5408,30 @@
     "street_cred": null,
     "eddies": 6940,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Bloodsport",
+        "name": "Gig: Bloodsport"
+      },
+      {
+        "slug": "Gig:_Scrolls_before_Swine",
+        "name": "Gig: Scrolls before Swine"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Fixer,_Merc,_Soldier,_Spy",
+        "name": "Gig: Fixer, Merc, Soldier, Spy"
+      },
+      {
+        "slug": "Gig:_Occupational_Hazard",
+        "name": "Gig: Occupational Hazard"
+      },
+      {
+        "slug": "Gig:_The_Heisenberg_Principle",
+        "name": "Gig: The Heisenberg Principle"
+      }
+    ]
   },
   {
     "slug": "Gig:_MIA",
@@ -4515,8 +5466,30 @@
         "name": "Reinforced-laminate military flight jacket"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_No_Fixers",
+        "name": "No Fixers"
+      },
+      {
+        "slug": "Gig:_Big_Pete%27s_Got_Big_Problems",
+        "name": "Big Pete's Got Big Problems"
+      },
+      {
+        "slug": "Gig:_Trevor%27s_Last_Ride",
+        "name": "Trevor's Last Ride"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Goodbye,_Night_City",
+        "name": "Goodbye, Night City"
+      },
+      {
+        "slug": "Gig:_Radar_Love",
+        "name": "Radar Love"
+      }
+    ]
   },
   {
     "slug": "Gig:_Many_Ways_to_Skin_a_Cat",
@@ -4623,7 +5596,20 @@
     "street_cred": null,
     "eddies": 17610,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Desperate_Measures",
+        "name": "Gig: Desperate Measures"
+      },
+      {
+        "slug": "Gig:_For_My_Son",
+        "name": "Gig: For My Son"
+      },
+      {
+        "slug": "Gig:_Going-away_Party",
+        "name": "Gig: Going-away Party"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -4888,8 +5874,18 @@
         "name": "Zetatech Sandevistan"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Go_Your_Own_Way",
+        "name": "Go Your Own Way"
+      }
+    ]
   },
   {
     "slug": "Gig:_Psychofan",
@@ -4961,7 +5957,20 @@
     "eddies": 1960,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Gig:_Breaking_News",
+        "name": "Gig: Breaking News"
+      },
+      {
+        "slug": "Gig:_Hacking_the_Hacker",
+        "name": "Gig: Hacking the Hacker"
+      },
+      {
+        "slug": "Gig:_Family_Matters",
+        "name": "Gig: Family Matters"
+      }
+    ]
   },
   {
     "slug": "Gig:_Radar_Love",
@@ -5005,8 +6014,22 @@
         "name": "Militech heavy tactical vest"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_MIA",
+        "name": "MIA"
+      },
+      {
+        "slug": "Gig:_Sparring_Partner",
+        "name": "Sparring Partner"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Every_Grain_of_Sand",
+        "name": "Every Grain of Sand"
+      }
+    ]
   },
   {
     "slug": "Gig:_Rite_of_Passage",
@@ -5077,8 +6100,18 @@
         "name": "Hercules 3AX"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "One_Way_or_Another",
+        "name": "One Way or Another"
+      }
+    ]
   },
   {
     "slug": "Gig:_Scrolls_before_Swine",
@@ -5108,8 +6141,26 @@
     "street_cred": 906,
     "eddies": 4800,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Last_Login",
+        "name": "Last Login"
+      },
+      {
+        "slug": "Gig:_Small_Man,_Big_Evil",
+        "name": "Small Man, Big Evil"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Freedom_of_the_Press",
+        "name": "Freedom of the Press"
+      },
+      {
+        "slug": "Gig:_Lousy_Kleppers",
+        "name": "Lousy Kleppers"
+      }
+    ]
   },
   {
     "slug": "Gig:_Serial_Suicide",
@@ -5181,7 +6232,20 @@
     "eddies": 2940,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Gig:_Breaking_News",
+        "name": "Gig: Breaking News"
+      },
+      {
+        "slug": "Gig:_Hacking_the_Hacker",
+        "name": "Gig: Hacking the Hacker"
+      },
+      {
+        "slug": "Gig:_Family_Matters",
+        "name": "Gig: Family Matters"
+      }
+    ]
   },
   {
     "slug": "Gig:_Severance_Package",
@@ -5216,8 +6280,30 @@
     "street_cred": null,
     "eddies": 6340,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Breaking_News",
+        "name": "Gig: Breaking News"
+      },
+      {
+        "slug": "Gig:_Hacking_the_Hacker",
+        "name": "Gig: Hacking the Hacker"
+      },
+      {
+        "slug": "Gig:_Family_Matters",
+        "name": "Gig: Family Matters"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_For_My_Son",
+        "name": "Gig: For My Son"
+      },
+      {
+        "slug": "Gig:_Going-away_Party",
+        "name": "Gig: Going-away Party"
+      }
+    ]
   },
   {
     "slug": "Gig:_Shark_in_the_Water",
@@ -5247,8 +6333,26 @@
     "street_cred": null,
     "eddies": 1240,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Catch_a_Tyger%27s_Toe",
+        "name": "Gig: Catch a Tyger's Toe"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Last_Login",
+        "name": "Gig: Last Login"
+      },
+      {
+        "slug": "Gig:_Small_Man,_Big_Evil",
+        "name": "Gig: Small Man, Big Evil"
+      },
+      {
+        "slug": "Full_Disclosure",
+        "name": "Full Disclosure"
+      }
+    ]
   },
   {
     "slug": "Gig:_Small_Man,_Big_Evil",
@@ -5278,8 +6382,26 @@
     "street_cred": null,
     "eddies": 2930,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Flight_of_the_Cheetah",
+        "name": "Gig: Flight of the Cheetah"
+      },
+      {
+        "slug": "Gig:_Shark_in_the_Water",
+        "name": "Gig: Shark in the Water"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Bloodsport",
+        "name": "Gig: Bloodsport"
+      },
+      {
+        "slug": "Gig:_Scrolls_before_Swine",
+        "name": "Gig: Scrolls before Swine"
+      }
+    ]
   },
   {
     "slug": "Gig:_Sparring_Partner",
@@ -5359,8 +6481,22 @@
         "name": "Pizdets"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Money_For_Nothing",
+        "name": "Money For Nothing"
+      },
+      {
+        "slug": "The_Show_Must_Go_On",
+        "name": "The Show Must Go On"
+      }
+    ]
   },
   {
     "slug": "Gig:_Sr._Ladrillo%27s_Private_Collection",
@@ -5435,7 +6571,12 @@
     "street_cred": 167,
     "eddies": 8000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -5574,8 +6715,18 @@
     "street_cred": 167,
     "eddies": 8000,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Addicted_To_Chaos",
+        "name": "Addicted To Chaos"
+      }
+    ]
   },
   {
     "slug": "Gig:_The_Union_Strikes_Back",
@@ -5605,7 +6756,16 @@
     "street_cred": null,
     "eddies": 24100,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_For_My_Son",
+        "name": "Gig: For My Son"
+      },
+      {
+        "slug": "Gig:_Going-away_Party",
+        "name": "Gig: Going-away Party"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -5646,8 +6806,18 @@
         "name": "Ogou"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Corpo_of_the_Month",
+        "name": "Corpo of the Month"
+      }
+    ]
   },
   {
     "slug": "Gig:_Trevor%27s_Last_Ride",
@@ -5821,8 +6991,26 @@
     "street_cred": 1136,
     "eddies": 4200,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gig:_Tyger_and_Vulture",
+        "name": "Tyger and Vulture"
+      },
+      {
+        "slug": "Gig:_We_Have_Your_Wife",
+        "name": "We Have Your Wife"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Gig:_Getting_Warmer...",
+        "name": "Getting Warmer..."
+      },
+      {
+        "slug": "Gig:_Wakako%27s_Favorite",
+        "name": "Wakako's Favorite"
+      }
+    ]
   },
   {
     "slug": "Gig:_Waiting_for_Dodger",
@@ -5861,8 +7049,18 @@
         "name": "Rosco"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "New_Person,_Same_Old_Mistakes",
+        "name": "New Person, Same Old Mistakes"
+      }
+    ]
   },
   {
     "slug": "Gig:_Wakako%27s_Favorite",
@@ -5898,7 +7096,12 @@
     "eddies": 6000,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Gig:_A_Shrine_Defiled",
+        "name": "Gig: A Shrine Defiled"
+      }
+    ]
   },
   {
     "slug": "Gig:_We_Have_Your_Wife",
@@ -6045,8 +7248,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Down_on_the_Street",
+        "name": "Down on the Street"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Play_It_Safe",
+        "name": "Play It Safe"
+      }
+    ]
   },
   {
     "slug": "Go_Your_Own_Way",
@@ -6086,7 +7299,12 @@
         "name": "Ambition"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Prototype_in_the_Scraper",
+        "name": "Gig: Prototype in the Scraper"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6140,7 +7358,12 @@
     "street_cred": 3235,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Riders_on_the_Storm",
+        "name": "Riders on the Storm"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6184,7 +7407,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6237,8 +7465,26 @@
         "name": "Jackie's Pin-up Posters"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Heist",
+        "name": "The Heist"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Small_Man,_Big_Mouth",
+        "name": "Small Man, Big Mouth"
+      },
+      {
+        "slug": "Streetkid_(Lifepath)",
+        "name": "Streetkid"
+      },
+      {
+        "slug": "Lifepath",
+        "name": "lifepath"
+      }
+    ]
   },
   {
     "slug": "Hi_Ho_Silver_Lining",
@@ -6278,7 +7524,16 @@
         "name": "Quadra Sport R-7 \"Sterling\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Heaviest_of_Hearts",
+        "name": "Gig: Heaviest of Hearts"
+      },
+      {
+        "slug": "Gig:_Roads_to_Redemption",
+        "name": "Gig: Roads to Redemption"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6318,8 +7573,22 @@
     "street_cred": 1158,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      },
+      {
+        "slug": "Blistering_Love",
+        "name": "Blistering Love"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Second_Conflict_(quest)",
+        "name": "Second Conflict"
+      }
+    ]
   },
   {
     "slug": "Hole_in_the_Sky",
@@ -6360,8 +7629,18 @@
         "name": "NUSA suit"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Dog_Eat_Dog",
+        "name": "Dog Eat Dog"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ]
   },
   {
     "slug": "Houses_In_Motion:_Makeovers",
@@ -6434,8 +7713,18 @@
         "name": "Archer Hella EC-D i360"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Tune_Up",
+        "name": "Tune Up"
+      }
+    ]
   },
   {
     "slug": "I%27ll_Fly_Away",
@@ -6479,7 +7768,12 @@
         "name": "Action Figure"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Riders_on_the_Storm",
+        "name": "Riders on the Storm"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6515,7 +7809,12 @@
         "name": "Quadra Type-66 \"Hoon\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -6556,8 +7855,26 @@
         "name": "Netrunner suit"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Birds_with_Broken_Wings",
+        "name": "Birds with Broken Wings"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      },
+      {
+        "slug": "Voodoo_Treasure",
+        "name": "Voodoo Treasure"
+      },
+      {
+        "slug": "#cite_note-Note1-1",
+        "name": "[N 1]"
+      }
+    ]
   },
   {
     "slug": "I_Can_See_Clearly_Now",
@@ -6593,7 +7910,12 @@
     "eddies": null,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Spray_Paint",
+        "name": "Spray Paint"
+      }
+    ]
   },
   {
     "slug": "I_Don%27t_Wanna_Hear_It",
@@ -6628,8 +7950,18 @@
     "street_cred": 1321,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Rebel!_Rebel!",
+        "name": "Rebel! Rebel!"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Off_the_Leash_(quest)",
+        "name": "Off the Leash"
+      }
+    ]
   },
   {
     "slug": "I_Fought_the_Law",
@@ -6705,8 +8037,26 @@
         "name": "Peralez Campaign Poster"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Dream_On",
+        "name": "Dream On"
+      },
+      {
+        "slug": "The_Hunt",
+        "name": "The Hunt"
+      },
+      {
+        "slug": "Sweet_Dreams",
+        "name": "Sweet Dreams"
+      }
+    ]
   },
   {
     "slug": "I_Really_Want_to_Stay_at_Your_House_(quest)",
@@ -6763,8 +8113,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "M%27ap_Tann_P%C3%A8len",
+        "name": "M'ap Tann Pèlen"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      }
+    ]
   },
   {
     "slug": "Imagine",
@@ -6799,8 +8159,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Stairway_To_Heaven",
+        "name": "Stairway To Heaven"
+      }
+    ]
   },
   {
     "slug": "Increased_Criminal_Activity:_BARGHEST",
@@ -6952,8 +8322,18 @@
         "name": "AUTOFIXER'S DISCOUNT EXTRAVAGANZZZA"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Push_It_to_the_Limit",
+        "name": "Push It to the Limit"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Baby_Let_Me_Take_You",
+        "name": "Baby Let Me Take You"
+      }
+    ]
   },
   {
     "slug": "KOLD_MIRAGE",
@@ -6998,7 +8378,16 @@
         "name": "quickhacks"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      },
+      {
+        "slug": "Spellbound",
+        "name": "Spellbound"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7035,7 +8424,16 @@
     "street_cred": 1727,
     "eddies": 6220,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      },
+      {
+        "slug": "A_Like_Supreme_(quest)",
+        "name": "A Like Supreme"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7079,8 +8477,18 @@
         "name": "Access Token"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "For_Whom_the_Bell_Tolls",
+        "name": "For Whom the Bell Tolls"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ]
   },
   {
     "slug": "Last_Call",
@@ -7141,8 +8549,18 @@
         "name": "Genjiroh"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Totalimmortal",
+        "name": "Totalimmortal"
+      }
+    ]
   },
   {
     "slug": "Leave_in_Silence",
@@ -7174,8 +8592,22 @@
         "name": "NUSA distinction"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Somewhat_Damaged",
+        "name": "Somewhat Damaged"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Four_Score_and_Seven",
+        "name": "Four Score and Seven"
+      },
+      {
+        "slug": "This_Corrosion",
+        "name": "This Corrosion"
+      }
+    ]
   },
   {
     "slug": "Life_During_Wartime",
@@ -7223,8 +8655,30 @@
         "name": "Scorpion's Apollo"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Lightning_Breaks",
+        "name": "Lightning Breaks"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      },
+      {
+        "slug": "Play_It_Safe",
+        "name": "Play It Safe"
+      },
+      {
+        "slug": "I_Fought_the_Law",
+        "name": "I Fought the Law"
+      },
+      {
+        "slug": "Riders_on_the_Storm",
+        "name": "Riders on the Storm"
+      }
+    ]
   },
   {
     "slug": "Lightning_Breaks",
@@ -7267,8 +8721,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ]
   },
   {
     "slug": "Love_Like_Fire",
@@ -7303,8 +8767,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Heist",
+        "name": "The Heist"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ]
   },
   {
     "slug": "Love_Rollercoaster",
@@ -7339,7 +8813,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7392,8 +8871,18 @@
         "name": "Hawk"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Damned",
+        "name": "The Damned"
+      }
+    ]
   },
   {
     "slug": "M%27ap_Tann_P%C3%A8len",
@@ -7425,8 +8914,18 @@
         "name": "Butcher's Cleaver"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "I_Walk_the_Line",
+        "name": "I Walk the Line"
+      }
+    ]
   },
   {
     "slug": "Machine_Gun",
@@ -7500,7 +8999,12 @@
         "name": "memorabilia"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Poem_Of_The_Atoms",
+        "name": "Poem Of The Atoms"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7540,7 +9044,12 @@
     "street_cred": null,
     "eddies": 17500,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Spy_in_the_Jungle",
+        "name": "Gig: Spy in the Jungle"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7576,8 +9085,22 @@
         "name": "Yaiba ARV-Q340 Semimaru"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Hunt",
+        "name": "The Hunt"
+      },
+      {
+        "slug": "The_Beast_In_Me",
+        "name": "The Beast In Me"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Where_Eagles_Dare",
+        "name": "Where Eagles Dare"
+      }
+    ]
   },
   {
     "slug": "Moving_Heat",
@@ -7617,7 +9140,12 @@
         "name": "Quadra Sport R-7 \"Charon\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7655,7 +9183,12 @@
         "name": "Rayfield Caliburn \"Murkmobile\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7689,7 +9222,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7741,7 +9279,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7777,7 +9320,12 @@
     "street_cred": 167,
     "eddies": 2000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Waiting_for_Dodger",
+        "name": "Gig: Waiting for Dodger"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7830,7 +9378,12 @@
         "name": "Yaiba ASM-R250 Muramasa"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Reported_Crime:_You_Play_with_Fire...",
+        "name": "Reported Crime: You Play with Fire..."
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7879,7 +9432,12 @@
         "name": "Cheetah"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -7923,8 +9481,34 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Last_Caress",
+        "name": "Last Caress"
+      },
+      {
+        "slug": "For_Whom_the_Bell_Tolls",
+        "name": "For Whom the Bell Tolls"
+      },
+      {
+        "slug": "We_Gotta_Live_Together",
+        "name": "We Gotta Live Together"
+      },
+      {
+        "slug": "(Don%27t_Fear)_The_Reaper",
+        "name": "(Don't Fear) The Reaper"
+      },
+      {
+        "slug": "Who_Wants_To_Live_Forever",
+        "name": "Who Wants To Live Forever"
+      }
+    ]
   },
   {
     "slug": "Off_the_Leash_(quest)",
@@ -7959,8 +9543,22 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "I_Don%27t_Wanna_Hear_It",
+        "name": "I Don't Wanna Hear It"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Boat_Drinks",
+        "name": "Boat Drinks"
+      },
+      {
+        "slug": "Every_Breath_You_Take",
+        "name": "Every Breath You Take"
+      }
+    ]
   },
   {
     "slug": "One_Way_or_Another",
@@ -7990,7 +9588,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Roads_to_Redemption",
+        "name": "Gig: Roads to Redemption"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8100,7 +9703,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Ripperdoc",
+        "name": "The Ripperdoc"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8135,7 +9743,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Changes",
+        "name": "Changes"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8164,7 +9777,12 @@
     "eddies": null,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Dog_Eat_Dog",
+        "name": "Dog Eat Dog"
+      }
+    ]
   },
   {
     "slug": "Pisces",
@@ -8212,8 +9830,18 @@
         "name": "Tsumetogi"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Talkin%27_%27bout_a_Revolution",
+        "name": "Talkin' 'bout a Revolution"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Pyramid_Song",
+        "name": "Pyramid Song"
+      }
+    ]
   },
   {
     "slug": "Play_It_Safe",
@@ -8252,8 +9880,22 @@
         "name": "Genjiroh"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Gimme_Danger",
+        "name": "Gimme Danger"
+      },
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Search_and_Destroy",
+        "name": "Search and Destroy"
+      }
+    ]
   },
   {
     "slug": "Playing_for_Time",
@@ -8300,8 +9942,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Automatic_Love",
+        "name": "Automatic Love"
+      },
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      },
+      {
+        "slug": "Down_on_the_Street",
+        "name": "Down on the Street"
+      }
+    ]
   },
   {
     "slug": "Poem_Of_The_Atoms",
@@ -8331,8 +9991,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Stairway_To_Heaven",
+        "name": "Stairway To Heaven"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Meetings_Along_The_Edge",
+        "name": "Meetings Along The Edge"
+      }
+    ]
   },
   {
     "slug": "Practice_Makes_Perfect",
@@ -8367,8 +10037,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Nomad",
+        "name": "The Nomad"
+      },
+      {
+        "slug": "The_Streetkid",
+        "name": "The Streetkid"
+      },
+      {
+        "slug": "The_Corpo-Rat",
+        "name": "The Corpo-Rat"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ]
   },
   {
     "slug": "Professional_Widow",
@@ -8393,7 +10081,12 @@
         "name": "Byakko"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_A_Shrine_Defiled",
+        "name": "Gig: A Shrine Defiled"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8441,7 +10134,12 @@
         "name": "Trauma Team armor-weave tactical vest"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Ripperdoc",
+        "name": "The Ripperdoc"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8472,8 +10170,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Spider_and_the_Fly",
+        "name": "Spider and the Fly"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Just_Another_Story",
+        "name": "Just Another Story"
+      }
+    ]
   },
   {
     "slug": "Pyramid_Song",
@@ -8545,7 +10253,12 @@
         "name": "memorabilia"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Pisces",
+        "name": "Pisces"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8589,8 +10302,18 @@
     "street_cred": 1981,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "With_a_Little_Help_from_My_Friends",
+        "name": "With a Little Help from My Friends"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Fortunate_Son",
+        "name": "Fortunate Son"
+      }
+    ]
   },
   {
     "slug": "Raymond_Chandler_Evening",
@@ -8629,7 +10352,12 @@
     "street_cred": null,
     "eddies": 1300,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Heroes",
+        "name": "Heroes"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -8664,8 +10392,18 @@
     "street_cred": 1321,
     "eddies": 21470,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "A_Like_Supreme_(quest)",
+        "name": "A Like Supreme"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "I_Don%27t_Wanna_Hear_It",
+        "name": "I Don't Wanna Hear It"
+      }
+    ]
   },
   {
     "slug": "Reported_Crime:_A_Stroke_of_Luck",
@@ -9482,7 +11220,12 @@
     "eddies": null,
     "items": [],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "Nitro_(Youth_Energy)",
+        "name": "Nitro (Youth Energy)"
+      }
+    ]
   },
   {
     "slug": "Ride_Captain_Ride",
@@ -9507,7 +11250,20 @@
         "name": "Bloody Maria"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Desperate_Measures",
+        "name": "Gig: Desperate Measures"
+      },
+      {
+        "slug": "Gig:_For_My_Son",
+        "name": "Gig: For My Son"
+      },
+      {
+        "slug": "Gig:_Going-away_Party",
+        "name": "Gig: Going-away Party"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9568,8 +11324,26 @@
         "name": "Problem Solver"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "With_a_Little_Help_from_My_Friends",
+        "name": "With a Little Help from My Friends"
+      },
+      {
+        "slug": "I%27ll_Fly_Away",
+        "name": "I'll Fly Away"
+      },
+      {
+        "slug": "Gun_Music",
+        "name": "Gun Music"
+      }
+    ]
   },
   {
     "slug": "Run_This_Town",
@@ -9604,7 +11378,12 @@
         "name": "Mancinella"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9642,7 +11421,12 @@
         "name": "Fenrir"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9678,8 +11462,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Play_It_Safe",
+        "name": "Play It Safe"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Tapeworm",
+        "name": "Tapeworm"
+      },
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      },
+      {
+        "slug": "Violence",
+        "name": "Violence"
+      }
+    ]
   },
   {
     "slug": "Second_Conflict_(quest)",
@@ -9731,8 +11533,18 @@
         "name": "Doom Doom"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Holdin%27_On",
+        "name": "Holdin' On"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "A_Like_Supreme_(quest)",
+        "name": "A Like Supreme"
+      }
+    ]
   },
   {
     "slug": "Send_in_the_Clowns",
@@ -9772,8 +11584,18 @@
         "name": "Crafting Spec: Ozob's Nose"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Beat_on_the_Brat:_Pacifica",
+        "name": "Beat on the Brat: Pacifica"
+      }
+    ]
   },
   {
     "slug": "Sex_On_Wheels",
@@ -9813,7 +11635,12 @@
         "name": "Quadra Turbo-R V-Tech"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Life%27s_Work",
+        "name": "Gig: Life's Work"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9890,7 +11717,12 @@
         "name": "Lexington x-MOD2"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9943,7 +11775,12 @@
         "name": "Ol' Reliable"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -9979,8 +11816,18 @@
     "street_cred": null,
     "eddies": 0,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "There_Is_A_Light_That_Never_Goes_Out",
+        "name": "There Is A Light That Never Goes Out"
+      }
+    ]
   },
   {
     "slug": "Small_Man,_Big_Mouth",
@@ -10015,7 +11862,12 @@
         "name": "SEMURAI crystaljock bomber"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Heroes",
+        "name": "Heroes"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -10069,8 +11921,22 @@
         "name": "Behavioral system component"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Black_Steel_in_the_Hour_of_Chaos",
+        "name": "Black Steel in the Hour of Chaos"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Leave_in_Silence",
+        "name": "Leave in Silence"
+      },
+      {
+        "slug": "This_Corrosion",
+        "name": "This Corrosion"
+      }
+    ]
   },
   {
     "slug": "Space_Oddity",
@@ -10146,8 +12012,18 @@
     "street_cred": 308,
     "eddies": 15000,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "KOLD_MIRAGE",
+        "name": "KOLD MIRAGE"
+      }
+    ]
   },
   {
     "slug": "Spider_and_the_Fly",
@@ -10187,8 +12063,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Hole_in_the_Sky",
+        "name": "Hole in the Sky"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Lucretia_My_Reflection",
+        "name": "Lucretia My Reflection"
+      }
+    ]
   },
   {
     "slug": "Spray_Paint",
@@ -10223,8 +12109,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "I_Can_See_Clearly_Now",
+        "name": "I Can See Clearly Now"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Coin_Operated_Boy",
+        "name": "Coin Operated Boy"
+      }
+    ]
   },
   {
     "slug": "Stadium_Love",
@@ -10287,8 +12183,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Imagine",
+        "name": "Imagine"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Poem_Of_The_Atoms",
+        "name": "Poem Of The Atoms"
+      }
+    ]
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Chapel",
@@ -10390,7 +12296,12 @@
         "name": "Crafting Spec: Psalm 11:6"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Suspected_Organized_Crime_Activity:_Vice_Control",
+        "name": "Suspected Organized Crime Activity: Vice Control"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -10538,7 +12449,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Hippocratic_Oath",
+        "name": "Gig: Hippocratic Oath"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -10933,7 +12849,12 @@
     "street_cred": 3453,
     "eddies": 25600,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "I_Fought_the_Law",
+        "name": "I Fought the Law"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -10969,8 +12890,18 @@
     "street_cred": 866,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Ex-Factor",
+        "name": "Ex-Factor"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Pisces",
+        "name": "Pisces"
+      }
+    ]
   },
   {
     "slug": "Tapeworm",
@@ -11022,8 +12953,34 @@
         "name": "Johnny's tank top"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Automatic_Love",
+        "name": "Automatic Love"
+      },
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      },
+      {
+        "slug": "Life_During_Wartime",
+        "name": "Life During Wartime"
+      },
+      {
+        "slug": "Search_and_Destroy",
+        "name": "Search and Destroy"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Chippin%27_In_(quest)",
+        "name": "Chippin' In"
+      },
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ]
   },
   {
     "slug": "The_Ballad_of_Buck_Ravers_(quest)",
@@ -11100,8 +13057,18 @@
         "name": "Quadra Type-66 \"Cthulhu\""
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Double_Life",
+        "name": "Double Life"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Distance",
+        "name": "The Distance"
+      }
+    ]
   },
   {
     "slug": "The_Beast_in_Me:_Badlands",
@@ -11140,8 +13107,18 @@
     "street_cred": 728,
     "eddies": 3860,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Beast_in_Me:_City_Center",
+        "name": "The Beast in Me: City Center"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Beast_in_Me:_Santo_Domingo",
+        "name": "The Beast in Me: Santo Domingo"
+      }
+    ]
   },
   {
     "slug": "The_Beast_in_Me:_City_Center",
@@ -11183,8 +13160,18 @@
     "street_cred": 728,
     "eddies": 3860,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Beast_in_Me",
+        "name": "The Beast in Me"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Beast_in_Me:_Badlands",
+        "name": "The Beast in Me: Badlands"
+      }
+    ]
   },
   {
     "slug": "The_Beast_in_Me:_Santo_Domingo",
@@ -11218,8 +13205,18 @@
     "street_cred": 728,
     "eddies": 3860,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Beast_in_Me:_Badlands",
+        "name": "The Beast in Me: Badlands"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Beast_in_Me:_The_Big_Race",
+        "name": "The Beast in Me: The Big Race"
+      }
+    ]
   },
   {
     "slug": "The_Beast_in_Me:_The_Big_Race",
@@ -11249,8 +13246,18 @@
     "street_cred": 1092,
     "eddies": 5790,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Beast_in_Me:_Santo_Domingo",
+        "name": "The Beast in Me: Santo Domingo"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Beast_In_Me",
+        "name": "The Beast In Me"
+      }
+    ]
   },
   {
     "slug": "The_Corpo-Rat",
@@ -11295,7 +13302,12 @@
       }
     ],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ]
   },
   {
     "slug": "The_Damned",
@@ -11339,8 +13351,18 @@
         "name": "Gris-Gris"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Lucretia_My_Reflection",
+        "name": "Lucretia My Reflection"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ]
   },
   {
     "slug": "The_Distance",
@@ -11395,7 +13417,12 @@
         "name": "AUTOFIXER'S DISCOUNT EXTRAVAGANZZZA!"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Beast_in_Me",
+        "name": "The Beast in Me"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -11591,8 +13618,22 @@
         "name": "Nehan"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Pickup",
+        "name": "The Pickup"
+      },
+      {
+        "slug": "The_Information",
+        "name": "The Information"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Love_Like_Fire",
+        "name": "Love Like Fire"
+      }
+    ]
   },
   {
     "slug": "The_Highwayman",
@@ -11689,8 +13730,18 @@
         "name": "Tinker Bell"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "I_Fought_the_Law",
+        "name": "I Fought the Law"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Following_the_River",
+        "name": "Following the River"
+      }
+    ]
   },
   {
     "slug": "The_Information",
@@ -11730,8 +13781,18 @@
         "name": "Braindance Wreath"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Ride",
+        "name": "The Ride"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Heist",
+        "name": "The Heist"
+      }
+    ]
   },
   {
     "slug": "The_Killing_Moon",
@@ -11766,8 +13827,22 @@
         "name": "Pariah"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Firestarter",
+        "name": "Firestarter"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Unfinished_Sympathy",
+        "name": "Unfinished Sympathy"
+      },
+      {
+        "slug": "Through_Pain_to_Heaven",
+        "name": "Through Pain to Heaven"
+      }
+    ]
   },
   {
     "slug": "The_Nomad",
@@ -11820,7 +13895,12 @@
       }
     ],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ]
   },
   {
     "slug": "The_Pickup",
@@ -11864,8 +13944,18 @@
         "name": "Black Lace"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Ride",
+        "name": "The Ride"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Heist",
+        "name": "The Heist"
+      }
+    ]
   },
   {
     "slug": "The_Prophet%27s_Song",
@@ -11900,7 +13990,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -11940,8 +14035,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Nomad",
+        "name": "The Nomad"
+      },
+      {
+        "slug": "The_Streetkid",
+        "name": "The Streetkid"
+      },
+      {
+        "slug": "The_Corpo-Rat",
+        "name": "The Corpo-Rat"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Ripperdoc",
+        "name": "The Ripperdoc"
+      }
+    ]
   },
   {
     "slug": "The_Ride",
@@ -11984,8 +14097,22 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Ripperdoc",
+        "name": "The Ripperdoc"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Information",
+        "name": "The Information"
+      },
+      {
+        "slug": "The_Pickup",
+        "name": "The Pickup"
+      }
+    ]
   },
   {
     "slug": "The_Ripperdoc",
@@ -12037,8 +14164,18 @@
         "name": "Subdermal Armor"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "The_Ride",
+        "name": "The Ride"
+      }
+    ]
   },
   {
     "slug": "The_Show_Must_Go_On",
@@ -12068,7 +14205,12 @@
     "street_cred": 167,
     "eddies": 3000,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Gig:_Spy_in_the_Jungle",
+        "name": "Gig: Spy in the Jungle"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12108,8 +14250,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Automatic_Love",
+        "name": "Automatic Love"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Disasterpiece",
+        "name": "Disasterpiece"
+      }
+    ]
   },
   {
     "slug": "The_Streetkid",
@@ -12154,7 +14306,12 @@
       }
     ],
     "quests_previous": [],
-    "quests_next": []
+    "quests_next": [
+      {
+        "slug": "The_Rescue",
+        "name": "The Rescue"
+      }
+    ]
   },
   {
     "slug": "There_Is_A_Light_That_Never_Goes_Out",
@@ -12184,8 +14341,18 @@
     "street_cred": 2021,
     "eddies": 4600,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Sinnerman",
+        "name": "Sinnerman"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "They_Won%27t_Go_When_I_Go",
+        "name": "They Won't Go When I Go"
+      }
+    ]
   },
   {
     "slug": "These_Boots_Are_Made_for_Walkin%27",
@@ -12225,7 +14392,12 @@
         "name": "Thorton Galena \"Rattler\""
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Ghost_Town",
+        "name": "Ghost Town"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12261,7 +14433,12 @@
     "street_cred": 2021,
     "eddies": 3100,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "There_Is_A_Light_That_Never_Goes_Out",
+        "name": "There Is A Light That Never Goes Out"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12302,7 +14479,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Who_Wants_To_Live_Forever",
+        "name": "Who Wants To Live Forever"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12339,7 +14521,12 @@
         "name": "Erebus"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Leave_in_Silence",
+        "name": "Leave in Silence"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12370,8 +14557,18 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Killing_Moon",
+        "name": "The Killing Moon"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Who_Wants_To_Live_Forever",
+        "name": "Who Wants To Live Forever"
+      }
+    ]
   },
   {
     "slug": "Tomorrow_Never_Knows",
@@ -12434,8 +14631,18 @@
         "name": "Access Token"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Last_Caress",
+        "name": "Last Caress"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Where_is_My_Mind%3F",
+        "name": "Where is My Mind?"
+      }
+    ]
   },
   {
     "slug": "Transmission",
@@ -12474,8 +14681,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "I_Walk_the_Line",
+        "name": "I Walk the Line"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      },
+      {
+        "slug": "Send_in_the_Clowns",
+        "name": "Send in the Clowns"
+      },
+      {
+        "slug": "Dog_Eat_Dog",
+        "name": "Dog Eat Dog"
+      }
+    ]
   },
   {
     "slug": "Tune_Up",
@@ -12510,8 +14735,18 @@
     "street_cred": null,
     "eddies": 4900,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Human_Nature",
+        "name": "Human Nature"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Epistrophy",
+        "name": "Epistrophy"
+      }
+    ]
   },
   {
     "slug": "Unfinished_Sympathy",
@@ -12551,8 +14786,18 @@
         "name": "\"It's Always Sunny in Monte Carlo\""
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "The_Killing_Moon",
+        "name": "The Killing Moon"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "From_Her_to_Eternity",
+        "name": "From Her to Eternity"
+      }
+    ]
   },
   {
     "slug": "Upgrade_U",
@@ -12621,7 +14866,16 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "The_Pickup",
+        "name": "The Pickup"
+      },
+      {
+        "slug": "Playing_for_Time",
+        "name": "Playing for Time"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12670,15 +14924,16 @@
         "name": "memorabilia"
       },
       {
-        "slug": "Phantom_Liberty",
-        "name": ""
-      },
-      {
         "slug": "Amikiri_Sound_Cutter",
         "name": "Amikiri Sound Cutter"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Search_and_Destroy",
+        "name": "Search and Destroy"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12719,7 +14974,12 @@
         "name": "Rook"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "I%27ve_Seen_That_Face_Before",
+        "name": "I've Seen That Face Before"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12755,7 +15015,12 @@
         "name": "Apparition"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Transmission",
+        "name": "Transmission"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12795,8 +15060,18 @@
         "name": "Amnesty"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Forward_to_Death",
+        "name": "Forward to Death"
+      }
+    ]
   },
   {
     "slug": "Welcome_Home:_Corpo_Plaza",
@@ -12964,7 +15239,12 @@
         "name": "CrystalCoat"
       }
     ],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Motorbreath",
+        "name": "Motorbreath"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -12987,7 +15267,12 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
+    "quests_previous": [
+      {
+        "slug": "Totalimmortal",
+        "name": "Totalimmortal"
+      }
+    ],
     "quests_next": []
   },
   {
@@ -13023,8 +15308,26 @@
     "street_cred": null,
     "eddies": null,
     "items": [],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Four_Score_and_Seven",
+        "name": "Four Score and Seven"
+      },
+      {
+        "slug": "Through_Pain_to_Heaven",
+        "name": "Through Pain to Heaven"
+      },
+      {
+        "slug": "Nocturne_Op55N1",
+        "name": "Nocturne Op55N1"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Things_Done_Changed",
+        "name": "Things Done Changed"
+      }
+    ]
   },
   {
     "slug": "With_a_Little_Help_from_My_Friends",
@@ -13068,8 +15371,18 @@
         "name": "\"Bonewrecker\""
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Riders_on_the_Storm",
+        "name": "Riders on the Storm"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Queen_of_the_Highway",
+        "name": "Queen of the Highway"
+      }
+    ]
   },
   {
     "slug": "You_Know_My_Name",
@@ -13121,7 +15434,17 @@
         "name": "Bootleg BD from Lizzy Wizzy's Black Sapphire show"
       }
     ],
-    "quests_previous": [],
-    "quests_next": []
+    "quests_previous": [
+      {
+        "slug": "Get_It_Together",
+        "name": "Get It Together"
+      }
+    ],
+    "quests_next": [
+      {
+        "slug": "Birds_with_Broken_Wings",
+        "name": "Birds with Broken Wings"
+      }
+    ]
   }
 ]

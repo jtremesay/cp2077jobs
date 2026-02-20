@@ -4,14 +4,14 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from tqdm import tqdm
 
-from cp2077jobs.settings import HTML_DIR
+from cp2077jobs.settings import HTML_DIR, WIKI_BASE_URL
 
 
 def main():
     HTML_DIR.mkdir(exist_ok=True)
 
     driver = webdriver.Firefox()
-    driver.get("https://cyberpunk.fandom.com/wiki/Cyberpunk_2077_Main_Jobs")
+    driver.get(f"{WIKI_BASE_URL}Cyberpunk_2077_Main_Jobs")
 
     links = [
         (link.get_attribute("title"), link.get_attribute("href"))
