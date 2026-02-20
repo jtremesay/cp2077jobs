@@ -1,7 +1,7 @@
 from enum import StrEnum
 from typing import Optional
 
-from pydantic import BaseModel, TypeAdapter
+from pydantic import BaseModel, Field, TypeAdapter
 
 
 class Game(StrEnum):
@@ -47,17 +47,17 @@ class Job(BaseModel):
     gig_kind: Optional[GigKind] = None
 
     quest_giver: Optional[Link] = None
-    # districts: list[Link] = Field(default_factory=list)
-    # sub_districts: list[Link] = Field(default_factory=list)
-    # locations: list[Link] = Field(default_factory=list)
+    district: Optional[Link] = None
+    sub_districts: list[Link] = Field(default_factory=list)
+    locations: list[Link] = Field(default_factory=list)
 
-    # xp: Optional[int] = None
-    # street_cred: Optional[int] = None
-    # eddies: Optional[int] = None
-    # items: list[Link] = Field(default_factory=list)
+    xp: Optional[int] = None
+    street_cred: Optional[int] = None
+    eddies: Optional[int] = None
+    items: list[Link] = Field(default_factory=list)
 
-    # quests_previous: list[Link] = Field(default_factory=list)
-    # quests_next: list[Link] = Field(default_factory=list)
+    quests_previous: list[Link] = Field(default_factory=list)
+    quests_next: list[Link] = Field(default_factory=list)
 
 
 JobAdapter = TypeAdapter(list[Job])

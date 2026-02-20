@@ -9,7 +9,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "A_Cool_Metal_Fire",
@@ -21,7 +33,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "A_Day_In_The_Life",
@@ -33,7 +57,19 @@
     "quest_giver": {
       "slug": "Darrell_Zhou",
       "name": "Darrell Zhou"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "A_Like_Supreme_(quest)",
@@ -45,7 +81,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Addicted_To_Chaos",
@@ -57,7 +105,19 @@
     "quest_giver": {
       "slug": "Leon_Rinder",
       "name": "Leon Rinder"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "All_Along_the_Watchtower",
@@ -69,7 +129,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Automatic_Love",
@@ -81,7 +153,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Baby_Let_Me_Take_You",
@@ -93,7 +177,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Balls_to_the_Wall",
@@ -105,7 +201,19 @@
     "quest_giver": {
       "slug": "Paco_Torres",
       "name": "Paco Torres"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat",
@@ -117,7 +225,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat:_Arroyo",
@@ -129,7 +249,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat:_Kabuki",
@@ -141,7 +273,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat:_Pacifica",
@@ -153,7 +297,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat:_Rancho_Coronado",
@@ -165,7 +321,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Beat_on_the_Brat:_The_Glen",
@@ -177,7 +345,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Belly_of_the_Beast",
@@ -189,7 +369,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Big_in_Japan",
@@ -201,7 +393,19 @@
     "quest_giver": {
       "slug": "Dennis_Cranmer",
       "name": "Dennis Cranmer"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Birds_with_Broken_Wings",
@@ -213,7 +417,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Black_Steel_In_The_Hour_of_Chaos",
@@ -225,7 +441,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Blistering_Love",
@@ -237,7 +465,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Boat_Drinks",
@@ -249,7 +489,19 @@
     "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Both_Sides,_Now",
@@ -261,7 +513,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Bullets",
@@ -273,7 +537,19 @@
     "quest_giver": {
       "slug": "Zane_Jagger",
       "name": "Zane Jagger"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Burning_Desire",
@@ -285,7 +561,19 @@
     "quest_giver": {
       "slug": "Jesse_Johnson",
       "name": "Jesse Johnson"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Career_Opportunities",
@@ -297,7 +585,19 @@
     "quest_giver": {
       "slug": "Macroware",
       "name": "Macroware"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Changes",
@@ -309,7 +609,16 @@
     "quest_giver": {
       "slug": "Alt_Cunningham",
       "name": "Alt Cunningham"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Chippin%27_In_(quest)",
@@ -321,7 +630,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Coin_Operated_Boy",
@@ -333,7 +654,19 @@
     "quest_giver": {
       "slug": "Theo_Price",
       "name": "Theo Price"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Corpo_of_the_Month",
@@ -345,7 +678,19 @@
     "quest_giver": {
       "slug": "Alan_No%C3%ABl",
       "name": "Alan Noël"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Bloody_Ritual",
@@ -357,7 +702,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Demons_of_War",
@@ -369,7 +726,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Discount_Doc",
@@ -381,7 +750,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_House_on_a_Hill",
@@ -393,7 +774,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Letter_of_the_Law",
@@ -405,7 +798,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Lex_Talionis",
@@ -417,7 +822,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Lt._Mower",
@@ -429,7 +846,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_On_Deaf_Ears",
@@ -441,7 +870,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Phantom_of_Night_City",
@@ -453,7 +894,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Seaside_Cafe",
@@ -465,7 +918,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Second_Chances",
@@ -477,7 +942,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Six_Feet_Under",
@@ -489,7 +966,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Smoke_on_the_Water",
@@ -501,7 +990,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_The_Wasteland",
@@ -513,7 +1014,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Ticket_to_the_Major_Leagues",
@@ -525,7 +1038,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Under_the_Bridge",
@@ -537,7 +1062,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Cyberpsycho_Sighting:_Where_the_Bodies_Hit_the_Floor",
@@ -549,7 +1086,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Dazed_and_Confused",
@@ -561,7 +1110,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Dirty_Second_Hands",
@@ -573,7 +1134,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Disasterpiece",
@@ -585,7 +1158,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Dog_Eat_Dog",
@@ -597,7 +1182,19 @@
     "quest_giver": {
       "slug": "Songbird",
       "name": "Songbird"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Don%27t_Lose_Your_Mind",
@@ -609,7 +1206,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Double_Life",
@@ -621,7 +1230,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Down_on_the_Street",
@@ -633,7 +1254,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Dream_On",
@@ -645,7 +1278,19 @@
     "quest_giver": {
       "slug": "Jefferson_Peralez",
       "name": "Jefferson Peralez"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Dressed_to_Kill",
@@ -654,7 +1299,19 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy",
@@ -666,7 +1323,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_Badlands",
@@ -678,7 +1347,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_Coastview",
@@ -690,7 +1371,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_North_Oak",
@@ -702,7 +1395,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_Northside",
@@ -714,7 +1419,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_Rancho_Coronado",
@@ -726,7 +1443,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_The_Glen",
@@ -738,7 +1467,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Epistrophy:_Wellsprings",
@@ -750,7 +1491,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Every_Breath_You_Take",
@@ -762,7 +1515,19 @@
     "quest_giver": {
       "slug": "Blue_Moon",
       "name": "Blue Moon"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Every_Grain_of_Sand",
@@ -774,7 +1539,16 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Ex-Factor",
@@ -786,7 +1560,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Ezekiel_Saw_the_Wheel",
@@ -795,7 +1581,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Firestarter",
@@ -807,7 +1605,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Following_the_River",
@@ -819,7 +1629,19 @@
     "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Fool_on_the_Hill",
@@ -831,7 +1653,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "For_Whom_the_Bell_Tolls",
@@ -843,7 +1677,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Fortunate_Son",
@@ -855,7 +1701,19 @@
     "quest_giver": {
       "slug": "Bob_Sagan",
       "name": "Bob Sagan"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Forward_to_Death",
@@ -867,7 +1725,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Four_Score_and_Seven",
@@ -879,7 +1749,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Freedom",
@@ -891,7 +1773,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo_(2077)",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "From_Her_to_Eternity",
@@ -903,7 +1797,19 @@
     "quest_giver": {
       "slug": "Song_So_Mi",
       "name": "Unknown Number"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Full_Disclosure",
@@ -915,7 +1821,19 @@
     "quest_giver": {
       "slug": "Sandra_Dorsett",
       "name": "Sandra Dorsett"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gas_Gas_Gas",
@@ -927,7 +1845,16 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Get_It_Together",
@@ -939,7 +1866,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Ghost_Town",
@@ -951,7 +1890,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_A_Lack_of_Empathy",
@@ -963,7 +1914,19 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_A_Shrine_Defiled",
@@ -975,7 +1938,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_An_Inconvenient_Killer",
@@ -987,7 +1962,19 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Backs_Against_the_Wall",
@@ -999,7 +1986,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Big_Pete%27s_Got_Big_Problems",
@@ -1011,7 +2010,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Bloodsport",
@@ -1023,7 +2034,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Breaking_News",
@@ -1035,7 +2058,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Bring_Me_the_Head_of_Gustavo_Orta",
@@ -1047,7 +2082,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Catch_a_Tyger%27s_Toe",
@@ -1059,7 +2106,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Concrete_Cage_Trap",
@@ -1071,7 +2130,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Cuckoo%27s_Nest",
@@ -1083,7 +2154,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Dancing_on_a_Minefield",
@@ -1095,7 +2178,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Desperate_Measures",
@@ -1107,7 +2202,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Dirty_Biz",
@@ -1119,7 +2226,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Dogtown_Saints",
@@ -1131,7 +2250,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Error_404",
@@ -1143,7 +2274,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Eye_for_an_Eye",
@@ -1155,7 +2298,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Family_Heirloom",
@@ -1167,7 +2322,19 @@
     "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Family_Matters",
@@ -1179,7 +2346,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Fifth_Column",
@@ -1191,7 +2370,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Fixer,_Merc,_Soldier,_Spy",
@@ -1203,7 +2394,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Flight_of_the_Cheetah",
@@ -1215,7 +2418,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Flying_Drugs",
@@ -1227,7 +2442,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_For_My_Son",
@@ -1239,7 +2466,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Freedom_of_the_Press",
@@ -1251,7 +2490,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Getting_Warmer...",
@@ -1263,7 +2514,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Going-away_Party",
@@ -1275,7 +2538,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Going_Up_or_Down%3F",
@@ -1287,7 +2562,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Goodbye,_Night_City",
@@ -1299,7 +2586,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Greed_Never_Pays",
@@ -1311,7 +2610,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Guinea_Pigs",
@@ -1323,7 +2634,19 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Hacking_the_Hacker",
@@ -1335,7 +2658,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Heaviest_of_Hearts",
@@ -1347,7 +2682,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Hippocratic_Oath",
@@ -1359,7 +2706,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Hot_Merchandise",
@@ -1371,7 +2730,19 @@
     "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Jeopardy",
@@ -1383,7 +2754,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Last_Login",
@@ -1395,7 +2778,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Life%27s_Work",
@@ -1407,7 +2802,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Lousy_Kleppers",
@@ -1419,7 +2826,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_MIA",
@@ -1431,7 +2850,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Many_Ways_to_Skin_a_Cat",
@@ -1443,7 +2874,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Monster_Hunt",
@@ -1455,7 +2898,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Nasty_Hangover",
@@ -1467,7 +2922,19 @@
     "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_No_Fixers",
@@ -1479,7 +2946,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Occupational_Hazard",
@@ -1491,7 +2970,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Old_Friends",
@@ -1503,7 +2994,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Olive_Branch",
@@ -1515,7 +3018,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_On_a_Tight_Leash",
@@ -1527,7 +3042,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Playing_for_Keeps",
@@ -1539,7 +3066,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Prototype_in_the_Scraper",
@@ -1551,7 +3090,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Psychofan",
@@ -1563,7 +3114,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Race_to_the_Top",
@@ -1575,7 +3138,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Radar_Love",
@@ -1587,7 +3162,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Rite_of_Passage",
@@ -1599,7 +3186,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Roads_to_Redemption",
@@ -1611,7 +3210,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Scrolls_before_Swine",
@@ -1623,7 +3234,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Serial_Suicide",
@@ -1635,7 +3258,19 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Serious_Side_Effects",
@@ -1647,7 +3282,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Severance_Package",
@@ -1659,7 +3306,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Shark_in_the_Water",
@@ -1671,7 +3330,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Small_Man,_Big_Evil",
@@ -1683,7 +3354,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Sparring_Partner",
@@ -1695,7 +3378,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Spy_in_the_Jungle",
@@ -1707,7 +3402,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Sr._Ladrillo%27s_Private_Collection",
@@ -1719,7 +3426,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Talent_Academy",
@@ -1731,7 +3450,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_The_Frolics_of_Councilwoman_Cole",
@@ -1743,7 +3474,19 @@
     "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_The_Heisenberg_Principle",
@@ -1755,7 +3498,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_The_Lord_Giveth_and_Taketh_Away",
@@ -1767,7 +3522,19 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_The_Man_Who_Killed_Jason_Foreman",
@@ -1779,7 +3546,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_The_Union_Strikes_Back",
@@ -1791,7 +3570,19 @@
     "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Treating_Symptoms",
@@ -1803,7 +3594,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Trevor%27s_Last_Ride",
@@ -1815,7 +3618,19 @@
     "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Troublesome_Neighbors",
@@ -1827,7 +3642,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Two_Wrongs_Makes_Us_Right",
@@ -1839,7 +3666,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Tyger_and_Vulture",
@@ -1851,7 +3690,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Until_Death_Do_Us_Part",
@@ -1863,7 +3714,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Waiting_for_Dodger",
@@ -1875,7 +3738,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Wakako%27s_Favorite",
@@ -1887,7 +3762,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_We_Have_Your_Wife",
@@ -1899,7 +3786,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Welcome_to_America,_Comrade",
@@ -1911,7 +3810,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gig:_Woman_of_La_Mancha",
@@ -1923,7 +3834,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gimme_Danger",
@@ -1935,7 +3858,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Go_Your_Own_Way",
@@ -1947,7 +3882,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "God_Bless_This_Mess",
@@ -1959,7 +3906,16 @@
     "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Gun_Music",
@@ -1968,7 +3924,19 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Happy_Together",
@@ -1980,7 +3948,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Heroes",
@@ -1992,7 +3972,19 @@
     "quest_giver": {
       "slug": "Mam%C3%A1_Welles",
       "name": "Mamá Welles"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Hi_Ho_Silver_Lining",
@@ -2004,7 +3996,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Holdin%27_On",
@@ -2016,7 +4020,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Hole_in_the_Sky",
@@ -2025,7 +4041,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Houses_In_Motion:_Makeovers",
@@ -2034,7 +4062,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Human_Nature",
@@ -2046,7 +4086,19 @@
     "quest_giver": {
       "slug": "Megabuilding_H10",
       "name": "Megabuilding H10"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I%27ll_Fly_Away",
@@ -2058,7 +4110,19 @@
     "quest_giver": {
       "slug": "Mitch_Anderson",
       "name": "Mitch Anderson"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I%27m_in_Love_with_My_Car",
@@ -2070,7 +4134,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I%27ve_Seen_That_Face_Before",
@@ -2082,7 +4158,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I_Can_See_Clearly_Now",
@@ -2094,7 +4182,19 @@
     "quest_giver": {
       "slug": "Brendan",
       "name": "Brendan"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I_Don%27t_Wanna_Hear_It",
@@ -2106,7 +4206,19 @@
     "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I_Fought_the_Law",
@@ -2118,7 +4230,19 @@
     "quest_giver": {
       "slug": "Elizabeth_Peralez",
       "name": "Elizabeth Peralez"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I_Really_Want_to_Stay_at_Your_House_(quest)",
@@ -2127,7 +4251,16 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "I_Walk_the_Line",
@@ -2139,7 +4272,19 @@
     "quest_giver": {
       "slug": "Placide",
       "name": "Placide"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Imagine",
@@ -2151,7 +4296,19 @@
     "quest_giver": {
       "slug": "Zen_Master",
       "name": "Strange Monk"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Increased_Criminal_Activity:_BARGHEST",
@@ -2160,7 +4317,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Increased_Criminal_Activity:_SCAVENGERS",
@@ -2169,7 +4338,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Increased_Criminal_Activity:_Voodoo_Boys",
@@ -2178,7 +4359,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Just_Another_Story",
@@ -2190,7 +4383,16 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "KOLD_MIRAGE",
@@ -2199,7 +4401,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Killing_In_The_Name",
@@ -2208,7 +4422,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Knockin%27_on_Heaven%27s_Door",
@@ -2220,7 +4446,19 @@
     "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Last_Call",
@@ -2232,7 +4470,16 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Last_Caress",
@@ -2244,7 +4491,19 @@
     "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Leave_in_Silence",
@@ -2253,7 +4512,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Life_During_Wartime",
@@ -2265,7 +4536,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Lightning_Breaks",
@@ -2277,7 +4560,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Love_Like_Fire",
@@ -2289,7 +4584,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Love_Rollercoaster",
@@ -2301,7 +4608,19 @@
     "quest_giver": {
       "slug": "Jean_Rochelin",
       "name": "Jean Rochelin"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Lucretia_My_Reflection",
@@ -2313,7 +4632,19 @@
     "quest_giver": {
       "slug": "Rosalind_Myers",
       "name": "Rosalind Myers"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "M%27ap_Tann_P%C3%A8len",
@@ -2322,7 +4653,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Machine_Gun",
@@ -2334,7 +4677,19 @@
     "quest_giver": {
       "slug": "Skippy",
       "name": "Skippy"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Meetings_Along_The_Edge",
@@ -2346,7 +4701,19 @@
     "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Money_For_Nothing",
@@ -2358,7 +4725,19 @@
     "quest_giver": {
       "slug": "Katya_Karelina",
       "name": "Katya Karelina"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Motorbreath",
@@ -2370,7 +4749,19 @@
     "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Moving_Heat",
@@ -2382,7 +4773,19 @@
     "quest_giver": {
       "slug": "Ashlay",
       "name": "Ashlay"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Murk_Man_Returns_Again_Once_More_Forever",
@@ -2391,7 +4794,19 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Never_Fade_Away_(quest)",
@@ -2403,7 +4818,16 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "New_Dawn_Fades",
@@ -2415,7 +4839,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "New_Person,_Same_Old_Mistakes",
@@ -2427,7 +4863,19 @@
     "quest_giver": {
       "slug": "Bill_Mitchel",
       "name": "Bill Mitchel"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Nitro_(Youth_Energy)",
@@ -2439,7 +4887,19 @@
     "quest_giver": {
       "slug": "Yaiba",
       "name": "Yaiba"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "No_Easy_Way_Out",
@@ -2451,7 +4911,19 @@
     "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Nocturne_Op55N1",
@@ -2463,7 +4935,19 @@
     "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Off_the_Leash_(quest)",
@@ -2475,7 +4959,19 @@
     "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "One_Way_or_Another",
@@ -2487,7 +4983,19 @@
     "quest_giver": {
       "slug": "Nele_Springer",
       "name": "Nele Springer"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Only_Pain",
@@ -2496,7 +5004,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Over_the_Edge",
@@ -2505,7 +5025,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Paid_in_Full",
@@ -2517,7 +5049,19 @@
     "quest_giver": {
       "slug": "Viktor_Vektor",
       "name": "Viktor Vektor"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Path_of_Glory",
@@ -2529,7 +5073,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Phantom_Liberty_(quest)",
@@ -2538,7 +5094,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Pisces",
@@ -2550,7 +5118,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Play_It_Safe",
@@ -2562,7 +5142,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Playing_for_Time",
@@ -2574,7 +5166,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Poem_Of_The_Atoms",
@@ -2586,7 +5190,19 @@
     "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Practice_Makes_Perfect",
@@ -2598,7 +5214,19 @@
     "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Professional_Widow",
@@ -2610,7 +5238,16 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Psycho_Killer",
@@ -2622,7 +5259,19 @@
     "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Push_It_to_the_Limit",
@@ -2634,7 +5283,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Pyramid_Song",
@@ -2646,7 +5307,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Queen_of_the_Highway",
@@ -2658,7 +5331,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Raymond_Chandler_Evening",
@@ -2670,7 +5355,19 @@
     "quest_giver": {
       "slug": "Pepe_Najarro",
       "name": "Pepe Najarro"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Rebel!_Rebel!",
@@ -2682,7 +5379,19 @@
     "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_A_Stroke_of_Luck",
@@ -2691,7 +5400,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Another_Circle_of_Hell",
@@ -2703,7 +5424,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Blood_in_the_Air",
@@ -2712,7 +5445,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Comrade_Red",
@@ -2724,7 +5469,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Crash_Test",
@@ -2733,7 +5490,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Dangerous_Currents",
@@ -2742,7 +5511,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Delivery_From_Above",
@@ -2751,7 +5532,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Disloyal_Employee",
@@ -2760,7 +5553,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Don%27t_Forget_the_Parking_Brake!",
@@ -2769,7 +5574,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Dredged_Up",
@@ -2778,7 +5595,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Extremely_Loud_and_Incredibly_Close",
@@ -2790,7 +5619,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Honey,_Where_are_You%3F",
@@ -2799,7 +5640,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_I_Don%27t_Like_Sand",
@@ -2808,7 +5661,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Justice_Behind_Bars",
@@ -2817,7 +5682,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Lost_and_Found",
@@ -2826,7 +5703,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Needle_in_a_Haystack",
@@ -2835,7 +5724,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_One_Thing_Led_to_Another",
@@ -2844,7 +5745,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Paranoia",
@@ -2853,7 +5766,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Protect_and_Serve",
@@ -2862,7 +5787,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Roadside_Picnic",
@@ -2871,7 +5808,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Smoking_Kills",
@@ -2883,7 +5832,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Supply_Management",
@@ -2895,7 +5856,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Table_Scraps",
@@ -2904,7 +5877,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Turn_Off_the_Tap",
@@ -2913,7 +5898,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Welcome_to_Night_City",
@@ -2922,7 +5919,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_Worldly_Possessions",
@@ -2931,7 +5940,19 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Reported_Crime:_You_Play_with_Fire...",
@@ -2943,7 +5964,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Ride_Captain_Ride",
@@ -2955,7 +5988,16 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Riders_on_the_Storm",
@@ -2967,7 +6009,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Run_This_Town",
@@ -2979,7 +6033,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Sacrum_Profanum",
@@ -2988,7 +6054,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Search_and_Destroy",
@@ -3000,7 +6078,19 @@
     "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Second_Conflict_(quest)",
@@ -3012,7 +6102,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Send_in_the_Clowns",
@@ -3024,7 +6126,19 @@
     "quest_giver": {
       "slug": "Ozob_Bozo",
       "name": "Ozob Bozo"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Sex_On_Wheels",
@@ -3036,7 +6150,19 @@
     "quest_giver": {
       "slug": "Jake_Estevez",
       "name": "Jake Estevez"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Shape_of_a_Pony",
@@ -3048,7 +6174,19 @@
     "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Shoot_To_Thrill",
@@ -3060,7 +6198,19 @@
     "quest_giver": {
       "slug": "Robert_Wilson",
       "name": "Robert Wilson"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Shot_by_Both_Sides",
@@ -3072,7 +6222,19 @@
     "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Sinnerman",
@@ -3084,7 +6246,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Small_Man,_Big_Mouth",
@@ -3096,7 +6270,19 @@
     "quest_giver": {
       "slug": "Kirk_Sawyer",
       "name": "Kirk Sawyer"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Somewhat_Damaged",
@@ -3105,7 +6291,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Space_Oddity",
@@ -3114,7 +6312,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Spellbound",
@@ -3126,7 +6336,19 @@
     "quest_giver": {
       "slug": "Nix",
       "name": "Nix"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Spider_and_the_Fly",
@@ -3135,7 +6357,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Spray_Paint",
@@ -3147,7 +6381,19 @@
     "quest_giver": {
       "slug": "Brendan",
       "name": "Brendan"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Stadium_Love",
@@ -3156,7 +6402,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Stairway_To_Heaven",
@@ -3168,7 +6426,19 @@
     "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Chapel",
@@ -3180,7 +6450,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Desperate_Sons-of-Bitches",
@@ -3192,7 +6474,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Just_Say_No",
@@ -3204,7 +6498,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Living_the_Big_Life",
@@ -3216,7 +6522,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Modern_Labor_Market",
@@ -3228,7 +6546,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_New_Boss,_New_Rules",
@@ -3240,7 +6570,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_No_License,_No_Problem",
@@ -3252,7 +6594,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Opposites_Attract",
@@ -3264,7 +6618,19 @@
     "quest_giver": {
       "slug": "Night_City_Police_Department",
       "name": "Night City Police Department"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Privacy_Policy_Violation",
@@ -3276,7 +6642,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Tygers_by_the_Tail",
@@ -3288,7 +6666,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Vice_Control",
@@ -3300,7 +6690,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity:_Wipe_the_Gonk,_Take_the_Implants",
@@ -3312,7 +6714,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity_(Arroyo)",
@@ -3324,7 +6738,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity_(Jackson_Plains)",
@@ -3336,7 +6762,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity_(Rocky_Ridge)",
@@ -3348,7 +6786,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity_(Vista_del_Rey)",
@@ -3360,7 +6810,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Suspected_Organized_Crime_Activity_(West_Wind_Estate)",
@@ -3372,7 +6834,19 @@
     "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Sweet_Dreams",
@@ -3384,7 +6858,19 @@
     "quest_giver": {
       "slug": "Stefan",
       "name": "Stefan"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Talkin%27_%27bout_a_Revolution",
@@ -3396,7 +6882,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Tapeworm",
@@ -3408,7 +6906,19 @@
     "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Ballad_of_Buck_Ravers_(quest)",
@@ -3417,7 +6927,19 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Beast_In_Me",
@@ -3429,7 +6951,19 @@
     "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Beast_in_Me:_Badlands",
@@ -3441,7 +6975,19 @@
     "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Beast_in_Me:_City_Center",
@@ -3453,7 +6999,19 @@
     "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Beast_in_Me:_Santo_Domingo",
@@ -3465,7 +7023,19 @@
     "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Beast_in_Me:_The_Big_Race",
@@ -3477,7 +7047,19 @@
     "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Corpo-Rat",
@@ -3489,7 +7071,19 @@
     "quest_giver": {
       "slug": "Arthur_Jenkins",
       "name": "Arthur Jenkins"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Damned",
@@ -3501,7 +7095,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Distance",
@@ -3513,7 +7119,19 @@
     "quest_giver": {
       "slug": "Jim_Jarry",
       "name": "Jim Jarry"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Gift",
@@ -3525,7 +7143,19 @@
     "quest_giver": {
       "slug": "T-Bug",
       "name": "T-Bug"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Gig",
@@ -3537,7 +7167,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Gun",
@@ -3549,7 +7191,19 @@
     "quest_giver": {
       "slug": "Robert_Wilson",
       "name": "Robert Wilson"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Heist",
@@ -3561,7 +7215,19 @@
     "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Highwayman",
@@ -3570,7 +7236,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Hunt",
@@ -3582,7 +7260,19 @@
     "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Information",
@@ -3594,7 +7284,19 @@
     "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Killing_Moon",
@@ -3606,7 +7308,19 @@
     "quest_giver": {
       "slug": "Song_So_Mi",
       "name": "Song So Mi"
-    }
+    },
+    "district": {
+      "slug": "Morro_Rock",
+      "name": "Morro Rock"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Nomad",
@@ -3618,7 +7332,19 @@
     "quest_giver": {
       "slug": "Willie_McCoy",
       "name": "Willie McCoy"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Pickup",
@@ -3630,7 +7356,19 @@
     "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Prophet%27s_Song",
@@ -3642,7 +7380,19 @@
     "quest_giver": {
       "slug": "Gerald_Winkler",
       "name": "Garry the Prophet"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Rescue",
@@ -3654,7 +7404,19 @@
     "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Ride",
@@ -3666,7 +7428,19 @@
     "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Ripperdoc",
@@ -3678,7 +7452,19 @@
     "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Show_Must_Go_On",
@@ -3690,7 +7476,19 @@
     "quest_giver": {
       "slug": "Steven_Santos",
       "name": "Steven Santos"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Space_in_Between",
@@ -3702,7 +7500,19 @@
     "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "The_Streetkid",
@@ -3714,7 +7524,19 @@
     "quest_giver": {
       "slug": "Pepe_Najarro",
       "name": "Pepe Najarro"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "There_Is_A_Light_That_Never_Goes_Out",
@@ -3726,7 +7548,19 @@
     "quest_giver": {
       "slug": "Joshua_Stephenson",
       "name": "Joshua Stephenson"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "These_Boots_Are_Made_for_Walkin%27",
@@ -3738,7 +7572,19 @@
     "quest_giver": {
       "slug": "Thorton_Galena_%22Rattler%22",
       "name": "Thorton Galena 80845"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "They_Won%27t_Go_When_I_Go",
@@ -3750,7 +7596,19 @@
     "quest_giver": {
       "slug": "Rachel_Casich",
       "name": "Rachel Casich"
-    }
+    },
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Things_Done_Changed",
@@ -3759,7 +7617,19 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "This_Corrosion",
@@ -3768,7 +7638,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Through_Pain_to_Heaven",
@@ -3780,7 +7662,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Santo_Domingo",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Tomorrow_Never_Knows",
@@ -3789,7 +7683,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Totalimmortal",
@@ -3801,7 +7707,19 @@
     "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
-    }
+    },
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Transmission",
@@ -3813,7 +7731,19 @@
     "quest_giver": {
       "slug": "Brigitte",
       "name": "Brigitte"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Tune_Up",
@@ -3825,7 +7755,19 @@
     "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
-    }
+    },
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Unfinished_Sympathy",
@@ -3837,7 +7779,19 @@
     "quest_giver": {
       "slug": "Alena_Xenakis",
       "name": "Alena Xenakis"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Upgrade_U",
@@ -3849,7 +7803,16 @@
     "quest_giver": {
       "slug": "Viktor_Vektor",
       "name": "Viktor Vektor"
-    }
+    },
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Venus_in_Furs",
@@ -3861,7 +7824,19 @@
     "quest_giver": {
       "slug": "Meredith_Stout",
       "name": "Meredith Stout"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Violence",
@@ -3873,7 +7848,19 @@
     "quest_giver": {
       "slug": "Lizzy_Wizzy",
       "name": "Lizzy Wizzy"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Voodoo_Treasure",
@@ -3885,7 +7872,19 @@
     "quest_giver": {
       "slug": "Aurore_Cassel",
       "name": "Aurore Cassel"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "War_Pigs",
@@ -3897,7 +7896,19 @@
     "quest_giver": {
       "slug": "Frank_Nostra",
       "name": "Frank Nostra"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "We_Gotta_Live_Together",
@@ -3909,7 +7920,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Welcome_Home:_Corpo_Plaza",
@@ -3918,7 +7941,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "City_Center_(2077)",
+      "name": "City Center"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Welcome_Home:_Japantown",
@@ -3927,7 +7962,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Westbrook_(2077)",
+      "name": "Westbrook"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Welcome_Home:_Northside",
@@ -3936,7 +7983,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Welcome_Home:_The_Glen",
@@ -3945,7 +8004,19 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Heywood_(2077)",
+      "name": "Heywood"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Where_Eagles_Dare",
@@ -3954,7 +8025,19 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": {
+      "slug": "Santo_Domingo_(2077)",
+      "name": "Santo Domingo"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Where_is_My_Mind%3F",
@@ -3963,7 +8046,16 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_giver": null
+    "quest_giver": null,
+    "district": null,
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "Who_Wants_to_Live_Forever",
@@ -3975,7 +8067,19 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Watson_(2077)",
+      "name": "Watson"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "With_a_Little_Help_from_My_Friends",
@@ -3987,7 +8091,19 @@
     "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
-    }
+    },
+    "district": {
+      "slug": "Badlands",
+      "name": "Badlands"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   },
   {
     "slug": "You_Know_My_Name",
@@ -3999,6 +8115,18 @@
     "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
-    }
+    },
+    "district": {
+      "slug": "Pacifica_(2077)",
+      "name": "Pacifica"
+    },
+    "sub_districts": [],
+    "locations": [],
+    "xp": null,
+    "street_cred": null,
+    "eddies": null,
+    "items": [],
+    "quests_previous": [],
+    "quests_next": []
   }
 ]
