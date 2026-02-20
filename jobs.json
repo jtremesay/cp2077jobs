@@ -1,0 +1,4004 @@
+[
+  {
+    "slug": "(Don%27t_Fear)_The_Reaper",
+    "name": "(Don't Fear) The Reaper",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "A_Cool_Metal_Fire",
+    "name": "A Cool Metal Fire",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "A_Day_In_The_Life",
+    "name": "A Day In The Life",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Darrell_Zhou",
+      "name": "Darrell Zhou"
+    }
+  },
+  {
+    "slug": "A_Like_Supreme_(quest)",
+    "name": "A Like Supreme",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Addicted_To_Chaos",
+    "name": "Addicted To Chaos",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Leon_Rinder",
+      "name": "Leon Rinder"
+    }
+  },
+  {
+    "slug": "All_Along_the_Watchtower",
+    "name": "All Along the Watchtower",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Automatic_Love",
+    "name": "Automatic Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Baby_Let_Me_Take_You",
+    "name": "Baby Let Me Take You",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Balls_to_the_Wall",
+    "name": "Balls to the Wall",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Paco_Torres",
+      "name": "Paco Torres"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat",
+    "name": "Beat on the Brat",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Arroyo",
+    "name": "Beat on the Brat: Arroyo",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Kabuki",
+    "name": "Beat on the Brat: Kabuki",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Pacifica",
+    "name": "Beat on the Brat: Pacifica",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat:_Rancho_Coronado",
+    "name": "Beat on the Brat: Rancho Coronado",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Beat_on_the_Brat:_The_Glen",
+    "name": "Beat on the Brat: The Glen",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Belly_of_the_Beast",
+    "name": "Belly of the Beast",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Big_in_Japan",
+    "name": "Big in Japan",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dennis_Cranmer",
+      "name": "Dennis Cranmer"
+    }
+  },
+  {
+    "slug": "Birds_with_Broken_Wings",
+    "name": "Birds with Broken Wings",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Black_Steel_In_The_Hour_of_Chaos",
+    "name": "Black Steel In The Hour of Chaos",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Blistering_Love",
+    "name": "Blistering Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Boat_Drinks",
+    "name": "Boat Drinks",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Kerry_Eurodyne",
+      "name": "Kerry Eurodyne"
+    }
+  },
+  {
+    "slug": "Both_Sides,_Now",
+    "name": "Both Sides, Now",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Bullets",
+    "name": "Bullets",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Zane_Jagger",
+      "name": "Zane Jagger"
+    }
+  },
+  {
+    "slug": "Burning_Desire",
+    "name": "Burning Desire / Night Moves",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jesse_Johnson",
+      "name": "Jesse Johnson"
+    }
+  },
+  {
+    "slug": "Career_Opportunities",
+    "name": "Career Opportunities",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Macroware",
+      "name": "Macroware"
+    }
+  },
+  {
+    "slug": "Changes",
+    "name": "Changes",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Alt_Cunningham",
+      "name": "Alt Cunningham"
+    }
+  },
+  {
+    "slug": "Chippin%27_In_(quest)",
+    "name": "Chippin' In",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Coin_Operated_Boy",
+    "name": "Coin Operated Boy",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Theo_Price",
+      "name": "Theo Price"
+    }
+  },
+  {
+    "slug": "Corpo_of_the_Month",
+    "name": "Corpo of the Month",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Alan_No%C3%ABl",
+      "name": "Alan Noël"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Bloody_Ritual",
+    "name": "Bloody Ritual",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Demons_of_War",
+    "name": "Demons of War",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Discount_Doc",
+    "name": "Discount Doc",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_House_on_a_Hill",
+    "name": "House on a Hill",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Letter_of_the_Law",
+    "name": "Letter of the Law",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Lex_Talionis",
+    "name": "Lex Talionis",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Lt._Mower",
+    "name": "Lt. Mower",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_On_Deaf_Ears",
+    "name": "On Deaf Ears",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Phantom_of_Night_City",
+    "name": "Phantom of Night City",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Seaside_Cafe",
+    "name": "Seaside Cafe",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Second_Chances",
+    "name": "Second Chances",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Six_Feet_Under",
+    "name": "Six Feet Under",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Smoke_on_the_Water",
+    "name": "Smoke on the Water",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_The_Wasteland",
+    "name": "The Wasteland",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Ticket_to_the_Major_Leagues",
+    "name": "Ticket to the Major Leagues",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Under_the_Bridge",
+    "name": "Under the Bridge",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Cyberpsycho_Sighting:_Where_the_Bodies_Hit_the_Floor",
+    "name": "Where the Bodies Hit the Floor",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Cyberpsycho Sighting",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Dazed_and_Confused",
+    "name": "Dazed and Confused",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Dirty_Second_Hands",
+    "name": "Dirty Second Hands",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Disasterpiece",
+    "name": "Disasterpiece",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Dog_Eat_Dog",
+    "name": "Dog Eat Dog",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Songbird",
+      "name": "Songbird"
+    }
+  },
+  {
+    "slug": "Don%27t_Lose_Your_Mind",
+    "name": "Don't Lose Your Mind",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Double_Life",
+    "name": "Double Life",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Down_on_the_Street",
+    "name": "Down on the Street",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Dream_On",
+    "name": "Dream On",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jefferson_Peralez",
+      "name": "Jefferson Peralez"
+    }
+  },
+  {
+    "slug": "Dressed_to_Kill",
+    "name": "Dressed to Kill",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Epistrophy",
+    "name": "Epistrophy",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_Badlands",
+    "name": "Epistrophy: Badlands",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_Coastview",
+    "name": "Epistrophy: Coastview",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_North_Oak",
+    "name": "Epistrophy: North Oak",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_Northside",
+    "name": "Epistrophy: Northside",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_Rancho_Coronado",
+    "name": "Epistrophy: Rancho Coronado",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_The_Glen",
+    "name": "Epistrophy: The Glen",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Epistrophy:_Wellsprings",
+    "name": "Epistrophy: Wellsprings",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Every_Breath_You_Take",
+    "name": "Every Breath You Take",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Blue_Moon",
+      "name": "Blue Moon"
+    }
+  },
+  {
+    "slug": "Every_Grain_of_Sand",
+    "name": "Every Grain of Sand",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Ex-Factor",
+    "name": "Ex-Factor",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Ezekiel_Saw_the_Wheel",
+    "name": "Ezekiel Saw the Wheel",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Firestarter",
+    "name": "Firestarter",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Following_the_River",
+    "name": "Following the River",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "River_Ward",
+      "name": "River Ward"
+    }
+  },
+  {
+    "slug": "Fool_on_the_Hill",
+    "name": "Fool on the Hill",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "For_Whom_the_Bell_Tolls",
+    "name": "For Whom the Bell Tolls",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Fortunate_Son",
+    "name": "Fortunate Son",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Bob_Sagan",
+      "name": "Bob Sagan"
+    }
+  },
+  {
+    "slug": "Forward_to_Death",
+    "name": "Forward to Death",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Four_Score_and_Seven",
+    "name": "Four Score and Seven",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Freedom",
+    "name": "Freedom",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "From_Her_to_Eternity",
+    "name": "From Her to Eternity",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Song_So_Mi",
+      "name": "Unknown Number"
+    }
+  },
+  {
+    "slug": "Full_Disclosure",
+    "name": "Full Disclosure",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Sandra_Dorsett",
+      "name": "Sandra Dorsett"
+    }
+  },
+  {
+    "slug": "Gas_Gas_Gas",
+    "name": "Gas Gas Gas",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Get_It_Together",
+    "name": "Get It Together",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Ghost_Town",
+    "name": "Ghost Town",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Gig:_A_Lack_of_Empathy",
+    "name": "A Lack of Empathy",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Gig:_A_Shrine_Defiled",
+    "name": "A Shrine Defiled",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_An_Inconvenient_Killer",
+    "name": "An Inconvenient Killer",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Gig:_Backs_Against_the_Wall",
+    "name": "Backs Against the Wall",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Big_Pete%27s_Got_Big_Problems",
+    "name": "Big Pete's Got Big Problems",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Bloodsport",
+    "name": "Bloodsport",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Breaking_News",
+    "name": "Breaking News",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Bring_Me_the_Head_of_Gustavo_Orta",
+    "name": "Bring Me the Head of Gustavo Orta",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Catch_a_Tyger%27s_Toe",
+    "name": "Catch a Tyger's Toe",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Concrete_Cage_Trap",
+    "name": "Concrete Cage Trap",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Cuckoo%27s_Nest",
+    "name": "Cuckoo's Nest",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Dancing_on_a_Minefield",
+    "name": "Dancing on a Minefield",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Special Delivery",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Desperate_Measures",
+    "name": "Desperate Measures",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Dirty_Biz",
+    "name": "Dirty Biz",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Dogtown_Saints",
+    "name": "Dogtown Saints",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Error_404",
+    "name": "Error 404",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Eye_for_an_Eye",
+    "name": "Eye for an Eye",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Family_Heirloom",
+    "name": "Family Heirloom",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Rogue_Amendiares",
+      "name": "Rogue Amendiares"
+    }
+  },
+  {
+    "slug": "Gig:_Family_Matters",
+    "name": "Family Matters",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Fifth_Column",
+    "name": "Fifth Column",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Fixer,_Merc,_Soldier,_Spy",
+    "name": "Fixer, Merc, Soldier, Spy",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Flight_of_the_Cheetah",
+    "name": "Flight of the Cheetah",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Flying_Drugs",
+    "name": "Flying Drugs",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_For_My_Son",
+    "name": "For My Son",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Freedom_of_the_Press",
+    "name": "Freedom of the Press",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Getting_Warmer...",
+    "name": "Getting Warmer...",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_Going-away_Party",
+    "name": "Going-away Party",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Going_Up_or_Down%3F",
+    "name": "Going Up or Down?",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Goodbye,_Night_City",
+    "name": "Goodbye, Night City",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Greed_Never_Pays",
+    "name": "Greed Never Pays",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_Guinea_Pigs",
+    "name": "Guinea Pigs",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Gig:_Hacking_the_Hacker",
+    "name": "Hacking the Hacker",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Heaviest_of_Hearts",
+    "name": "Heaviest of Hearts",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Hippocratic_Oath",
+    "name": "Hippocratic Oath",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Hot_Merchandise",
+    "name": "Hot Merchandise",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Rogue_Amendiares",
+      "name": "Rogue Amendiares"
+    }
+  },
+  {
+    "slug": "Gig:_Jeopardy",
+    "name": "Jeopardy",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Last_Login",
+    "name": "Last Login",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Life%27s_Work",
+    "name": "Life's Work",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Lousy_Kleppers",
+    "name": "Lousy Kleppers",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_MIA",
+    "name": "MIA",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Many_Ways_to_Skin_a_Cat",
+    "name": "Many Ways to Skin a Cat",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Monster_Hunt",
+    "name": "Monster Hunt",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Nasty_Hangover",
+    "name": "Nasty Hangover",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Rogue_Amendiares",
+      "name": "Rogue Amendiares"
+    }
+  },
+  {
+    "slug": "Gig:_No_Fixers",
+    "name": "No Fixers",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Occupational_Hazard",
+    "name": "Occupational Hazard",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Old_Friends",
+    "name": "Old Friends",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Olive_Branch",
+    "name": "Olive Branch",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Special Delivery",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_On_a_Tight_Leash",
+    "name": "On a Tight Leash",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Playing_for_Keeps",
+    "name": "Playing for Keeps",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Prototype_in_the_Scraper",
+    "name": "Prototype in the Scraper",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Psychofan",
+    "name": "Psychofan",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Race_to_the_Top",
+    "name": "Race to the Top",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Radar_Love",
+    "name": "Radar Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Rite_of_Passage",
+    "name": "Rite of Passage",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Roads_to_Redemption",
+    "name": "Roads to Redemption",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Scrolls_before_Swine",
+    "name": "Scrolls before Swine",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Serial_Suicide",
+    "name": "Serial Suicide",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Gig:_Serious_Side_Effects",
+    "name": "Serious Side Effects",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Severance_Package",
+    "name": "Severance Package",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Gig:_Shark_in_the_Water",
+    "name": "Shark in the Water",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Small_Man,_Big_Evil",
+    "name": "Small Man, Big Evil",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Sparring_Partner",
+    "name": "Sparring Partner",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Spy_in_the_Jungle",
+    "name": "Spy in the Jungle",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Sr._Ladrillo%27s_Private_Collection",
+    "name": "Sr. Ladrillo's Private Collection",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_Talent_Academy",
+    "name": "Talent Academy",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_The_Frolics_of_Councilwoman_Cole",
+    "name": "The Frolics of Councilwoman Cole",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Dino_Dinovic",
+      "name": "Dino Dinovic"
+    }
+  },
+  {
+    "slug": "Gig:_The_Heisenberg_Principle",
+    "name": "The Heisenberg Principle",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_The_Lord_Giveth_and_Taketh_Away",
+    "name": "The Lord Giveth and Taketh Away",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Search and Recovery",
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gig:_The_Man_Who_Killed_Jason_Foreman",
+    "name": "The Man Who Killed Jason Foreman",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_The_Union_Strikes_Back",
+    "name": "The Union Strikes Back",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Rogue_Amendiares",
+      "name": "Rogue Amendiares"
+    }
+  },
+  {
+    "slug": "Gig:_Treating_Symptoms",
+    "name": "Treating Symptoms",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Trevor%27s_Last_Ride",
+    "name": "Trevor's Last Ride",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Dakota_Smith",
+      "name": "Dakota Smith"
+    }
+  },
+  {
+    "slug": "Gig:_Troublesome_Neighbors",
+    "name": "Troublesome Neighbors",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Two_Wrongs_Makes_Us_Right",
+    "name": "Two Wrongs Makes Us Right",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Tyger_and_Vulture",
+    "name": "Tyger and Vulture",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_Until_Death_Do_Us_Part",
+    "name": "Until Death Do Us Part",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Thievery",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_Waiting_for_Dodger",
+    "name": "Waiting for Dodger",
+    "game": "Phantom Liberty",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Gig:_Wakako%27s_Favorite",
+    "name": "Wakako's Favorite",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_We_Have_Your_Wife",
+    "name": "We Have Your Wife",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "SOS: Merc Needed",
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Gig:_Welcome_to_America,_Comrade",
+    "name": "Welcome to America, Comrade",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Agent Saboteur",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gig:_Woman_of_La_Mancha",
+    "name": "Woman of La Mancha",
+    "game": "Cyberpunk 2077",
+    "kind": "Gig",
+    "minor_activity_kind": null,
+    "gig_kind": "Gun for Hire",
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Gimme_Danger",
+    "name": "Gimme Danger",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Go_Your_Own_Way",
+    "name": "Go Your Own Way",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "God_Bless_This_Mess",
+    "name": "God Bless This Mess",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Sebastian_Ibarra",
+      "name": "Sebastian Ibarra"
+    }
+  },
+  {
+    "slug": "Gun_Music",
+    "name": "Gun Music",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Happy_Together",
+    "name": "Happy Together",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Heroes",
+    "name": "Heroes",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mam%C3%A1_Welles",
+      "name": "Mamá Welles"
+    }
+  },
+  {
+    "slug": "Hi_Ho_Silver_Lining",
+    "name": "Hi Ho Silver Lining",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Holdin%27_On",
+    "name": "Holdin' On",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Hole_in_the_Sky",
+    "name": "Hole in the Sky",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Houses_In_Motion:_Makeovers",
+    "name": "Houses In Motion: Makeovers",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Human_Nature",
+    "name": "Human Nature",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Megabuilding_H10",
+      "name": "Megabuilding H10"
+    }
+  },
+  {
+    "slug": "I%27ll_Fly_Away",
+    "name": "I'll Fly Away",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mitch_Anderson",
+      "name": "Mitch Anderson"
+    }
+  },
+  {
+    "slug": "I%27m_in_Love_with_My_Car",
+    "name": "I'm in Love with My Car",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "I%27ve_Seen_That_Face_Before",
+    "name": "I've Seen That Face Before",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "I_Can_See_Clearly_Now",
+    "name": "I Can See Clearly Now",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Brendan",
+      "name": "Brendan"
+    }
+  },
+  {
+    "slug": "I_Don%27t_Wanna_Hear_It",
+    "name": "I Don't Wanna Hear It",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Kerry_Eurodyne",
+      "name": "Kerry Eurodyne"
+    }
+  },
+  {
+    "slug": "I_Fought_the_Law",
+    "name": "I Fought the Law",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Elizabeth_Peralez",
+      "name": "Elizabeth Peralez"
+    }
+  },
+  {
+    "slug": "I_Really_Want_to_Stay_at_Your_House_(quest)",
+    "name": "I Really Want to Stay at Your House",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "I_Walk_the_Line",
+    "name": "I Walk the Line",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Placide",
+      "name": "Placide"
+    }
+  },
+  {
+    "slug": "Imagine",
+    "name": "Imagine",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Zen_Master",
+      "name": "Strange Monk"
+    }
+  },
+  {
+    "slug": "Increased_Criminal_Activity:_BARGHEST",
+    "name": "BARGHEST",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Increased Criminal Activity",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Increased_Criminal_Activity:_SCAVENGERS",
+    "name": "SCAVENGERS",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Increased Criminal Activity",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Increased_Criminal_Activity:_Voodoo_Boys",
+    "name": "Voodoo Boys",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Increased Criminal Activity",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Just_Another_Story",
+    "name": "Just Another Story",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "KOLD_MIRAGE",
+    "name": "KOLD MIRAGE",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Killing_In_The_Name",
+    "name": "Killing In The Name",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Knockin%27_on_Heaven%27s_Door",
+    "name": "Knockin' on Heaven's Door",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Rogue_Amendiares",
+      "name": "Rogue Amendiares"
+    }
+  },
+  {
+    "slug": "Last_Call",
+    "name": "Last Call",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Last_Caress",
+    "name": "Last Caress",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Hanako_Arasaka",
+      "name": "Hanako Arasaka"
+    }
+  },
+  {
+    "slug": "Leave_in_Silence",
+    "name": "Leave in Silence",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Life_During_Wartime",
+    "name": "Life During Wartime",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Lightning_Breaks",
+    "name": "Lightning Breaks",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Love_Like_Fire",
+    "name": "Love Like Fire",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Love_Rollercoaster",
+    "name": "Love Rollercoaster",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jean_Rochelin",
+      "name": "Jean Rochelin"
+    }
+  },
+  {
+    "slug": "Lucretia_My_Reflection",
+    "name": "Lucretia My Reflection",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Rosalind_Myers",
+      "name": "Rosalind Myers"
+    }
+  },
+  {
+    "slug": "M%27ap_Tann_P%C3%A8len",
+    "name": "M'ap Tann Pèlen",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Machine_Gun",
+    "name": "Machine Gun",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Skippy",
+      "name": "Skippy"
+    }
+  },
+  {
+    "slug": "Meetings_Along_The_Edge",
+    "name": "Meetings Along The Edge",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Zen_Master",
+      "name": "Zen Master"
+    }
+  },
+  {
+    "slug": "Money_For_Nothing",
+    "name": "Money For Nothing",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Katya_Karelina",
+      "name": "Katya Karelina"
+    }
+  },
+  {
+    "slug": "Motorbreath",
+    "name": "Motorbreath",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "River_Ward",
+      "name": "River Ward"
+    }
+  },
+  {
+    "slug": "Moving_Heat",
+    "name": "Moving Heat",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Ashlay",
+      "name": "Ashlay"
+    }
+  },
+  {
+    "slug": "Murk_Man_Returns_Again_Once_More_Forever",
+    "name": "Murk Man Returns Again Once More Forever",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Never_Fade_Away_(quest)",
+    "name": "Never Fade Away",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "New_Dawn_Fades",
+    "name": "New Dawn Fades",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "New_Person,_Same_Old_Mistakes",
+    "name": "New Person, Same Old Mistakes",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Bill_Mitchel",
+      "name": "Bill Mitchel"
+    }
+  },
+  {
+    "slug": "Nitro_(Youth_Energy)",
+    "name": "Nitro (Youth Energy)",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Yaiba",
+      "name": "Yaiba"
+    }
+  },
+  {
+    "slug": "No_Easy_Way_Out",
+    "name": "No Easy Way Out",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Coach_Fred",
+      "name": "Coach Fred"
+    }
+  },
+  {
+    "slug": "Nocturne_Op55N1",
+    "name": "Nocturne Op55N1",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Hanako_Arasaka",
+      "name": "Hanako Arasaka"
+    }
+  },
+  {
+    "slug": "Off_the_Leash_(quest)",
+    "name": "Off the Leash",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Kerry_Eurodyne",
+      "name": "Kerry Eurodyne"
+    }
+  },
+  {
+    "slug": "One_Way_or_Another",
+    "name": "One Way or Another",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Nele_Springer",
+      "name": "Nele Springer"
+    }
+  },
+  {
+    "slug": "Only_Pain",
+    "name": "Only Pain",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Over_the_Edge",
+    "name": "Over the Edge",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Paid_in_Full",
+    "name": "Paid in Full",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Viktor_Vektor",
+      "name": "Viktor Vektor"
+    }
+  },
+  {
+    "slug": "Path_of_Glory",
+    "name": "Path of Glory",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Phantom_Liberty_(quest)",
+    "name": "Phantom Liberty",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Pisces",
+    "name": "Pisces",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Play_It_Safe",
+    "name": "Play It Safe",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Playing_for_Time",
+    "name": "Playing for Time",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Poem_Of_The_Atoms",
+    "name": "Poem Of The Atoms",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Zen_Master",
+      "name": "Zen Master"
+    }
+  },
+  {
+    "slug": "Practice_Makes_Perfect",
+    "name": "Practice Makes Perfect",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jackie_Welles",
+      "name": "Jackie Welles"
+    }
+  },
+  {
+    "slug": "Professional_Widow",
+    "name": "Professional Widow",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Psycho_Killer",
+    "name": "Psycho Killer",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Regina_Jones",
+      "name": "Regina Jones"
+    }
+  },
+  {
+    "slug": "Push_It_to_the_Limit",
+    "name": "Push It to the Limit",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Pyramid_Song",
+    "name": "Pyramid Song",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Queen_of_the_Highway",
+    "name": "Queen of the Highway",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Raymond_Chandler_Evening",
+    "name": "Raymond Chandler Evening",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Pepe_Najarro",
+      "name": "Pepe Najarro"
+    }
+  },
+  {
+    "slug": "Rebel!_Rebel!",
+    "name": "Rebel! Rebel!",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Kerry_Eurodyne",
+      "name": "Kerry Eurodyne"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_A_Stroke_of_Luck",
+    "name": "A Stroke of Luck",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Another_Circle_of_Hell",
+    "name": "Another Circle of Hell",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_Blood_in_the_Air",
+    "name": "Blood in the Air",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Comrade_Red",
+    "name": "Comrade Red",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_Crash_Test",
+    "name": "Crash Test",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Dangerous_Currents",
+    "name": "Dangerous Currents",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Delivery_From_Above",
+    "name": "Delivery From Above",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Disloyal_Employee",
+    "name": "Disloyal Employee",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Don%27t_Forget_the_Parking_Brake!",
+    "name": "Don't Forget the Parking Brake!",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Dredged_Up",
+    "name": "Dredged Up",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Extremely_Loud_and_Incredibly_Close",
+    "name": "Extremely Loud and Incredibly Close",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_Honey,_Where_are_You%3F",
+    "name": "Honey, Where are You?",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_I_Don%27t_Like_Sand",
+    "name": "I Don't Like Sand",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Justice_Behind_Bars",
+    "name": "Justice Behind Bars",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Lost_and_Found",
+    "name": "Lost and Found",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Needle_in_a_Haystack",
+    "name": "Needle in a Haystack",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_One_Thing_Led_to_Another",
+    "name": "One Thing Led to Another",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Paranoia",
+    "name": "Paranoia",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Protect_and_Serve",
+    "name": "Protect and Serve",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Roadside_Picnic",
+    "name": "Roadside Picnic",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Smoking_Kills",
+    "name": "Smoking Kills",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_Supply_Management",
+    "name": "Supply Management",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Reported_Crime:_Table_Scraps",
+    "name": "Table Scraps",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Turn_Off_the_Tap",
+    "name": "Turn Off the Tap",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Welcome_to_Night_City",
+    "name": "Welcome to Night City",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_Worldly_Possessions",
+    "name": "Worldly Possessions",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Reported_Crime:_You_Play_with_Fire...",
+    "name": "You Play with Fire...",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Reported Crime",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Ride_Captain_Ride",
+    "name": "Ride Captain Ride",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Riders_on_the_Storm",
+    "name": "Riders on the Storm",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Run_This_Town",
+    "name": "Run This Town",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Sacrum_Profanum",
+    "name": "Sacrum Profanum / Losing My Religion",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Search_and_Destroy",
+    "name": "Search and Destroy",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Goro_Takemura",
+      "name": "Goro Takemura"
+    }
+  },
+  {
+    "slug": "Second_Conflict_(quest)",
+    "name": "Second Conflict",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "Send_in_the_Clowns",
+    "name": "Send in the Clowns",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Ozob_Bozo",
+      "name": "Ozob Bozo"
+    }
+  },
+  {
+    "slug": "Sex_On_Wheels",
+    "name": "Sex On Wheels",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jake_Estevez",
+      "name": "Jake Estevez"
+    }
+  },
+  {
+    "slug": "Shape_of_a_Pony",
+    "name": "Shape of a Pony",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Muamar_Reyes",
+      "name": "Muamar Reyes"
+    }
+  },
+  {
+    "slug": "Shoot_To_Thrill",
+    "name": "Shoot To Thrill",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Robert_Wilson",
+      "name": "Robert Wilson"
+    }
+  },
+  {
+    "slug": "Shot_by_Both_Sides",
+    "name": "Shot by Both Sides",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Mr._Hands",
+      "name": "Mr. Hands"
+    }
+  },
+  {
+    "slug": "Sinnerman",
+    "name": "Sinnerman",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "Small_Man,_Big_Mouth",
+    "name": "Small Man, Big Mouth",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Kirk_Sawyer",
+      "name": "Kirk Sawyer"
+    }
+  },
+  {
+    "slug": "Somewhat_Damaged",
+    "name": "Somewhat Damaged",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Space_Oddity",
+    "name": "Space Oddity",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Spellbound",
+    "name": "Spellbound",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Nix",
+      "name": "Nix"
+    }
+  },
+  {
+    "slug": "Spider_and_the_Fly",
+    "name": "Spider and the Fly",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Spray_Paint",
+    "name": "Spray Paint",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Brendan",
+      "name": "Brendan"
+    }
+  },
+  {
+    "slug": "Stadium_Love",
+    "name": "Stadium Love",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Stairway_To_Heaven",
+    "name": "Stairway To Heaven",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Zen_Master",
+      "name": "Zen Master"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Chapel",
+    "name": "Chapel",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Desperate_Sons-of-Bitches",
+    "name": "Desperate Sons-of-Bitches",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Just_Say_No",
+    "name": "Just Say No",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Living_the_Big_Life",
+    "name": "Living the Big Life",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Modern_Labor_Market",
+    "name": "Modern Labor Market",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_New_Boss,_New_Rules",
+    "name": "New Boss, New Rules",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_No_License,_No_Problem",
+    "name": "No License, No Problem",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Opposites_Attract",
+    "name": "Opposites Attract",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Night_City_Police_Department",
+      "name": "Night City Police Department"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Privacy_Policy_Violation",
+    "name": "Privacy Policy Violation",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Tygers_by_the_Tail",
+    "name": "Tygers by the Tail",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Vice_Control",
+    "name": "Vice Control",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity:_Wipe_the_Gonk,_Take_the_Implants",
+    "name": "Wipe the Gonk, Take the Implants",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity_(Arroyo)",
+    "name": "Arroyo",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity_(Jackson_Plains)",
+    "name": "Jackson Plains",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity_(Rocky_Ridge)",
+    "name": "Rocky Ridge",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity_(Vista_del_Rey)",
+    "name": "Vista del Rey",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Suspected_Organized_Crime_Activity_(West_Wind_Estate)",
+    "name": "West Wind Estate",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Activity",
+    "minor_activity_kind": "Suspected Organized Crime Activity",
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "NCPD",
+      "name": "NCPD"
+    }
+  },
+  {
+    "slug": "Sweet_Dreams",
+    "name": "Sweet Dreams",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Stefan",
+      "name": "Stefan"
+    }
+  },
+  {
+    "slug": "Talkin%27_%27bout_a_Revolution",
+    "name": "Talkin' 'bout a Revolution",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "Tapeworm",
+    "name": "Tapeworm",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Johnny_Silverhand",
+      "name": "Johnny Silverhand"
+    }
+  },
+  {
+    "slug": "The_Ballad_of_Buck_Ravers_(quest)",
+    "name": "The Ballad of Buck Ravers",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "The_Beast_In_Me",
+    "name": "The Beast In Me",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Claire_Russell",
+      "name": "Claire Russell"
+    }
+  },
+  {
+    "slug": "The_Beast_in_Me:_Badlands",
+    "name": "The Beast in Me: Badlands",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Claire_Russell",
+      "name": "Claire Russell"
+    }
+  },
+  {
+    "slug": "The_Beast_in_Me:_City_Center",
+    "name": "The Beast in Me: City Center",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Claire_Russell",
+      "name": "Claire Russell"
+    }
+  },
+  {
+    "slug": "The_Beast_in_Me:_Santo_Domingo",
+    "name": "The Beast in Me: Santo Domingo",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Claire_Russell",
+      "name": "Claire Russell"
+    }
+  },
+  {
+    "slug": "The_Beast_in_Me:_The_Big_Race",
+    "name": "The Beast in Me: The Big Race",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Claire_Russell",
+      "name": "Claire Russell"
+    }
+  },
+  {
+    "slug": "The_Corpo-Rat",
+    "name": "The Corpo-Rat",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Arthur_Jenkins",
+      "name": "Arthur Jenkins"
+    }
+  },
+  {
+    "slug": "The_Damned",
+    "name": "The Damned",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "The_Distance",
+    "name": "The Distance",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jim_Jarry",
+      "name": "Jim Jarry"
+    }
+  },
+  {
+    "slug": "The_Gift",
+    "name": "The Gift",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "T-Bug",
+      "name": "T-Bug"
+    }
+  },
+  {
+    "slug": "The_Gig",
+    "name": "The Gig",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "The_Gun",
+    "name": "The Gun",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Robert_Wilson",
+      "name": "Robert Wilson"
+    }
+  },
+  {
+    "slug": "The_Heist",
+    "name": "The Heist",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dexter_DeShawn",
+      "name": "Dexter DeShawn"
+    }
+  },
+  {
+    "slug": "The_Highwayman",
+    "name": "The Highwayman",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "The_Hunt",
+    "name": "The Hunt",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "River_Ward",
+      "name": "River Ward"
+    }
+  },
+  {
+    "slug": "The_Information",
+    "name": "The Information",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dexter_DeShawn",
+      "name": "Dexter DeShawn"
+    }
+  },
+  {
+    "slug": "The_Killing_Moon",
+    "name": "The Killing Moon",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Song_So_Mi",
+      "name": "Song So Mi"
+    }
+  },
+  {
+    "slug": "The_Nomad",
+    "name": "The Nomad",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Willie_McCoy",
+      "name": "Willie McCoy"
+    }
+  },
+  {
+    "slug": "The_Pickup",
+    "name": "The Pickup",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Dexter_DeShawn",
+      "name": "Dexter DeShawn"
+    }
+  },
+  {
+    "slug": "The_Prophet%27s_Song",
+    "name": "The Prophet's Song",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Gerald_Winkler",
+      "name": "Garry the Prophet"
+    }
+  },
+  {
+    "slug": "The_Rescue",
+    "name": "The Rescue",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Wakako_Okada",
+      "name": "Wakako Okada"
+    }
+  },
+  {
+    "slug": "The_Ride",
+    "name": "The Ride",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jackie_Welles",
+      "name": "Jackie Welles"
+    }
+  },
+  {
+    "slug": "The_Ripperdoc",
+    "name": "The Ripperdoc",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Jackie_Welles",
+      "name": "Jackie Welles"
+    }
+  },
+  {
+    "slug": "The_Show_Must_Go_On",
+    "name": "The Show Must Go On",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Steven_Santos",
+      "name": "Steven Santos"
+    }
+  },
+  {
+    "slug": "The_Space_in_Between",
+    "name": "The Space in Between",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Judy_%C3%81lvarez",
+      "name": "Judy Álvarez"
+    }
+  },
+  {
+    "slug": "The_Streetkid",
+    "name": "The Streetkid",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Pepe_Najarro",
+      "name": "Pepe Najarro"
+    }
+  },
+  {
+    "slug": "There_Is_A_Light_That_Never_Goes_Out",
+    "name": "There Is A Light That Never Goes Out",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Joshua_Stephenson",
+      "name": "Joshua Stephenson"
+    }
+  },
+  {
+    "slug": "These_Boots_Are_Made_for_Walkin%27",
+    "name": "These Boots Are Made for Walkin'",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Thorton_Galena_%22Rattler%22",
+      "name": "Thorton Galena 80845"
+    }
+  },
+  {
+    "slug": "They_Won%27t_Go_When_I_Go",
+    "name": "They Won't Go When I Go",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Rachel_Casich",
+      "name": "Rachel Casich"
+    }
+  },
+  {
+    "slug": "Things_Done_Changed",
+    "name": "Things Done Changed",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "This_Corrosion",
+    "name": "This Corrosion",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Through_Pain_to_Heaven",
+    "name": "Through Pain to Heaven",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "Tomorrow_Never_Knows",
+    "name": "Tomorrow Never Knows",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Totalimmortal",
+    "name": "Totalimmortal",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Hanako_Arasaka",
+      "name": "Hanako Arasaka"
+    }
+  },
+  {
+    "slug": "Transmission",
+    "name": "Transmission",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Brigitte",
+      "name": "Brigitte"
+    }
+  },
+  {
+    "slug": "Tune_Up",
+    "name": "Tune Up",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Delamain_(AI)",
+      "name": "Delamain"
+    }
+  },
+  {
+    "slug": "Unfinished_Sympathy",
+    "name": "Unfinished Sympathy",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Alena_Xenakis",
+      "name": "Alena Xenakis"
+    }
+  },
+  {
+    "slug": "Upgrade_U",
+    "name": "Upgrade U",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Viktor_Vektor",
+      "name": "Viktor Vektor"
+    }
+  },
+  {
+    "slug": "Venus_in_Furs",
+    "name": "Venus in Furs",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Meredith_Stout",
+      "name": "Meredith Stout"
+    }
+  },
+  {
+    "slug": "Violence",
+    "name": "Violence",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Lizzy_Wizzy",
+      "name": "Lizzy Wizzy"
+    }
+  },
+  {
+    "slug": "Voodoo_Treasure",
+    "name": "Voodoo Treasure",
+    "game": "Phantom Liberty",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Aurore_Cassel",
+      "name": "Aurore Cassel"
+    }
+  },
+  {
+    "slug": "War_Pigs",
+    "name": "War Pigs",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Frank_Nostra",
+      "name": "Frank Nostra"
+    }
+  },
+  {
+    "slug": "We_Gotta_Live_Together",
+    "name": "We Gotta Live Together",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "Welcome_Home:_Corpo_Plaza",
+    "name": "Welcome Home: Corpo Plaza",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Welcome_Home:_Japantown",
+    "name": "Welcome Home: Japantown",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Welcome_Home:_Northside",
+    "name": "Welcome Home: Northside",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Welcome_Home:_The_Glen",
+    "name": "Welcome Home: The Glen",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Where_Eagles_Dare",
+    "name": "Where Eagles Dare",
+    "game": "Cyberpunk 2077",
+    "kind": "Minor Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Where_is_My_Mind%3F",
+    "name": "Where is My Mind?",
+    "game": "Cyberpunk 2077",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": null
+  },
+  {
+    "slug": "Who_Wants_to_Live_Forever",
+    "name": "Who Wants to Live Forever",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  },
+  {
+    "slug": "With_a_Little_Help_from_My_Friends",
+    "name": "With a Little Help from My Friends",
+    "game": "Cyberpunk 2077",
+    "kind": "Side Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Panam_Palmer",
+      "name": "Panam Palmer"
+    }
+  },
+  {
+    "slug": "You_Know_My_Name",
+    "name": "You Know My Name",
+    "game": "Phantom Liberty",
+    "kind": "Main Job",
+    "minor_activity_kind": null,
+    "gig_kind": null,
+    "quest_givers": {
+      "slug": "Solomon_Reed",
+      "name": "Solomon Reed"
+    }
+  }
+]

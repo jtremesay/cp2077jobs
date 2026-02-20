@@ -1,7 +1,7 @@
 from enum import StrEnum
 from typing import Optional
 
-from pydantic import BaseModel, Field, TypeAdapter
+from pydantic import BaseModel, TypeAdapter
 
 
 class Game(StrEnum):
@@ -17,6 +17,22 @@ class JobKind(StrEnum):
     MINOR_ACTIVITY = "Minor Activity"
 
 
+class MinorActivityKind(StrEnum):
+    CYBERPSYCHO_SIGHTING = "Cyberpsycho Sighting"
+    INCREASED_CRIMINAL_ACTIVITY = "Increased Criminal Activity"
+    REPORTED_CRIME = "Reported Crime"
+    SUSPECTED_ORGANIZED_CRIME_ACTIVITY = "Suspected Organized Crime Activity"
+
+
+class GigKind(StrEnum):
+    AGENT_SABOTEUR = "Agent Saboteur"
+    GUN_FOR_HIRE = "Gun for Hire"
+    SEARCH_AND_RECOVERY = "Search and Recovery"
+    SOS_MERC_NEEDED = "SOS: Merc Needed"
+    SPECIAL_DELIVERY = "Special Delivery"
+    THIEVERY = "Thievery"
+
+
 class Link(BaseModel):
     slug: str
     name: Optional[str] = None
@@ -27,19 +43,21 @@ class Job(BaseModel):
     name: str
     game: Game
     kind: JobKind
+    minor_activity_kind: Optional[MinorActivityKind] = None
+    gig_kind: Optional[GigKind] = None
 
-    quest_givers: list[Link] = Field(default_factory=list)
-    districts: list[Link] = Field(default_factory=list)
-    sub_districts: list[Link] = Field(default_factory=list)
-    locations: list[Link] = Field(default_factory=list)
+    quest_givers: Optional[Link] = None
+    # districts: list[Link] = Field(default_factory=list)
+    # sub_districts: list[Link] = Field(default_factory=list)
+    # locations: list[Link] = Field(default_factory=list)
 
-    xp: Optional[int] = None
-    street_cred: Optional[int] = None
-    eddies: Optional[int] = None
-    items: list[Link] = Field(default_factory=list)
+    # xp: Optional[int] = None
+    # street_cred: Optional[int] = None
+    # eddies: Optional[int] = None
+    # items: list[Link] = Field(default_factory=list)
 
-    quests_previous: list[Link] = Field(default_factory=list)
-    quests_next: list[Link] = Field(default_factory=list)
+    # quests_previous: list[Link] = Field(default_factory=list)
+    # quests_next: list[Link] = Field(default_factory=list)
 
 
-Jobs = TypeAdapter(list[Job])
+JobAdapter = TypeAdapter(list[Job])
