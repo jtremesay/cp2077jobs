@@ -27,7 +27,7 @@ class JobBuilder:
         self.minor_activity_kind: Optional[MinorActivityKind] = None
         self.gig_kind: Optional[GigKind] = None
 
-        self.quest_givers: Optional[Link] = None
+        self.quest_giver: Optional[Link] = None
         self.districts = []
         self.sub_districts = []
         self.locations = []
@@ -49,7 +49,7 @@ class JobBuilder:
             kind=self.kind,
             minor_activity_kind=self.minor_activity_kind,
             gig_kind=self.gig_kind,
-            quest_givers=self.quest_givers,
+            quest_giver=self.quest_giver,
             # districts=self.districts,
             # sub_districts=self.sub_districts,
             # locations=self.locations,
@@ -103,7 +103,7 @@ def extract_from_aside(builder: JobBuilder, aside_node: Tag) -> None:
                             if (
                                 link_node := row_node.select_one("div.pi-data-value a")
                             ) is not None:
-                                builder.quest_givers = Link(
+                                builder.quest_giver = Link(
                                     slug=link_node["href"].rsplit("/", 1)[-1],
                                     name=link_node.text.strip(),
                                 )

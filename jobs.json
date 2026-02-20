@@ -6,7 +6,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -18,7 +18,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -30,7 +30,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Darrell_Zhou",
       "name": "Darrell Zhou"
     }
@@ -42,7 +42,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -54,7 +54,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Leon_Rinder",
       "name": "Leon Rinder"
     }
@@ -66,7 +66,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -78,7 +78,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -90,7 +90,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -102,7 +102,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Paco_Torres",
       "name": "Paco Torres"
     }
@@ -114,7 +114,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -126,7 +126,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -138,7 +138,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -150,7 +150,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -162,7 +162,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -174,7 +174,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -186,7 +186,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -198,7 +198,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dennis_Cranmer",
       "name": "Dennis Cranmer"
     }
@@ -210,7 +210,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -222,7 +222,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -234,7 +234,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -246,7 +246,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
     }
@@ -258,7 +258,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -270,7 +270,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Zane_Jagger",
       "name": "Zane Jagger"
     }
@@ -282,7 +282,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jesse_Johnson",
       "name": "Jesse Johnson"
     }
@@ -294,7 +294,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Macroware",
       "name": "Macroware"
     }
@@ -306,7 +306,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Alt_Cunningham",
       "name": "Alt Cunningham"
     }
@@ -318,7 +318,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -330,7 +330,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Theo_Price",
       "name": "Theo Price"
     }
@@ -342,7 +342,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Alan_No%C3%ABl",
       "name": "Alan Noël"
     }
@@ -354,7 +354,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -366,7 +366,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -378,7 +378,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -390,7 +390,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -402,7 +402,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -414,7 +414,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -426,7 +426,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -438,7 +438,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -450,7 +450,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -462,7 +462,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -474,7 +474,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -486,7 +486,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -498,7 +498,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -510,7 +510,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -522,7 +522,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -534,7 +534,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -546,7 +546,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Cyberpsycho Sighting",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -558,7 +558,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -570,7 +570,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -582,7 +582,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -594,7 +594,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Songbird",
       "name": "Songbird"
     }
@@ -606,7 +606,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -618,7 +618,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -630,7 +630,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -642,7 +642,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jefferson_Peralez",
       "name": "Jefferson Peralez"
     }
@@ -654,7 +654,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Epistrophy",
@@ -663,7 +663,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -675,7 +675,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -687,7 +687,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -699,7 +699,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -711,7 +711,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -723,7 +723,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -735,7 +735,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -747,7 +747,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -759,7 +759,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Blue_Moon",
       "name": "Blue Moon"
     }
@@ -771,7 +771,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -783,7 +783,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -795,7 +795,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Firestarter",
@@ -804,7 +804,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -816,7 +816,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
     }
@@ -828,7 +828,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -840,7 +840,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -852,7 +852,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Bob_Sagan",
       "name": "Bob Sagan"
     }
@@ -864,7 +864,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -876,7 +876,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -888,7 +888,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -900,7 +900,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Song_So_Mi",
       "name": "Unknown Number"
     }
@@ -912,7 +912,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sandra_Dorsett",
       "name": "Sandra Dorsett"
     }
@@ -924,7 +924,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -936,7 +936,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -948,7 +948,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -960,7 +960,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -972,7 +972,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -984,7 +984,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -996,7 +996,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1008,7 +1008,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1020,7 +1020,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1032,7 +1032,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1044,7 +1044,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1056,7 +1056,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1068,7 +1068,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1080,7 +1080,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1092,7 +1092,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Special Delivery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1104,7 +1104,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1116,7 +1116,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1128,7 +1128,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1140,7 +1140,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1152,7 +1152,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1164,7 +1164,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
     }
@@ -1176,7 +1176,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1188,7 +1188,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1200,7 +1200,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1212,7 +1212,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1224,7 +1224,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1236,7 +1236,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1248,7 +1248,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1260,7 +1260,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1272,7 +1272,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1284,7 +1284,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1296,7 +1296,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1308,7 +1308,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1320,7 +1320,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -1332,7 +1332,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1344,7 +1344,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1356,7 +1356,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1368,7 +1368,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
     }
@@ -1380,7 +1380,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1392,7 +1392,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1404,7 +1404,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1416,7 +1416,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1428,7 +1428,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1440,7 +1440,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1452,7 +1452,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1464,7 +1464,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
     }
@@ -1476,7 +1476,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1488,7 +1488,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1500,7 +1500,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1512,7 +1512,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Special Delivery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1524,7 +1524,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1536,7 +1536,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1548,7 +1548,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1560,7 +1560,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1572,7 +1572,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1584,7 +1584,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1596,7 +1596,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1608,7 +1608,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1620,7 +1620,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1632,7 +1632,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -1644,7 +1644,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1656,7 +1656,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -1668,7 +1668,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1680,7 +1680,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1692,7 +1692,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1704,7 +1704,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1716,7 +1716,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1728,7 +1728,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1740,7 +1740,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dino_Dinovic",
       "name": "Dino Dinovic"
     }
@@ -1752,7 +1752,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1764,7 +1764,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Search and Recovery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1776,7 +1776,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1788,7 +1788,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
     }
@@ -1800,7 +1800,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1812,7 +1812,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dakota_Smith",
       "name": "Dakota Smith"
     }
@@ -1824,7 +1824,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1836,7 +1836,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1848,7 +1848,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1860,7 +1860,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Thievery",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1872,7 +1872,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1884,7 +1884,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1896,7 +1896,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "SOS: Merc Needed",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -1908,7 +1908,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Agent Saboteur",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1920,7 +1920,7 @@
     "kind": "Gig",
     "minor_activity_kind": null,
     "gig_kind": "Gun for Hire",
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -1932,7 +1932,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -1944,7 +1944,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -1956,7 +1956,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Sebastian_Ibarra",
       "name": "Sebastian Ibarra"
     }
@@ -1968,7 +1968,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Happy_Together",
@@ -1977,7 +1977,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -1989,7 +1989,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mam%C3%A1_Welles",
       "name": "Mamá Welles"
     }
@@ -2001,7 +2001,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -2013,7 +2013,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2025,7 +2025,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Houses_In_Motion:_Makeovers",
@@ -2034,7 +2034,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Human_Nature",
@@ -2043,7 +2043,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Megabuilding_H10",
       "name": "Megabuilding H10"
     }
@@ -2055,7 +2055,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mitch_Anderson",
       "name": "Mitch Anderson"
     }
@@ -2067,7 +2067,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2079,7 +2079,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -2091,7 +2091,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Brendan",
       "name": "Brendan"
     }
@@ -2103,7 +2103,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
     }
@@ -2115,7 +2115,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Elizabeth_Peralez",
       "name": "Elizabeth Peralez"
     }
@@ -2127,7 +2127,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "I_Walk_the_Line",
@@ -2136,7 +2136,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Placide",
       "name": "Placide"
     }
@@ -2148,7 +2148,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Zen_Master",
       "name": "Strange Monk"
     }
@@ -2160,7 +2160,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Increased_Criminal_Activity:_SCAVENGERS",
@@ -2169,7 +2169,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Increased_Criminal_Activity:_Voodoo_Boys",
@@ -2178,7 +2178,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Increased Criminal Activity",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Just_Another_Story",
@@ -2187,7 +2187,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -2199,7 +2199,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Killing_In_The_Name",
@@ -2208,7 +2208,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Knockin%27_on_Heaven%27s_Door",
@@ -2217,7 +2217,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rogue_Amendiares",
       "name": "Rogue Amendiares"
     }
@@ -2229,7 +2229,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -2241,7 +2241,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
     }
@@ -2253,7 +2253,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Life_During_Wartime",
@@ -2262,7 +2262,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -2274,7 +2274,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -2286,7 +2286,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2298,7 +2298,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jean_Rochelin",
       "name": "Jean Rochelin"
     }
@@ -2310,7 +2310,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rosalind_Myers",
       "name": "Rosalind Myers"
     }
@@ -2322,7 +2322,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Machine_Gun",
@@ -2331,7 +2331,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Skippy",
       "name": "Skippy"
     }
@@ -2343,7 +2343,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
     }
@@ -2355,7 +2355,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Katya_Karelina",
       "name": "Katya Karelina"
     }
@@ -2367,7 +2367,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
     }
@@ -2379,7 +2379,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Ashlay",
       "name": "Ashlay"
     }
@@ -2391,7 +2391,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Never_Fade_Away_(quest)",
@@ -2400,7 +2400,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2412,7 +2412,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2424,7 +2424,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Bill_Mitchel",
       "name": "Bill Mitchel"
     }
@@ -2436,7 +2436,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Yaiba",
       "name": "Yaiba"
     }
@@ -2448,7 +2448,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Coach_Fred",
       "name": "Coach Fred"
     }
@@ -2460,7 +2460,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
     }
@@ -2472,7 +2472,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
     }
@@ -2484,7 +2484,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Nele_Springer",
       "name": "Nele Springer"
     }
@@ -2496,7 +2496,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Over_the_Edge",
@@ -2505,7 +2505,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Paid_in_Full",
@@ -2514,7 +2514,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Viktor_Vektor",
       "name": "Viktor Vektor"
     }
@@ -2526,7 +2526,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2538,7 +2538,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Pisces",
@@ -2547,7 +2547,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -2559,7 +2559,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -2571,7 +2571,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -2583,7 +2583,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
     }
@@ -2595,7 +2595,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
     }
@@ -2607,7 +2607,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -2619,7 +2619,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Regina_Jones",
       "name": "Regina Jones"
     }
@@ -2631,7 +2631,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -2643,7 +2643,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -2655,7 +2655,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -2667,7 +2667,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Pepe_Najarro",
       "name": "Pepe Najarro"
     }
@@ -2679,7 +2679,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Kerry_Eurodyne",
       "name": "Kerry Eurodyne"
     }
@@ -2691,7 +2691,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Another_Circle_of_Hell",
@@ -2700,7 +2700,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2712,7 +2712,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Comrade_Red",
@@ -2721,7 +2721,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2733,7 +2733,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Dangerous_Currents",
@@ -2742,7 +2742,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Delivery_From_Above",
@@ -2751,7 +2751,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Disloyal_Employee",
@@ -2760,7 +2760,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Don%27t_Forget_the_Parking_Brake!",
@@ -2769,7 +2769,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Dredged_Up",
@@ -2778,7 +2778,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Extremely_Loud_and_Incredibly_Close",
@@ -2787,7 +2787,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2799,7 +2799,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_I_Don%27t_Like_Sand",
@@ -2808,7 +2808,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Justice_Behind_Bars",
@@ -2817,7 +2817,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Lost_and_Found",
@@ -2826,7 +2826,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Needle_in_a_Haystack",
@@ -2835,7 +2835,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_One_Thing_Led_to_Another",
@@ -2844,7 +2844,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Paranoia",
@@ -2853,7 +2853,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Protect_and_Serve",
@@ -2862,7 +2862,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Roadside_Picnic",
@@ -2871,7 +2871,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Smoking_Kills",
@@ -2880,7 +2880,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2892,7 +2892,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2904,7 +2904,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Turn_Off_the_Tap",
@@ -2913,7 +2913,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Welcome_to_Night_City",
@@ -2922,7 +2922,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_Worldly_Possessions",
@@ -2931,7 +2931,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Reported_Crime:_You_Play_with_Fire...",
@@ -2940,7 +2940,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Reported Crime",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -2952,7 +2952,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -2964,7 +2964,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -2976,7 +2976,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -2988,7 +2988,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Search_and_Destroy",
@@ -2997,7 +2997,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Goro_Takemura",
       "name": "Goro Takemura"
     }
@@ -3009,7 +3009,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -3021,7 +3021,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Ozob_Bozo",
       "name": "Ozob Bozo"
     }
@@ -3033,7 +3033,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jake_Estevez",
       "name": "Jake Estevez"
     }
@@ -3045,7 +3045,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Muamar_Reyes",
       "name": "Muamar Reyes"
     }
@@ -3057,7 +3057,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Robert_Wilson",
       "name": "Robert Wilson"
     }
@@ -3069,7 +3069,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Mr._Hands",
       "name": "Mr. Hands"
     }
@@ -3081,7 +3081,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -3093,7 +3093,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Kirk_Sawyer",
       "name": "Kirk Sawyer"
     }
@@ -3105,7 +3105,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Space_Oddity",
@@ -3114,7 +3114,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Spellbound",
@@ -3123,7 +3123,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Nix",
       "name": "Nix"
     }
@@ -3135,7 +3135,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Spray_Paint",
@@ -3144,7 +3144,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Brendan",
       "name": "Brendan"
     }
@@ -3156,7 +3156,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Stairway_To_Heaven",
@@ -3165,7 +3165,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Zen_Master",
       "name": "Zen Master"
     }
@@ -3177,7 +3177,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3189,7 +3189,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3201,7 +3201,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3213,7 +3213,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3225,7 +3225,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3237,7 +3237,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3249,7 +3249,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3261,7 +3261,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Night_City_Police_Department",
       "name": "Night City Police Department"
     }
@@ -3273,7 +3273,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3285,7 +3285,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3297,7 +3297,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3309,7 +3309,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3321,7 +3321,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3333,7 +3333,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3345,7 +3345,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3357,7 +3357,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3369,7 +3369,7 @@
     "kind": "Minor Activity",
     "minor_activity_kind": "Suspected Organized Crime Activity",
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "NCPD",
       "name": "NCPD"
     }
@@ -3381,7 +3381,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Stefan",
       "name": "Stefan"
     }
@@ -3393,7 +3393,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -3405,7 +3405,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Johnny_Silverhand",
       "name": "Johnny Silverhand"
     }
@@ -3417,7 +3417,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "The_Beast_In_Me",
@@ -3426,7 +3426,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
     }
@@ -3438,7 +3438,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
     }
@@ -3450,7 +3450,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
     }
@@ -3462,7 +3462,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
     }
@@ -3474,7 +3474,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Claire_Russell",
       "name": "Claire Russell"
     }
@@ -3486,7 +3486,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Arthur_Jenkins",
       "name": "Arthur Jenkins"
     }
@@ -3498,7 +3498,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -3510,7 +3510,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jim_Jarry",
       "name": "Jim Jarry"
     }
@@ -3522,7 +3522,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "T-Bug",
       "name": "T-Bug"
     }
@@ -3534,7 +3534,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -3546,7 +3546,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Robert_Wilson",
       "name": "Robert Wilson"
     }
@@ -3558,7 +3558,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
     }
@@ -3570,7 +3570,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "The_Hunt",
@@ -3579,7 +3579,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "River_Ward",
       "name": "River Ward"
     }
@@ -3591,7 +3591,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
     }
@@ -3603,7 +3603,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Song_So_Mi",
       "name": "Song So Mi"
     }
@@ -3615,7 +3615,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Willie_McCoy",
       "name": "Willie McCoy"
     }
@@ -3627,7 +3627,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Dexter_DeShawn",
       "name": "Dexter DeShawn"
     }
@@ -3639,7 +3639,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Gerald_Winkler",
       "name": "Garry the Prophet"
     }
@@ -3651,7 +3651,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Wakako_Okada",
       "name": "Wakako Okada"
     }
@@ -3663,7 +3663,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
     }
@@ -3675,7 +3675,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Jackie_Welles",
       "name": "Jackie Welles"
     }
@@ -3687,7 +3687,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Steven_Santos",
       "name": "Steven Santos"
     }
@@ -3699,7 +3699,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Judy_%C3%81lvarez",
       "name": "Judy Álvarez"
     }
@@ -3711,7 +3711,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Pepe_Najarro",
       "name": "Pepe Najarro"
     }
@@ -3723,7 +3723,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Joshua_Stephenson",
       "name": "Joshua Stephenson"
     }
@@ -3735,7 +3735,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Thorton_Galena_%22Rattler%22",
       "name": "Thorton Galena 80845"
     }
@@ -3747,7 +3747,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Rachel_Casich",
       "name": "Rachel Casich"
     }
@@ -3759,7 +3759,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "This_Corrosion",
@@ -3768,7 +3768,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Through_Pain_to_Heaven",
@@ -3777,7 +3777,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -3789,7 +3789,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Totalimmortal",
@@ -3798,7 +3798,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Hanako_Arasaka",
       "name": "Hanako Arasaka"
     }
@@ -3810,7 +3810,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Brigitte",
       "name": "Brigitte"
     }
@@ -3822,7 +3822,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Delamain_(AI)",
       "name": "Delamain"
     }
@@ -3834,7 +3834,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Alena_Xenakis",
       "name": "Alena Xenakis"
     }
@@ -3846,7 +3846,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Viktor_Vektor",
       "name": "Viktor Vektor"
     }
@@ -3858,7 +3858,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Meredith_Stout",
       "name": "Meredith Stout"
     }
@@ -3870,7 +3870,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Lizzy_Wizzy",
       "name": "Lizzy Wizzy"
     }
@@ -3882,7 +3882,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Aurore_Cassel",
       "name": "Aurore Cassel"
     }
@@ -3894,7 +3894,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Frank_Nostra",
       "name": "Frank Nostra"
     }
@@ -3906,7 +3906,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -3918,7 +3918,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Welcome_Home:_Japantown",
@@ -3927,7 +3927,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Welcome_Home:_Northside",
@@ -3936,7 +3936,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Welcome_Home:_The_Glen",
@@ -3945,7 +3945,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Where_Eagles_Dare",
@@ -3954,7 +3954,7 @@
     "kind": "Minor Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Where_is_My_Mind%3F",
@@ -3963,7 +3963,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": null
+    "quest_giver": null
   },
   {
     "slug": "Who_Wants_to_Live_Forever",
@@ -3972,7 +3972,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
@@ -3984,7 +3984,7 @@
     "kind": "Side Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Panam_Palmer",
       "name": "Panam Palmer"
     }
@@ -3996,7 +3996,7 @@
     "kind": "Main Job",
     "minor_activity_kind": null,
     "gig_kind": null,
-    "quest_givers": {
+    "quest_giver": {
       "slug": "Solomon_Reed",
       "name": "Solomon Reed"
     }
