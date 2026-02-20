@@ -32,14 +32,14 @@ class JobBuilder:
         self.sub_districts: list[Link] = []
         self.locations: list[Link] = []
 
-        self.xp = None
-        self.street_cred = None
-        self.eddies = None
+        self.xp: Optional[int] = None
+        self.street_cred: Optional[int] = None
+        self.eddies: Optional[int] = None
 
-        self.items = []
+        self.items: list[Link] = []
 
-        self.quests_previous = []
-        self.quests_next = []
+        self.quests_previous: list[Link] = []
+        self.quests_next: list[Link] = []
 
     def build(self) -> Job:
         return Job(
@@ -137,7 +137,42 @@ def extract_from_aside(builder: JobBuilder, aside_node: Tag) -> None:
                 pass
 
             case "Rewards":
-                pass
+                for row_node in section_node.select("div.pi-data-value"):
+                    source = row_node["data-source"]
+                    if source.startswith("reward_"):
+                        reward_kind = source[len("reward_") :]
+                        match reward_kind:
+                            case "xp":
+                                reward_text = row_node.text.strip()
+                                if reward_text != "N/A":
+                                    builder.xp = int(reward_text.replace(",", ""))
+                            case "sc":
+                                reward_text = row_node.text.strip()
+                                if reward_text != "N/A":
+                                    builder.street_cred = int(
+                                        reward_text.replace(",", "")
+                                    )
+                            case "eb":
+                                reward_text = row_node.text.strip()
+                                if reward_text != "N/A":
+                                    if reward_text.endswith(" (dependent)"):
+                                        reward_text = reward_text[
+                                            : -len(" (dependent)")
+                                        ]
+                                    reward_text = reward_text.split("−", 1)[0].strip()
+                                    reward_text = reward_text.split("/", 1)[0].strip()
+                                    builder.eddies = int(reward_text.replace(",", ""))
+
+                            case "item":
+                                for link_node in row_node.select("a"):
+                                    builder.items.append(
+                                        Link(
+                                            slug=link_node["href"].rsplit("/", 1)[-1],
+                                            name=link_node.text.strip(),
+                                        )
+                                    )
+                            case _:
+                                raise ValueError(f"Unknown reward kind: {reward_kind}")
 
             case "Quest Chain":
                 pass

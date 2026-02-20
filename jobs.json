@@ -31,7 +31,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -87,7 +92,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Johnny%27s_aviators",
+        "name": "Johnny's aviators"
+      },
+      {
+        "slug": "Tattoo:_Johnny%27s_Special",
+        "name": "Tattoo: Johnny's Special"
+      },
+      {
+        "slug": "Tattoo:_Together_Forever",
+        "name": "Tattoo: Together Forever"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -120,8 +138,8 @@
         "name": "The Manufactory"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 2157,
+    "street_cred": 3235,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -156,10 +174,15 @@
         "name": "Red Dirt"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 773,
+    "street_cred": 1158,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Archangel",
+        "name": "Archangel"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -195,7 +218,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Dezerter",
+        "name": "Dezerter"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -287,7 +315,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Lizzie",
+        "name": "Lizzie"
+      },
+      {
+        "slug": "Cocktail_Stick",
+        "name": "Cocktail Stick"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -328,10 +365,15 @@
         "name": "Akuma"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 500,
+    "street_cred": 300,
+    "eddies": 5000,
+    "items": [
+      {
+        "slug": "Herrera_Outlaw_%22Weiler%22",
+        "name": "Herrera Outlaw \"Weiler\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -364,10 +406,19 @@
         "name": "Black Sapphire"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1832,
+    "street_cred": 167,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Carmen",
+        "name": "Carmen"
+      },
+      {
+        "slug": "Skill_Shard:_Solo",
+        "name": "Skill Shard: Solo"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -402,7 +453,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 50000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -434,7 +485,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "O%27Five",
+        "name": "O'Five"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -464,7 +520,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 4000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -495,7 +551,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 64000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -524,10 +580,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1919,
+    "street_cred": 2878,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Melee_Weapon_Vendor_(Animals)",
+        "name": "Animals Melee Weapon Vendor"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -558,7 +619,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Villefort_Alvarado_%22Vato%22",
+        "name": "Villefort Alvarado \"Vato\""
+      },
+      {
+        "slug": "%E2%82%AC$",
+        "name": "€$"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -589,7 +659,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -632,8 +707,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 990,
+    "items": [
+      {
+        "slug": "Scalpel",
+        "name": "Scalpel"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -685,7 +765,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Nokota_NDI_Osprey",
+        "name": "Nokota NDI Osprey"
+      },
+      {
+        "slug": "Behavioral_Imprint-synced_Faceplate",
+        "name": "Behavioral Imprint-synced Faceplate"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -761,8 +850,8 @@
         "name": "Silver Pixel Cloud"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 290,
+    "street_cred": 433,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -804,7 +893,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "Record player"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -837,8 +931,8 @@
         "name": "Judy's Apartment"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 578,
+    "street_cred": 866,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -908,9 +1002,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 261,
+    "street_cred": 391,
+    "eddies": 1940,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -942,7 +1036,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Trauma_Team_uniform",
+        "name": "Trauma Team uniform"
+      },
+      {
+        "slug": "Mini_Trauma_Team_AV",
+        "name": "Mini Trauma Team AV"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1020,7 +1123,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Replica_of_Johnny%27s_Samurai_jacket",
+        "name": "Replica of Johnny's Samurai jacket"
+      },
+      {
+        "slug": "Malorian_Arms_3516_(2077)",
+        "name": "Malorian Arms 3516 (2077)"
+      },
+      {
+        "slug": "Porsche_911_Turbo_(930)",
+        "name": "Porsche 911 Turbo (930)"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1124,9 +1240,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 344,
+    "eddies": 2900,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1155,9 +1271,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 293,
+    "eddies": 2550,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1186,9 +1302,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5800,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1222,9 +1338,9 @@
         "name": "Greene Homestead"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1253,9 +1369,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7950,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1289,9 +1405,9 @@
         "name": "Grand Imperial Mall"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1320,9 +1436,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 293,
+    "eddies": 2550,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1351,9 +1467,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7770,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1382,9 +1498,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7770,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1413,9 +1529,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 7950,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1444,9 +1560,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1475,9 +1591,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 344,
+    "eddies": 2900,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1511,9 +1627,9 @@
         "name": "Pacifica Pier"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 5400,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1542,9 +1658,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 1949,
+    "eddies": 5400,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1573,9 +1689,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 369,
+    "eddies": 2300,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1604,9 +1720,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 650,
+    "eddies": 6650,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1640,9 +1756,9 @@
         "name": "Totentanz"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 300,
+    "street_cred": 344,
+    "eddies": 2900,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -1678,8 +1794,21 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Baby_Boomer",
+        "name": "Baby Boomer"
+      },
+      {
+        "slug": "Lina_Malina%27s_T-shirt",
+        "name": "Lina Malina's T-shirt"
+      },
+      {
+        "slug": "Malina-mobile",
+        "name": "Malina-mobile"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1758,7 +1887,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Errata",
+        "name": "Errata"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1803,10 +1937,23 @@
         "name": "EBM Petrochem Stadium"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 3050,
+    "street_cred": 430,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Perk_Shard",
+        "name": "Perk Shard"
+      },
+      {
+        "slug": "BARGHEST_helmet",
+        "name": "BARGHEST helmet"
+      },
+      {
+        "slug": "Cyberware_Capacity_Shard",
+        "name": "Cyberware Capacity Shard"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1842,7 +1989,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Delamain_no._21",
+        "name": "Delamain no. 21"
+      },
+      {
+        "slug": "Delamain_Cab",
+        "name": "Delamain Cab"
+      },
+      {
+        "slug": "#cite_note-Note6-1",
+        "name": "[N 1]"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -1967,9 +2127,9 @@
         "name": "Reconciliation Park"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 2475,
+    "street_cred": 3711,
+    "eddies": 13720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2003,7 +2163,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Thorton_Colby_CX410_%22Gran_Butte%22",
+        "name": "Thorton Colby CX410 \"Gran Butte\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2072,9 +2237,9 @@
         "name": "Municipal Landfill"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2103,9 +2268,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2147,9 +2312,9 @@
         "name": "Delamain Corp Headquarters"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2178,9 +2343,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2209,9 +2374,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2240,9 +2405,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2271,9 +2436,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 504,
+    "street_cred": 1133,
+    "eddies": 1640,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2326,7 +2491,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Thorton_Mackinaw_%22Saguaro%22",
+        "name": "Thorton Mackinaw \"Saguaro\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2359,10 +2529,15 @@
         "name": "Clouds"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 578,
+    "street_cred": 866,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Death_and_Taxes",
+        "name": "Death and Taxes"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2431,7 +2606,24 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Murphy%27s_Law",
+        "name": "Murphy's Law"
+      },
+      {
+        "slug": "Fang",
+        "name": "Fang"
+      },
+      {
+        "slug": "Bald_Eagle",
+        "name": "Bald Eagle"
+      },
+      {
+        "slug": "Wild_Dog",
+        "name": "Wild Dog"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2467,7 +2659,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crash",
+        "name": "Crash"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      },
+      {
+        "slug": "River%27s_tank_top",
+        "name": "River's tank top"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2493,7 +2698,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Misty%27s_Dreamcatcher",
+        "name": "Misty's Dreamcatcher"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2524,7 +2734,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Prejudice",
+        "name": "Prejudice"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2667,7 +2882,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Rayfield_Caliburn_%22Mordred%22",
+        "name": "Rayfield Caliburn \"Mordred\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2703,7 +2923,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quantum_Tuner",
+        "name": "Quantum Tuner"
+      },
+      {
+        "slug": "Metal_pin",
+        "name": "Metal pin"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2731,9 +2960,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 346,
+    "street_cred": 778,
+    "eddies": 830,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2795,7 +3024,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Her_Majesty",
+        "name": "Her Majesty"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2855,7 +3089,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Widow_Maker",
+        "name": "Widow Maker"
+      },
+      {
+        "slug": "Archer_Quartz_%22Bandit%22",
+        "name": "Archer Quartz \"Bandit\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -2890,7 +3133,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3410,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2926,7 +3169,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6260,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2962,7 +3205,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 7120,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -2993,7 +3236,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2930,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3027,9 +3270,9 @@
         "name": "Big Pete's garage"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 13500,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3065,7 +3308,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3610,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3101,7 +3344,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6340,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3135,9 +3378,9 @@
         "name": "Building"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 8300,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3171,9 +3414,9 @@
         "name": "Megabuilding H11"
       }
     ],
-    "xp": null,
+    "xp": 214,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 1560,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3202,10 +3445,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 770,
+    "eddies": 9600,
+    "items": [
+      {
+        "slug": "Hypercritical",
+        "name": "Hypercritical"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -3240,7 +3488,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 5720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3276,7 +3524,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2320,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3316,7 +3564,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 17610,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3345,9 +3593,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 314,
+    "street_cred": 707,
+    "eddies": 1930,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3381,9 +3629,9 @@
         "name": "Haven Clinic"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3414,7 +3662,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2710,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3450,7 +3698,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 7120,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3484,10 +3732,19 @@
         "name": "Parking lot"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 16600,
+    "items": [
+      {
+        "slug": "Second_Conflict_flight_jacket",
+        "name": "Second Conflict flight jacket"
+      },
+      {
+        "slug": "Johnny%27s_shoes",
+        "name": "Johnny's shoes"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -3520,9 +3777,9 @@
         "name": "House"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 5720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3558,7 +3815,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3170,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3592,10 +3849,15 @@
         "name": "Hotel Raito"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 70,
+    "eddies": 6170,
+    "items": [
+      {
+        "slug": "Skill_Shard:_Headhunter",
+        "name": "Skill Shard: Headhunter"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -3630,7 +3892,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 1390,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3659,9 +3921,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
+    "xp": 712,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2240,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3695,9 +3957,9 @@
         "name": "Old Paint Factory"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 14030,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3737,7 +3999,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 7778,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3768,7 +4030,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3799,7 +4061,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 9050,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3833,9 +4095,9 @@
         "name": "Megabuilding H1"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 760,
+    "street_cred": 1710,
+    "eddies": 19230,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3866,7 +4128,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 8580,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3900,9 +4162,9 @@
         "name": "Building"
       }
     ],
-    "xp": null,
+    "xp": 435,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2450,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -3938,7 +4200,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 19230,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4003,10 +4265,15 @@
         "name": "Golden Pacific"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 4000,
+    "items": [
+      {
+        "slug": "Crimestopper",
+        "name": "Crimestopper"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4039,9 +4306,9 @@
         "name": "Clean Cut"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 707,
+    "eddies": 3000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4075,9 +4342,9 @@
         "name": "Data Inc. Store"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 760,
+    "street_cred": 1710,
+    "eddies": 20910,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4117,7 +4384,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3100,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4148,7 +4415,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 4110,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4179,7 +4446,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3100,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4210,7 +4477,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6940,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4239,10 +4506,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 21780,
+    "items": [
+      {
+        "slug": "Reinforced-laminate_military_flight_jacket",
+        "name": "Reinforced-laminate military flight jacket"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4275,9 +4547,9 @@
         "name": "Revere Courier Services warehouse"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 707,
+    "eddies": 3000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4311,10 +4583,15 @@
         "name": "Ho-Oh"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 647,
+    "eddies": 2800,
+    "items": [
+      {
+        "slug": "Denki-shin_thermoset_hybrid_crystaljock_bomber",
+        "name": "Denki-shin thermoset hybrid crystaljock bomber"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4344,7 +4621,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 17610,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4378,10 +4655,15 @@
         "name": "Edgewood Ln."
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 13500,
+    "items": [
+      {
+        "slug": "DR-12_Quasar",
+        "name": "DR-12 Quasar"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4420,7 +4702,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 4860,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4456,7 +4738,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 5180,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4485,9 +4767,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
+    "xp": 550,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4523,7 +4805,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3250,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4557,9 +4839,9 @@
         "name": "Kashuu Hanten"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 484,
+    "eddies": 2230,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4597,10 +4879,15 @@
         "name": "Longshore Stacks"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Zetatech_Sandevistan",
+        "name": "Zetatech Sandevistan"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4628,10 +4915,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 5700,
+    "items": [
+      {
+        "slug": "Johnny%27s_pants",
+        "name": "Johnny's pants"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4664,9 +4956,9 @@
         "name": "Kendachi Factory"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 1960,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4704,10 +4996,15 @@
         "name": "Lone Star Motel"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 21780,
+    "items": [
+      {
+        "slug": "Militech_heavy_tactical_vest",
+        "name": "Militech heavy tactical vest"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4735,9 +5032,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 707,
+    "eddies": 3000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4771,10 +5068,15 @@
         "name": "Weapons factory"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 4000,
+    "items": [
+      {
+        "slug": "Hercules_3AX",
+        "name": "Hercules 3AX"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -4802,9 +5104,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 906,
+    "eddies": 4800,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4840,7 +5142,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 7580,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4874,9 +5176,9 @@
         "name": "Dewdrop Inn"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2940,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4910,9 +5212,9 @@
         "name": "Cytech Factory"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6340,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4943,7 +5245,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 1240,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -4974,7 +5276,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2930,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5008,9 +5310,9 @@
         "name": "Warbler Lake Hazardous Waste Facility"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 14030,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5048,10 +5350,15 @@
         "name": "Organitopia"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 3000,
+    "items": [
+      {
+        "slug": "Pizdets",
+        "name": "Pizdets"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5086,7 +5393,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 18200,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5124,9 +5431,9 @@
         "name": "Luxor Heights"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5162,7 +5469,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 7270,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5193,7 +5500,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 3930,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5229,7 +5536,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 12820,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5263,9 +5570,9 @@
         "name": "Longshore Stacks"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5294,9 +5601,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
+    "xp": 1000,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 24100,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5330,10 +5637,15 @@
         "name": "Luxor High Wellness Spa"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Ogou",
+        "name": "Ogou"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5366,9 +5678,9 @@
         "name": "Highway 101"
       }
     ],
-    "xp": null,
+    "xp": 760,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 9030,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5402,9 +5714,9 @@
         "name": "Residence building"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 590,
+    "eddies": 2600,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5433,9 +5745,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 1710,
+    "eddies": 21780,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5471,7 +5783,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5505,9 +5817,9 @@
         "name": "Apartment"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 1136,
+    "eddies": 4200,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5536,10 +5848,19 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Volkodav",
+        "name": "Volkodav"
+      },
+      {
+        "slug": "Rosco",
+        "name": "Rosco"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5574,7 +5895,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 6000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5610,7 +5931,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2720,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5639,10 +5960,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1000,
+    "street_cred": 590,
+    "eddies": 2600,
+    "items": [
+      {
+        "slug": "M-10AF_Lexington",
+        "name": "M-10AF Lexington"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5675,9 +6001,9 @@
         "name": "Kabuki Market"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1000,
+    "street_cred": 590,
+    "eddies": 7800,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -5754,7 +6080,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Ambition",
+        "name": "Ambition"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5775,7 +6106,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Seraph",
+        "name": "Seraph"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5800,8 +6136,8 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1438,
+    "street_cred": 3235,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -5884,10 +6220,23 @@
         "name": "Jackie's Garage"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 300,
+    "street_cred": 446,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Jackie%27s_ARCH",
+        "name": "Jackie's ARCH"
+      },
+      {
+        "slug": "La_Chingona_Dorada",
+        "name": "La Chingona Dorada"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "Jackie's Pin-up Posters"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5923,7 +6272,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quadra_Sport_R-7_%22Sterling%22",
+        "name": "Quadra Sport R-7 \"Sterling\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -5960,8 +6314,8 @@
         "name": "Villa Eurodyne"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 773,
+    "street_cred": 1158,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -6000,7 +6354,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "NUSA_suit",
+        "name": "NUSA suit"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6069,7 +6428,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Archer_Hella_EC-D_i360_(V%27s)",
+        "name": "Archer Hella EC-D i360"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6102,10 +6466,19 @@
         "name": "Mobile Camp"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 2303,
+    "street_cred": 3453,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Stinger",
+        "name": "Stinger"
+      },
+      {
+        "slug": "Action_Figure",
+        "name": "Action Figure"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6136,7 +6509,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quadra_Type-66_%22Hoon%22",
+        "name": "Quadra Type-66 \"Hoon\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6172,7 +6550,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Netrunner_suit",
+        "name": "Netrunner suit"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6241,8 +6624,8 @@
         "name": "Riot"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 587,
+    "street_cred": 1321,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -6313,10 +6696,15 @@
         "name": "Peralezes' Apartment"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 2826,
+    "street_cred": 4238,
+    "eddies": 17140,
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "Peralez Campaign Poster"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6447,7 +6835,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Raiju",
+        "name": "Raiju"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6484,7 +6877,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Sparky",
+        "name": "Sparky"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6517,7 +6915,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Agaou",
+        "name": "Agaou"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6543,7 +6946,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "AUTOFIXER%27S_DISCOUNT_EXTRAVAGANZZZA",
+        "name": "AUTOFIXER'S DISCOUNT EXTRAVAGANZZZA"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6584,7 +6992,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quickhack",
+        "name": "quickhacks"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6618,9 +7031,9 @@
         "name": "V's Apartment"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1152,
+    "street_cred": 1727,
+    "eddies": 6220,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -6652,7 +7065,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Pride",
+        "name": "Pride"
+      },
+      {
+        "slug": "Caretaker%27s_Spade",
+        "name": "Caretaker's Spade"
+      },
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6673,7 +7099,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Axolotl",
+        "name": "Axolotl"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6704,7 +7135,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Genjiroh",
+        "name": "Genjiroh"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6732,7 +7168,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "NUSA_distinction",
+        "name": "NUSA distinction"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6773,10 +7214,15 @@
         "name": "Sunset Motel"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1994,
+    "street_cred": 2658,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Scorpion%27s_Apollo",
+        "name": "Scorpion's Apollo"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6936,7 +7382,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Active_Chimera_Core",
+        "name": "Active Chimera Core"
+      },
+      {
+        "slug": "Hawk",
+        "name": "Hawk"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6964,7 +7419,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Butcher%27s_Cleaver",
+        "name": "Butcher's Cleaver"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -6992,9 +7452,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
+    "xp": 570,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 12420,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -7026,7 +7486,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Zen_Master",
+        "name": "Zen Master"
+      },
+      {
+        "slug": "Altar",
+        "name": "Altar"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7065,7 +7538,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 17500,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -7097,7 +7570,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Yaiba_ARV-Q340_Semimaru",
+        "name": "Yaiba ARV-Q340 Semimaru"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7133,7 +7611,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quadra_Sport_R-7_%22Charon%22",
+        "name": "Quadra Sport R-7 \"Charon\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7166,7 +7649,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Rayfield_Caliburn_%22Murkmobile%22",
+        "name": "Rayfield Caliburn \"Murkmobile\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7285,9 +7773,9 @@
         "name": "Coyoacan"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 2000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -7336,7 +7824,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Yaiba_ASM-R250_Muramasa",
+        "name": "Yaiba ASM-R250 Muramasa"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7379,8 +7872,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 5000,
+    "items": [
+      {
+        "slug": "Cheetah",
+        "name": "Cheetah"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7518,7 +8016,7 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 2280,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -7560,7 +8058,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "David%27s_Jacket",
+        "name": "David's Jacket"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7700,10 +8203,15 @@
         "name": "Cherry Blossom Market"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 578,
+    "street_cred": 866,
+    "eddies": 0,
+    "items": [
+      {
+        "slug": "Tsumetogi",
+        "name": "Tsumetogi"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7734,7 +8242,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Jinchu-Maru",
+        "name": "Jinchu-Maru"
+      },
+      {
+        "slug": "Genjiroh",
+        "name": "Genjiroh"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7870,7 +8387,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Byakko",
+        "name": "Byakko"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7901,7 +8423,24 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Chrome_Compressor",
+        "name": "Chrome Compressor"
+      },
+      {
+        "slug": "Pax",
+        "name": "Pax"
+      },
+      {
+        "slug": "Cyberware_Capacity_Shard",
+        "name": "Cyberware Capacity Shard"
+      },
+      {
+        "slug": "Trauma_Team_armor-weave_tactical_vest",
+        "name": "Trauma Team armor-weave tactical vest"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -7972,7 +8511,40 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Judy%27s_Apartment",
+        "name": "Judy's Apartment"
+      },
+      {
+        "slug": "Apartments",
+        "name": "apartment"
+      },
+      {
+        "slug": "Mox_(weapon)",
+        "name": "Mox (weapon)"
+      },
+      {
+        "slug": "MaxTac_tactical_helmet_with_multifunction_infovisor",
+        "name": "MaxTac tactical helmet with multifunction infovisor"
+      },
+      {
+        "slug": "MaxTac_multilayered_armor-weave_Jacket",
+        "name": "MaxTac multilayered armor-weave Jacket"
+      },
+      {
+        "slug": "Heavy-duty_MaxTac_cargo_pants",
+        "name": "Heavy-duty MaxTac cargo pants"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8013,8 +8585,8 @@
         "name": "Nomad Camp"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1322,
+    "street_cred": 1981,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -8055,7 +8627,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 1300,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -8088,9 +8660,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 587,
+    "street_cred": 1321,
+    "eddies": 21470,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -8271,10 +8843,15 @@
         "name": "MedCenter"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 300,
+    "street_cred": 147,
+    "eddies": 1500,
+    "items": [
+      {
+        "slug": "Old_spotted_trench_coat",
+        "name": "Old spotted trench coat"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8307,7 +8884,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Antisurge_ICE-protected_netrunner_infovisor",
+        "name": "Antisurge ICE-protected netrunner infovisor"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8620,10 +9202,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 66,
+    "street_cred": 147,
+    "eddies": 970,
+    "items": [
+      {
+        "slug": "Blood_Pump",
+        "name": "Blood Pump"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8859,9 +9446,9 @@
         "name": "Columbarium"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 66,
+    "street_cred": 147,
+    "eddies": 970,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -8914,7 +9501,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Bloody_Maria",
+        "name": "Bloody Maria"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8963,10 +9555,19 @@
         "name": "Ingalls' Farm"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 1158,
+    "street_cred": 1737,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Overwatch",
+        "name": "Overwatch"
+      },
+      {
+        "slug": "Problem_Solver",
+        "name": "Problem Solver"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -8996,8 +9597,13 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Mancinella",
+        "name": "Mancinella"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9027,10 +9633,15 @@
         "name": "Cargo Bay"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 872,
+    "street_cred": 1306,
+    "eddies": 1000,
+    "items": [
+      {
+        "slug": "Fenrir",
+        "name": "Fenrir"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9110,7 +9721,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Gold-plated_baseball_bat",
+        "name": "Gold-plated baseball bat"
+      },
+      {
+        "slug": "Doom_Doom",
+        "name": "Doom Doom"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9145,8 +9765,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 3920,
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Ozob%27s_Nose",
+        "name": "Crafting Spec: Ozob's Nose"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9182,7 +9807,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Quadra_Turbo-R_V-Tech",
+        "name": "Quadra Turbo-R V-Tech"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9212,8 +9842,13 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 37000,
+    "items": [
+      {
+        "slug": "Porsche_911_Turbo_Cabriolet_(930)",
+        "name": "Porsche 911 Turbo Cabriolet (930)"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9248,8 +9883,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 500,
+    "items": [
+      {
+        "slug": "Lexington_x-MOD2",
+        "name": "Lexington x-MOD2"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9290,10 +9930,19 @@
         "name": "Cynosure Site D"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 5000,
+    "items": [
+      {
+        "slug": "Riskit",
+        "name": "Riskit"
+      },
+      {
+        "slug": "Ol%27_Reliable",
+        "name": "Ol' Reliable"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9328,7 +9977,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 0,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -9360,7 +10009,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "SEMURAI_crystaljock_bomber",
+        "name": "SEMURAI crystaljock bomber"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9397,7 +10051,24 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crowbar_(iconic)",
+        "name": "Crowbar (iconic)"
+      },
+      {
+        "slug": "Erebus",
+        "name": "Erebus"
+      },
+      {
+        "slug": "Militech_Canto",
+        "name": "Militech Canto"
+      },
+      {
+        "slug": "Behavioral_system_component",
+        "name": "Behavioral system component"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9426,10 +10097,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
+    "xp": 768,
+    "street_cred": 1727,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Untitled_18_%E2%80%93_Brancesi,_2021",
+        "name": "Untitled 18 – Brancesi, 2021"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9466,9 +10142,9 @@
         "name": "Afterlife"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 206,
+    "street_cred": 308,
+    "eddies": 15000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -9574,7 +10250,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Divided_We_Stand",
+        "name": "Divided We Stand"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9664,10 +10345,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 300,
+    "street_cred": 570,
+    "eddies": 4100,
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Ashura",
+        "name": "Crafting Spec: Ashura"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9698,7 +10384,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Psalm_11:6",
+        "name": "Crafting Spec: Psalm 11:6"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9729,7 +10420,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Yinglong",
+        "name": "Crafting Spec: Yinglong"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9760,7 +10456,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec",
+        "name": "Crafting Spec"
+      },
+      {
+        "slug": "Sovereign",
+        "name": "Sovereign"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9791,7 +10496,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Breakthrough",
+        "name": "Crafting Spec: Breakthrough"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9855,10 +10565,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 300,
+    "street_cred": 147,
+    "eddies": 1500,
+    "items": [
+      {
+        "slug": "Crafting_Spec:_M2067_Defender",
+        "name": "Crafting Spec: M2067 Defender"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9894,7 +10609,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_The_Headsman",
+        "name": "Crafting Spec: The Headsman"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -9956,7 +10676,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Buzzsaw",
+        "name": "Crafting Spec: Buzzsaw"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10023,7 +10748,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Comrade%27s_Hammer",
+        "name": "Crafting Spec: Comrade's Hammer"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10157,7 +10887,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Crafting_Spec:_Moron_Labe",
+        "name": "Crafting Spec: Moron Labe"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10194,9 +10929,9 @@
         "name": "Scavenger Den"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 2303,
+    "street_cred": 3453,
+    "eddies": 25600,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -10230,8 +10965,8 @@
         "name": "Judy's Apartment"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 578,
+    "street_cred": 866,
     "eddies": null,
     "items": [],
     "quests_previous": [],
@@ -10281,7 +11016,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Johnny%27s_tank_top",
+        "name": "Johnny's tank top"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10350,7 +11090,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Thorton_Mackinaw_%22Beast%22",
+        "name": "Thorton Mackinaw \"Beast\""
+      },
+      {
+        "slug": "Quadra_Type-66_%22Cthulhu%22",
+        "name": "Quadra Type-66 \"Cthulhu\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10387,9 +11136,9 @@
         "name": "Laguna Bend Dam"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 486,
+    "street_cred": 728,
+    "eddies": 3860,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -10430,9 +11179,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 486,
+    "street_cred": 728,
+    "eddies": 3860,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -10465,9 +11214,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 486,
+    "street_cred": 728,
+    "eddies": 3860,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -10496,9 +11245,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 728,
+    "street_cred": 1092,
+    "eddies": 5790,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -10539,7 +11288,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "Arasaka clock"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10579,7 +11333,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Gris-Gris",
+        "name": "Gris-Gris"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10629,8 +11388,13 @@
     "locations": [],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 10000,
+    "items": [
+      {
+        "slug": "AUTOFIXER%27S_DISCOUNT_EXTRAVAGANZZZA!",
+        "name": "AUTOFIXER'S DISCOUNT EXTRAVAGANZZZA!"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10666,7 +11430,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Ping",
+        "name": "Ping"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10701,8 +11470,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 3380,
+    "items": [
+      {
+        "slug": "Tattoo:_Tyger_Claws_Dermal_Imprint",
+        "name": "Tattoo: Tyger Claws Dermal Imprint"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10738,7 +11512,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Dying_Night",
+        "name": "Dying Night"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10786,7 +11565,32 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Relic",
+        "name": "Relic"
+      },
+      {
+        "slug": "Kongou",
+        "name": "Kongou"
+      },
+      {
+        "slug": "Satori",
+        "name": "Satori"
+      },
+      {
+        "slug": "Iguana_Egg",
+        "name": "Iguana Egg"
+      },
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      },
+      {
+        "slug": "Nehan",
+        "name": "Nehan"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10814,7 +11618,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "ARCH_Nazar%C3%A9_%22Itsumade%22",
+        "name": "ARCH Nazaré \"Itsumade\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10871,10 +11680,15 @@
         "name": "Poppy Farm"
       }
     ],
-    "xp": null,
-    "street_cred": null,
+    "xp": 2598,
+    "street_cred": 3896,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Tinker_Bell",
+        "name": "Tinker Bell"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10910,7 +11724,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Braindance_Wreath",
+        "name": "Braindance Wreath"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10941,7 +11760,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Pariah",
+        "name": "Pariah"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -10989,7 +11813,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "Car model"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11025,7 +11854,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Chaos",
+        "name": "Chaos"
+      },
+      {
+        "slug": "Black_Lace",
+        "name": "Black Lace"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11185,7 +12023,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Basic_Kiroshi_Optics",
+        "name": "Basic Kiroshi Optics"
+      },
+      {
+        "slug": "Ballistic_Coprocessor",
+        "name": "Ballistic Coprocessor"
+      },
+      {
+        "slug": "Subdermal_Armor",
+        "name": "Subdermal Armor"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11213,9 +12064,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1832,
+    "street_cred": 167,
+    "eddies": 3000,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -11296,7 +12147,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "Night City diorama"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11324,9 +12180,9 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1347,
+    "street_cred": 2021,
+    "eddies": 4600,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -11363,7 +12219,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Thorton_Galena_%22Rattler%22",
+        "name": "Thorton Galena \"Rattler\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11396,9 +12257,9 @@
         "name": "Fourth Wall Studios"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
+    "xp": 1347,
+    "street_cred": 2021,
+    "eddies": 3100,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -11468,7 +12329,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Militech_Canto",
+        "name": "Militech Canto"
+      },
+      {
+        "slug": "Erebus",
+        "name": "Erebus"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11558,7 +12428,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Access_Token",
+        "name": "Access Token"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11633,7 +12508,7 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
+    "eddies": 4900,
     "items": [],
     "quests_previous": [],
     "quests_next": []
@@ -11670,7 +12545,12 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "%22It%27s_Always_Sunny_in_Monte_Carlo%22",
+        "name": "\"It's Always Sunny in Monte Carlo\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11691,7 +12571,20 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Kiroshi_%22Sentry%22_Optics",
+        "name": "Kiroshi \"Sentry\" Optics"
+      },
+      {
+        "slug": "Smart_Link",
+        "name": "Smart Link"
+      },
+      {
+        "slug": "Subdermal_Armor",
+        "name": "Subdermal Armor"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11768,10 +12661,23 @@
         "name": "Riot"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 588,
+    "street_cred": 882,
+    "eddies": 1900,
+    "items": [
+      {
+        "slug": "Memorabilia",
+        "name": "memorabilia"
+      },
+      {
+        "slug": "Phantom_Liberty",
+        "name": ""
+      },
+      {
+        "slug": "Amikiri_Sound_Cutter",
+        "name": "Amikiri Sound Cutter"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11806,8 +12712,13 @@
     ],
     "xp": null,
     "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "eddies": 8000,
+    "items": [
+      {
+        "slug": "Rook",
+        "name": "Rook"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11835,10 +12746,15 @@
       }
     ],
     "locations": [],
-    "xp": null,
-    "street_cred": null,
+    "xp": 2303,
+    "street_cred": 3453,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Apparition",
+        "name": "Apparition"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -11869,7 +12785,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Aldecaldos_rally_bolero_jacket",
+        "name": "Aldecaldos rally bolero jacket"
+      },
+      {
+        "slug": "Amnesty",
+        "name": "Amnesty"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -12029,7 +12954,16 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Yaiba_ARV-Q340_Semimaru",
+        "name": "Yaiba ARV-Q340 Semimaru"
+      },
+      {
+        "slug": "CrystalCoat",
+        "name": "CrystalCoat"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -12125,10 +13059,15 @@
         "name": "Corp-Bud Railroad Station"
       }
     ],
-    "xp": null,
-    "street_cred": null,
-    "eddies": null,
-    "items": [],
+    "xp": 1322,
+    "street_cred": 1981,
+    "eddies": 42940,
+    "items": [
+      {
+        "slug": "Mizutani_Shion_%22Bonewrecker%22",
+        "name": "\"Bonewrecker\""
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   },
@@ -12164,7 +13103,24 @@
     "xp": null,
     "street_cred": null,
     "eddies": null,
-    "items": [],
+    "items": [
+      {
+        "slug": "Tsunami_Rasetsu",
+        "name": "Tsunami Rasetsu"
+      },
+      {
+        "slug": "Stylish_suit",
+        "name": "Stylish suit"
+      },
+      {
+        "slug": "Amikiri_Sound_Cutter",
+        "name": "Amikiri Sound Cutter"
+      },
+      {
+        "slug": "Bootleg_BD_from_Lizzy_Wizzy%27s_Black_Sapphire_show",
+        "name": "Bootleg BD from Lizzy Wizzy's Black Sapphire show"
+      }
+    ],
     "quests_previous": [],
     "quests_next": []
   }
