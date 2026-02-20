@@ -28,9 +28,9 @@ class JobBuilder:
         self.gig_kind: Optional[GigKind] = None
 
         self.quest_giver: Optional[Link] = None
-        self.district: Optional[Link] = None
-        self.sub_districts = []
-        self.locations = []
+        self.districts: list[Link] = []
+        self.sub_districts: list[Link] = []
+        self.locations: list[Link] = []
 
         self.xp = None
         self.street_cred = None
@@ -50,7 +50,7 @@ class JobBuilder:
             minor_activity_kind=self.minor_activity_kind,
             gig_kind=self.gig_kind,
             quest_giver=self.quest_giver,
-            district=self.district,
+            districts=self.districts,
             sub_districts=self.sub_districts,
             locations=self.locations,
             xp=self.xp,
@@ -107,10 +107,30 @@ def extract_from_aside(builder: JobBuilder, aside_node: Tag) -> None:
                                 )
 
                         case "District":
-                            if link_node := row_node.select_one("div.pi-data-value a"):
-                                builder.district = Link(
-                                    slug=link_node["href"].rsplit("/", 1)[-1],
-                                    name=link_node.text.strip(),
+                            for link_node in row_node.select("div.pi-data-value a"):
+                                builder.districts.append(
+                                    Link(
+                                        slug=link_node["href"].rsplit("/", 1)[-1],
+                                        name=link_node.text.strip(),
+                                    )
+                                )
+
+                        case "Sub-District":
+                            for link_node in row_node.select("div.pi-data-value a"):
+                                builder.sub_districts.append(
+                                    Link(
+                                        slug=link_node["href"].rsplit("/", 1)[-1],
+                                        name=link_node.text.strip(),
+                                    )
+                                )
+
+                        case "Location(s)":
+                            for link_node in row_node.select("div.pi-data-value a"):
+                                builder.locations.append(
+                                    Link(
+                                        slug=link_node["href"].rsplit("/", 1)[-1],
+                                        name=link_node.text.strip(),
+                                    )
                                 )
 
             case "Additional":

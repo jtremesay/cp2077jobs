@@ -47,7 +47,7 @@ class Job(BaseModel):
     gig_kind: Optional[GigKind] = None
 
     quest_giver: Optional[Link] = None
-    district: Optional[Link] = None
+    districts: list[Link] = Field(default_factory=list)
     sub_districts: list[Link] = Field(default_factory=list)
     locations: list[Link] = Field(default_factory=list)
 
